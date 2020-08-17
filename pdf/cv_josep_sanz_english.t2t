@@ -1,0 +1,734 @@
+﻿Professional Profile
+Josep Sanz Campderrós.
+
+
+
++Personal Data+
+
+[beginleft]
+
+- Josep Sanz Campderrós.
+- Born in Barcelona on December 7, 1976.
+- Nationality: Spain.
+- Marital status: Married.
+- EMail: josep.sanz@saltos.org
+- Web: www.josepsanz.net & www.saltos.org
+- Github: https://github.com/josepsanzcamp
+- Sourceforge: https://sourceforge.net/u/josepsanzcamp/profile
+- Linkedin: https://www.linkedin.com/in/josepsanz/
+- Mastodon: https://mastodont.cat/@josepsanzcamp
+- Facebook: https://www.facebook.com/josep.sanz.56
+- --Twitter: https://twitter.com/josepsanzcamp--
+
+
+[endleft]
+[beginright]
+[images/foto_josep_sanz_small.jpg]
+[endright]
+
++Academic achievements+
+
+- Computer Engineer (UPC).
+- Degree of Computer Applications Development.
+- Technician in Telecommunications Electronics.
+
+
++Other trainings+
+
+- AutoCAD basic course
+- Driving license B1
+- Seminar on computer network security
+- Distributed Java Programming with CORBA
+- ALTERA's FPGA Seminar
+- Seminar Echelon - LonWorks
+- Law enforcement Seminar on Data Protection.
+
+
++Brief resume+
+
+- I performed R+D throughout my career.
+- In my business project, Wide Spectrum Software Solutions, I directed the SaltOS and RhinOS projects and their release under the GPL-3.0 license.
+- I've been a member of the CatPL, Association of Free Software Business of Catalonia.
+- I have worked in research environments such as the Institute of Space Studies of Catalonia and the Technical University of Catalonia at Dept. of Applied Physics.
+
+
++Professional experience+
+
+++AB Custom Group - Road or rail transportation (since 2019)++
+
+Developments for GNU/Linux environments and integration of SaltOS in all business areas:
+- Documentation recognition systems using OCR, bar codes and QR codes.
+- Integration of SaltOS in all the business areas of the company.
+- Automation of processes using embedded systems based on Raspberry PI
+
+
+++Institute of Space Studies of Catalonia (2011-2019)++
+
+Developments for GNU/Linux environments to control robotic telescopes:
+- Development of OpenROCS 2.0 (GPL-3.0 license), the control software used by the TJO and SQT telescopes.
+- Development of the www.oadm.cat for the divulgation of the TJO telescope, the www.ice.csic.es for the ICE and the www.ieec.cat for the IEEC.
+- Development of the MUR application: an online software for sending astronomical proposals.
+- Fork of the IndiCCD project to allow the control of multiple Andor cameras.
+- User interface and control system for the SQT telescope, the Allsky camera and the IEEC-CSIC telescope.
+
+
+++Wide Spectrum Software Solutions (2007-2011 in R+D Dept.)++
+
+Developments for GNU/Linux, MONO, Firmware, PDAs and web environments:
+- Development of the SaltOS and RhinOS projects released under the GPL-3.0 license.
+- Project for the NTE/ESA to do some parts of the unit-test of the LISA Pathfinder project.
+- Project for the IEEC to make improvements in the GOLD-RTR project (v2 and v3).
+- Multiple web projects (portals and online shops) to different customers.
+
+
+++Enfasystem (2006-2007 in R+D Dept.)++
+
+Developments for WEB using LAMP environments (Linux+Apache+MySQL+PHP):
+- Improvement of the "admin" control panel (RhinOS in the future)
+- Development of the "mecano" project (RhinOS in the future)
+- Development of the DBMailer project (RhinOS in the future)
+- Several collaborations with IEEC for the PARIS and GOLD-RTR projects
+
+
+++Information Engineering, IN2 (2005-2006 as team's chief)++
+
+Software development for GNU/Linux and Windows CE.
+- Use of security tools like Snort.
+- Programming of mobile devices using EVC++ 3.0 for PDA devices
+- Programming in C, PHP, .NET
+- Use of DBMS such as MySQL, ORACLE
+
+
+++Institute of Space Studies of Catalonia (2001-2005)++
+
+Development of software for UNIX environments.
+- Design and implementation of hardware and drivers.
+- Planning and implementation of software for various projects.
+- Programming in C with GTK, Tcl/Tk on Unix tcsh.
+
+
+++Universitat Politècnica de Catalunya, Dept. of Applied Physics (1999-2001)++
+
+Administration of Unix Systems and Microsoft Windows
+- Implementation of network security systems (SSL)
+- Security audits for the computer systems of the department
+- Software development and maintenance of the department's intranet
+- Software development for the Generalitat de Catalunya (SIGMA and NivAval)
+- Collaborations with the WAFAE association.
+- Support to users, and so on.
+
+
+++INCOSE, ingeniería de contrataciones y servicios (1997-1999)++
+
+Installation and maintenance of industrial equipment.
+- Programming of PLC's for industrial applications.
+- Installation of electrical boards and waste treatment systems.
+
+
+++GESTHOS, gestión técnica hospitalaria (1996-1997)++
+
+Assembly and maintenance of electromedical equipment.
+- Repair of medical equipment.
+- Specification and implementation of equipment for technical tests.
+
+
++Languages+
+
+- Spanish native (read, written and spoken).
+- Catalan native (read, written and spoken).
+- Technical English (intermediate level for read, write and speak).
+
+
+[newpage]
+
++Annex (detailed professional experience)+
+
+++AB Custom Group - Road or rail transportation (since 2019)++
+
+Developments for GNU/Linux environments and integration of SaltOS in all business areas:
+- Documentation recognition systems using OCR, bar codes and QR codes.
+- Integration of SaltOS in all the business areas of the company.
+- Automation of processes using embedded systems based on Raspberry PI
+
+
+++Institute of Space Studies of Catalonia (2011-2019)++
+
+Developments for GNU/Linux environments to control robotic telescopes:
+- Development of OpenROCS 2.0 (GPL-3.0 license), the control software used by the TJO and SQT telescopes.
+- Development of the www.oadm.cat for the divulgation of the TJO telescope, the www.ice.csic.es for the ICE and the www.ieec.cat for the IEEC.
+- Development of the MUR application: an online software for sending astronomical proposals.
+- Fork of the IndiCCD project to allow the control of multiple Andor cameras.
+- User interface and control system for the SQT telescope, the Allsky camera and the IEEC-CSIC telescope.
+
+
++++IEEC website project+++
+
+Development of the IEEC website:
+- Based on the RhinOS framework.
+- Data synchronization using the databases of the units related to the institute.
+- Responsive design that adapts to computers and mobile devices.
+- WordPress content migration to the new website.
+- http://www.ieec.cat/
+
+
+[images/ieecweb.jpg]
+
++++ICE website project+++
+
+Development of the ICE website:
+- Based on the RhinOS framework.
+- Data synchronization using the databases of the units related to the institute.
+- Responsive design that adapts to computers and mobile devices.
+- WordPress content migration to the new website.
+- http://www.ice.csic.es/
+
+
+[images/iceweb1.jpg]
+
+[images/iceweb2.jpg]
+
++++IEEC-CSIC telescope project+++
+
+Project to automate the IEEC-CSIC astronomical telescope:
+- Control system based in the OpenROCS 2.0 control software.
+- Controlled devices using the industrial ROS standard.
+- Development of the graphical user interface for control the entire system.
+- Controlled devices: A Meade telescope, a Baader dome, an APC pdu, a Vaisala weather station, a cloud sensor and a SBIG camera.
+- All system is controlled using only one Raspberry PI 2.
+
+
+[images/icetel.jpg]
+
++++Allsky camera project+++
+
+Project to automate the IEEC Allsky camera:
+- Control system based in the OpenROCS 2.0 control software.
+- Controlled devices using SNMP and INDI protocols.
+- Programmation of a driver that communicate with an industrial Siemens PLC.
+- Development of the graphical user interface to monitor the entire system.
+- Controlled devices: a heater, a fan, an APC pdu and an APOGEE camera.
+
+
+[images/allsky.jpg]
+
++++SQT telescope project+++
+
+Project to automate the SQT astronomical telescope:
+- Installation of the operating systems in the two control computers (nominal and redundant).
+- Development of some control packages as the dome control and the second motor focus.
+- Installation of some specific software packages as talon, OpenROCS and IndiCCD to operate the telescope and instruments.
+- Develop of the GUI to allow the remote supervision (useful in the commissioning process).
+
+
+[images/sqt.jpg]
+
++++IndiCCD driver project+++
+
+Fork of the XmCCD v.4.2.1 project:
+- Added improvements to the cameras control (indiccd).
+- Added support to the Andor and Finger Lakes Instruments cameras.
+- Added support to use simultaneous cameras.
+
+
++++MUR project+++
+
+Project that must allow the end users to send astronomical observing proposals:
+- Design and implementation of the corporative website with private areas and user roles.
+- Create a new broadcasting model for the OAdM webcams (using VLC) to prevent DoS.
+- Data model specification to store the different phase data of the proposals.
+- Language definition to allow end users to specify the observing sequences (using the toi concept).
+- Implementation of tools to validate and plot the sequence equations.
+- Front-end for each end user role that are involved in the different acceptation phases of the proposals (admin/CAT)
+
+
+[images/mur.jpg]
+
++++Proyecto OAdM/TJO+++
+
+Improvements in the infrastructure, and in the different software parts that are involved in the normal operation:
+- Audit and automate execution of the PbCdlComm software for the data collection of the SMC weather station.
+- Programmation of drivers to communicate with the follow hardware equipments:
+  - DAVIS Weather station.
+  - Previstorm.
+  - Boltwood Cloud Sensor II (using the BWCloudSensorII code).
+  - Rain detector.
+  - Vaisala (using the Indi protocol).
+- Configuration of the SNMP server to publish all data collected by the previous drivers.
+- Improvements in the configuration and distribution of the network devices.
+- http://www.oadm.cat/
+
+
+[images/oadm.jpg]
+
++++OpenROCS v2.0 project+++
+
+Software for unattended control of TJO (OAdM) and SQT astronomical telescopes.
+- Design, implement and test control software using the following architecture.
+- A server service that serves the requests from port 2323 to provide remote storage and accessible using predefined commands.
+- A broadcast service that allows you to synchronize others remotely  OpenROCS using broadcast techniques.
+- A monitor service that the main task of this service is update the SDP and HK to be used by the scheduler.
+- A scheduler service that lets you execute the actions that controls the telescope when you change the SDP or HK.
+- This project is released under GPL-3.0
+- https://sourceforge.net/projects/openrocs/
+- https://upcommons.upc.edu/handle/2099.1/26215
+
+
+[images/openrocs.jpg]
+
+[images/tjo.jpg]
+
+++Wide Spectrum Software Solutions (2007-2011 in R+D Dept.)++
+
+Developments for GNU/Linux, MONO, Firmware, PDAs and web environments:
+- Development of the SaltOS and RhinOS projects released under the GPL-3.0 license.
+- Project for the NTE/ESA to do some parts of the unit-test of the LISA Pathfinder project.
+- Project for the IEEC to make improvements in the GOLD-RTR project (v2 and v3).
+- Multiple web projects (portals and online shops) to different customers.
+
+
++++NTE/ESA - LTPS project+++
+
+SW HR for LTPS project:
+- Unit-test tasks using ANSI C
+- Validation-test tasks using Python
+
+
++++IEEC - GOLD_RTR v2.0 project+++
+
+Improved control software for GOLD-RTR:
+- Creation of 2 working roles (user and administrator)
+- Modification of the predictive calculation model of GPS satellites
+- Generation of the documentation
+
+
++++IEEC - GOLD_RTR live CD project+++
+
+LiveCD with installer for easy tasks in campaigns:
+- Allows working on LiveCD or installed with wizard on HDD.
+- Useful for quick restore of the entire system.
+
+
++++IEEC - GOLD_RTR v3.0 project+++
+
+To carry out campaigns of experiments in Antarctica, it is necessary that the system is autonomous and can work remotely with and without communication in unattended mode:
+- Improved control software GOLD-RTR
+- Add a new algorithm for the integration of waveforms
+- Validation of the new algorithm using unit-testing and validation-test.
+- Generation of the documentation
+- Deployment of a scheduler control system
+- Management of the scheduler using pseudo-language files
+- Integration with SVN commands to synchronize the results
+- Notification system for monitoring the status of experiments
+- Installation of the control system based on scheduler
+- Generation of the documentation
+
+
++++ISEC Auditors - MANAGER WIPS project+++
+
+Developing a security manager application for online servers:
+- Import and management of the Apache logs server
+- Generation of reports and security alarms
+- Application that be used with multiple users, multiple servers and multiple roles.
+
+
+[images/wips.jpg]
+
++++AXA Winterthur - Tracking project+++
+
+Several online applications:
+- Follower for online campaigns (LAMP environment)
+- Online shop for AXA Club
+
+
++++VUELING - PUNTO 2 project+++
+
+Functional improvements project.
+
++++AIDA CENTRE - PDA HORMIPRESA project+++
+
+Application for mobile devices that be used in process management:
+- Integration of RFID reader to read passive tags.
+- Operating Modes using GPRS and WIFI networks or desktop connectivity.
+- Desktop application for data synchronization
+
+
+[images/aida.jpg]
+
++++WS3 - SaltOS Project (www.saltos.org)+++
+
+Development of a framework for developing Rich Internet Applications:
+- Based on XML + XSL technology on LAMP environments.
+- Integration of management system for SMEs.
+- Management of permissions on each system layer.
+- Applications as: mail client, documentary manager, RSS and ATOM client, and more...
+- User interface based in jQuery UI
+- This project is released under GPL-3.0
+- I continue developing this project on my own.
+- https://sourceforge.net/projects/saltos/
+- https://github.com/josepsanzcamp/SaltOS
+
+
+[images/saltos1.jpg]
+
+[images/saltos2.jpg]
+
++++WS3 - RhinOS Project (www.rhinos.es)+++
+
+Development of a framework for developing web sites:
+- Designed for LAMP environments.
+- Includes 2 layers (CMS and CPS).
+- Pseudo-code for the interpretation of the RhinOS templates.
+- Separation of logical layers (presentation and business)
+- This project is released under GPL-3.0
+- I continue developing this project on my own.
+- https://sourceforge.net/projects/rhinos/
+
+
+[images/rhinos.jpg]
+
+[images/rhinos2.jpg]
+
+[images/rhinos3.jpg]
+
++++CVA - SISAC project+++
+
+Project for the Catalonia Agency of Water
+- Its objective is service to the citizen.
+- Based on eZpublish.
+- Pilot project for 2000 users.
+
+
++++IEEC - GOLD-PRO project+++
+
+Software develop for embedded system
+- Use of XILINX hardware
+- Programming MicroBlaze processors
+- Programming LEON3 processor (space-certification)
+- Routing Ethernet communications at low level (raw data)
+
+
++++RETEVISION - TRACEBOX Audit+++
+
+Audit the software developed by HYR, TraceBox, that has been customized to service a client of Abertis Telecom:
+- Identify the origin of the problems in streaming video.
+- Propose a viable solution according to the current development.
+- Generate a detailed technical report of the problem and proposals.
+- Audit the correct deployment of the proposed solution and accepted
+
+
++++Alliaria (IN2 GROUP) - FIR@KEY project+++
+
+Access control project for the fairs at the Fira de Barcelona:
+- Development in VB6.0 using SOAP (by client requirements)
+- Integration of RFID reader for user identification
+- Installation wizard without dependencies for Microsoft operaring systems.
+
+
++++WEB Projects+++
+
+++++Shop online CADAICO++++
+
+Improvements to the initial online shop
+
+++++Web site for the EUSS school++++
+
+Web site and intranet for this university:
+- Technology has been used RhinOS.
+- There have been several evolutions with successful results.
+- Customizing Moodle e-learning application
+
+
+++++Web site for the COACB company++++
+
+Functional enhancements of its corporate portals
+
+++++Web site for the MEDIATORS OF INSURANCE ASSOCIATION++++
+
+Custom deployment of an e-learning online tool.
+
+++++Web site for the VERTEX company++++
+
+Development of the corporate portal and intranet
+
+++++Web site for the APQ company++++
+
+Development of the corporate portal and intranet
+
+++++Web site and online shop for the SEVIBE company++++
+
+Several online applications:
+- Development of corporate website
+- Some promotional portals
+- Development of online recruitment system and backoffice
+- Integration of Wordpress News management.
+
+
+[images/sevibe2.jpg]
+
+++++Web site for the TRITON restaurant++++
+
+Development of the corporate portal and intranet
+- Online Reservation System
+
+
+++++Web site for the Castelldetels's hostelry school++++
+
+Development of the corporate portal and intranet
+
+[images/ehc.jpg]
+
+++++Online shop for the TUTIENDADEVIDEOJUEGOS.COM company++++
+
+Several online applications:
+- Development of the corporate website, online shop and intranet
+- System for mass data import
+- System for mass mailings sending
+- Management of personalized dispatching
+
+
+[images/ttdv.jpg]
+
+++Enfasystem (2006-2007 in R+D Dept.)++
+
+Developments for WEB using LAMP environments (Linux+Apache+MySQL+PHP):
+- Improvement of the "admin" control panel (RhinOS in the future)
+- Development of the "mecano" project (RhinOS in the future)
+- Development of the DBMailer project (RhinOS in the future)
+- Several collaborations with IEEC for the PARIS and GOLD-RTR projects
+
+
++++ADMIN project (www.rhinos.es)+++
+
+Dynamic content manager for online applications
+- Use of GPL software as TinyMCE and other
+
+
++++Mecano WEB project (www.rhinos.es)+++
+
+System for generating dynamic web sites with the following characteristics:
+- Programming using multi-tier architecture (templates and code)
+- Design and implementation of high-level language
+- Generation of thumbs in realtime (images)
+- Generation of multimedia content in realtime (audio)
+- Documentation generation in real time (PDF)
+
+
++++DBMailer project (www.rhinos.es)+++
+
+System to sending mass mailings
+- Controled by database
+- Control panel for maintenance
+- Trigger and checks via crontab for detection of errors and system crashes
+
+
++++EXIT Foundation - Social participation project+++
+
+Portal of the social participation:
+- Analysis and design of the database for the project
+- Implementation of the control panel to administer and coordinate the fundation.
+- Compliance with the Data Protection Act (Spanish Organic Law on Data Protection)
+- Quality control for the processes of information
+
+
++++IEEC - GOLD_RTR project+++
+
+Software for IEEC in the GOLD_RTR project:
+- Segmentation of the configuration files
+- Reorganization of the configuration lines according to the GPS data
+- Improvements in the graphical interface
+
+
++++IEEC - PARIS signal processor subsystem project+++
+
+Programming a NIOS2 microprocessor
+- Design and implementation of a program to be used inside a ALTERA NIOS2 microprocessor
+- Transmission of more that 4Mbytes/seg using an ethernet connection (UDP)
+- Parser for evaluate commands and validation of these
+- Optimization of the ALTERA libraries to improve timings
+- Control via digital oscilloscope to monitor timings and guaranty the correct work.
+
+
+Programming a software (for GNU/Linux platforms) for reception of UDP frames
+- Design and implementation of a program for reception of UDP frames
+- Validation of the frames and checking their integrity
+- Saving data to local disk at high speed (using DMA technology)
+
+
+Configuration of the computer systems for data reception
+- Installation of GNU/Linux Slackware 11.0
+- System Setup (remove unneeded processes)
+- Software Installation for UDP frame reception
+- Empirical calibration and performance certification document
+
+
+++Information Engineering, IN2 (2005-2006 as team's chief)++
+
+Software development for GNU/Linux and Windows CE.
+- Use of security tools like Snort.
+- Programming of mobile devices using EVC++ 3.0 for PDA devices
+- Programming in C, PHP, .NET
+- Use of DBMS such as MySQL, ORACLE
+
+
++++SNIFFER project+++
+
+Capture and system control for network communications TETRA
+- Using Snort software to capture IP frames
+- Shell scripts using Python
+- Download real-time data using FTP and HTTP protocols
+- Generation of reports by using web technology.
+
+
++++IVP project+++
+
+Urban maintenance software for PDA devices
+- Using EVC++ 3.0 using GIS software Adobe OnSiteView
+- Communication link using Bluetooth to GPS receivers and NMEA 0183 protocols for parse outputs.
+- Using HP libraries to integrate camera inside the software
+- Use of XML for IO transfers
+
+
++++WEB CONTROL project+++
+
+Software for monitoring network status
+- Using SNMP v1.0 and v2.0
+- Programming in C for the daemon service
+- PHP programming language for the user interface
+- Using MySQL 4.0.23 for massive data storage (daemon and web)
+
+
++++SICAT project+++
+
+Software demonstration of TETRA network operation
+- Wizard for DB module design
+- DB module WebService
+- Using MySQL for DB module
+- Terminal Module (TETRA terminal emulation)
+- Module DB (dynamic application defined by Wizard)
+- GIS Module (programming using SDK's for TomTom GPS network)
+
+
++++Upgrades for some applications at BAMESA+++
+
+Development of applications software to migrate from Portal to PHP
+- Table maintenance programming
+- Generation of reports of various types: lists, graphs, calendars
+- Conversion from DB triggers to PHP code
+- Using AJAX to create dynamic filters
+- Import and export of all filters
+- Using the ORACLE DBMS
+
+
+++Institute of Space Studies of Catalonia (2001-2005)++
+
+Development of software for UNIX environments.
+- Design and implementation of hardware and drivers.
+- Planning and implementation of software for various projects.
+- Programming in C with GTK, Tcl/Tk on Unix tcsh.
+
+
++++REALTIME (COST716) project+++
+
+Automation of the calculation of Total Zenith Delay
+- Shell scripts using tcsh, tcl/tk, etc ...
+- Download realtime data using FTP, HTTP, SSH
+- Generation of 'reports' by using web technology and LaTeX.
+- Management processes on the Linux kernel.
+- Detection of bugs in the file system Solaris 2.6
+
+
+[images/realtime.jpg]
+
+[images/realtime2.jpg]
+
++++DD_RCVR and LOTTOS projects+++
+
+Software for processing mass data using shell scripts
+- Graphical interfaces for scientific use
+
+
++++GRACE-II project+++
+
+Calibration software for the altimeter of ENVISAT satellite
+- Graphical interface for use by data processing operators
+- System for automated data transfer to the ICM institute
+
+
++++STD/IEEC Group Intranet+++
+
+Specification and implementation of the online portal:
+- Using by web technology such as PHP
+- User Authentication
+- Use secure protocols (SSL) on apache
+- Accessing Data with MySQL and PostgreSQL
+
+
++++GOLD_RTR (PARIS) and MDPP3 (SMOS) projects+++
+
+for ALTERA programming environments:
+- Communications with GPS receivers (Novatel, Ashtech).
+- Software and hardware for ALTERA development boards
+- Multiprocessor systems and realtime applications.
+- Specification of ALTERA NIOS2 microprocessors
+- Software for GNU/Linux in C and GTK
+- Design of communication protocols over UDP/IP
+- Transmission of data in realtime mode
+- Reception and realtime storage data (12 Mbytes/sec)
+- System monitoring graph in realtime mode
+
+
+[images/goldrtr.jpg]
+
+[images/goldrtr2.jpg]
+
+[images/mdpp3.jpg]
+
+++Universitat Politècnica de Catalunya, Dept. of Applied Physics (1999-2001)++
+
+Administration of Unix Systems and Microsoft Windows
+- Implementation of network security systems (SSL)
+- Security Audits of computer systems department
+- Software development and maintenance of the department's intranet
+- Software development for the Generalitat de Catalunya (SIGMA and NivAval)
+- Collaborations with the WAFAE association.
+- Support to users, and so on.
+
+
++++SIGMA, Sistema Informàtic de Gestio i Modelització Acústica+++
+
+Project of an application with graphical environment for calculating levels of noise pollution:
+- Develop an easy and intuitive graphical interface, using Visual Basic, to provide to the user all the necessary elements to enter the input data to the model.
+- Develop a set of libraries programmed in Visual C++ to provide all the computing power and speed that only C can offer.
+- To perform the topographical simulations and obtain a valid model for the model calculation, a 3D representation mechanisms were implemented using Delaunay triangulation and cubic spline interpolation.
+
+
+[images/sigma.jpg]
+
+[images/sigma2.jpg]
+
++++NivAval, Nivell d’Avaluació Lar+++
+
+Project to evaluate the results of acquisition campaigns of noise levels using sound level meters:
+- Develop a graphical interface using Visual Basic for data entry.
+- Implement the model defined in the law 16/2002 of protection of noise pollution.
+- Generating reports in text and graphical format highlighting the relevant information established in each case by the acoustic law.
+
+
+[images/nivaval.jpg]
+
+[images/nivaval2.jpg]
+
+++INCOSE, ingeniería de contrataciones y servicios (1997-1999)++
+
+Installation and maintenance of industrial equipment.
+- Programming of PLC's for industrial applications.
+- Installation of electrical boards and waste treatment systems.
+
+
+++GESTHOS, gestión técnica hospitalaria (1996-1997)++
+
+Assembly and maintenance of electromedical equipment.
+- Repair of medical equipment.
+- Specification and implementation of equipment for technical tests.
+
+
