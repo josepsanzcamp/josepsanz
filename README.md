@@ -1,5 +1,5 @@
 # www.josepsanz.net
-Welcome to my personal website
+Welcome to my personal website and profile
 
 ## Original template
 This website was built using a template obtained from here:
