@@ -53,14 +53,6 @@ $labels=array(
 					"sourceforge.net/projects/rhinos"=>"http://sourceforge.net/projects/rhinos",
 				)
 			),
-			"gralla"=>array(
-				"image"=>"img/portfolio_gralla.png",
-				"title"=>"Partituras para gralla",
-				"description"=>"Este portal es un catálogo de partituras para gralla. Inicialmente, las consegui de la web gralla.skamot.com en formato encore y usando software libre, he conseguido convertirlas a lilypond, pdf, midi y mp3.",
-				"links"=>array(
-					"gralla.josepsanz.net"=>"http://gralla.josepsanz.net",
-				)
-			),
 			"openrocs"=>array(
 				"image"=>"img/portfolio_openrocs.png",
 				"title"=>"OpenROCS v2.0",
@@ -68,6 +60,14 @@ $labels=array(
 				"links"=>array(
 					"sourceforge.net/projects/openrocs"=>"http://sourceforge.net/projects/openrocs",
 					"upcommons.upc.edu/handle/2099.1/26215"=>"https://upcommons.upc.edu/handle/2099.1/26215",
+				)
+			),
+			"gralla"=>array(
+				"image"=>"img/portfolio_gralla.png",
+				"title"=>"Partituras para gralla",
+				"description"=>"Este portal es un catálogo de partituras para gralla. Inicialmente, las consegui de la web gralla.skamot.com en formato encore y usando software libre, he conseguido convertirlas a lilypond, pdf, midi y mp3.",
+				"links"=>array(
+					"gralla.josepsanz.net"=>"http://gralla.josepsanz.net",
 				)
 			),
 			"rpi"=>array(
@@ -164,14 +164,6 @@ $labels=array(
 					"sourceforge.net/projects/rhinos"=>"http://sourceforge.net/projects/rhinos",
 				)
 			),
-			"gralla"=>array(
-				"image"=>"img/portfolio_gralla.png",
-				"title"=>"Sheet music for gralla",
-				"description"=>"This site is a catalog of sheets music for gralla. Initially, I downloaded all sheets music from the site gralla.skamot.com in encore format, and using some free software, I convert them to lilypond, pdf, midi and mp3.",
-				"links"=>array(
-					"gralla.josepsanz.net"=>"http://gralla.josepsanz.net",
-				)
-			),
 			"openrocs"=>array(
 				"image"=>"img/portfolio_openrocs.png",
 				"title"=>"OpenROCS v2.0",
@@ -179,6 +171,14 @@ $labels=array(
 				"links"=>array(
 					"sourceforge.net/projects/openrocs"=>"http://sourceforge.net/projects/openrocs",
 					"upcommons.upc.edu/handle/2099.1/26215"=>"https://upcommons.upc.edu/handle/2099.1/26215",
+				)
+			),
+			"gralla"=>array(
+				"image"=>"img/portfolio_gralla.png",
+				"title"=>"Sheet music for gralla",
+				"description"=>"This site is a catalog of sheets music for gralla. Initially, I downloaded all sheets music from the site gralla.skamot.com in encore format, and using some free software, I convert them to lilypond, pdf, midi and mp3.",
+				"links"=>array(
+					"gralla.josepsanz.net"=>"http://gralla.josepsanz.net",
 				)
 			),
 			"rpi"=>array(
@@ -275,14 +275,6 @@ $labels=array(
 					"sourceforge.net/projects/rhinos"=>"http://sourceforge.net/projects/rhinos",
 				)
 			),
-			"gralla"=>array(
-				"image"=>"img/portfolio_gralla.png",
-				"title"=>"Partitures per a gralla",
-				"description"=>"Aquest portal és un catàleg de partitures per a gralla. Inicialment, les vaig aconseguir del web gralla.skamot.com en format encore i fent servir programari lliure, he aconseguit convertir-les a lilypond, pdf, midi i mp3.",
-				"links"=>array(
-					"gralla.josepsanz.net"=>"http://gralla.josepsanz.net",
-				)
-			),
 			"openrocs"=>array(
 				"image"=>"img/portfolio_openrocs.png",
 				"title"=>"OpenROCS v2.0",
@@ -290,6 +282,14 @@ $labels=array(
 				"links"=>array(
 					"sourceforge.net/projects/openrocs"=>"http://sourceforge.net/projects/openrocs",
 					"upcommons.upc.edu/handle/2099.1/26215"=>"https://upcommons.upc.edu/handle/2099.1/26215",
+				)
+			),
+			"gralla"=>array(
+				"image"=>"img/portfolio_gralla.png",
+				"title"=>"Partitures per a gralla",
+				"description"=>"Aquest portal és un catàleg de partitures per a gralla. Inicialment, les vaig aconseguir del web gralla.skamot.com en format encore i fent servir programari lliure, he aconseguit convertir-les a lilypond, pdf, midi i mp3.",
+				"links"=>array(
+					"gralla.josepsanz.net"=>"http://gralla.josepsanz.net",
 				)
 			),
 			"rpi"=>array(
