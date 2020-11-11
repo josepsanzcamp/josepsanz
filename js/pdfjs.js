@@ -22,8 +22,10 @@ $(function() {
 			var file=$("#viewerContainer").attr("data-file");
 			pdfjsLib.getDocument(file).promise.then(function(pdfDocument) {
 				var container=document.getElementById("viewerContainer");
+				var eventBus=new pdfjsViewer.EventBus();
 				pdfViewer=new pdfjsViewer.PDFViewer({
-					container:container
+					container:container,
+					eventBus:eventBus,
 				});
 				var fn1=function() {
 					pdfViewer.currentScaleValue="page-width";
@@ -33,8 +35,8 @@ $(function() {
 						$(this).attr("target","_blank");
 					});
 				};
-				document.addEventListener("pagesinit",fn1);
-				document.addEventListener("textlayerrendered",fn2);
+				eventBus.on("pagesinit",fn1);
+				eventBus.on("textlayerrendered",fn2);
 				pdfViewer.removePageBorders=true;
 				pdfViewer.setDocument(pdfDocument);
 			},function(message,exception) {

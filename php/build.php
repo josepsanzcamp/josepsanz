@@ -37,7 +37,7 @@ if(file_exists("../index.php")) unlink("../index.php");
 if(file_exists("../js/all.js")) unlink("../js/all.js");
 if(file_exists("../js/all.min.js")) unlink("../js/all.min.js");
 foreach($js as $file) file_put_contents("../js/all.js",file_get_contents("../${file}")."\n",FILE_APPEND);
-passthru("time java -jar closure-compiler-v20200614.jar --js ../js/all.js --js_output_file ../js/all.min.js -W QUIET");
+passthru("time java -jar closure-compiler-v20200614.jar --js ../js/all.js --js_output_file ../js/all.min.js -W QUIET --language_in ECMASCRIPT5 --language_out ECMASCRIPT5");
 //~ copy("../js/all.js","../js/all.min.js");
 if(file_exists("../js/all.js")) unlink("../js/all.js");
 
