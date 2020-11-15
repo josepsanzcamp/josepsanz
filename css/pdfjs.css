@@ -1,11 +1,22 @@
 
 /* FOR VIEWPDF */
-.pdfViewer .page {
-	margin:0 0 1.5rem 0;
+#viewerContainer {
+	width: 100%;
+}
+
+#viewerContainer .page {
+	margin-bottom:2rem;
 	border:0;
 	border-radius:0.5rem;
 }
 
-.pdfViewer canvas {
+#viewerContainer canvas {
 	border-radius:0.5rem;
 }
+
+#viewerContainer *,
+#viewerContainer *::before,
+#viewerContainer *::after {
+	box-sizing: content-box;
+}
+

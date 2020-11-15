@@ -38,14 +38,19 @@ if(file_exists("../js/all.js")) unlink("../js/all.js");
 if(file_exists("../js/all.min.js")) unlink("../js/all.min.js");
 foreach($js as $file) file_put_contents("../js/all.js",file_get_contents("../${file}")."\n",FILE_APPEND);
 passthru("time java -jar closure-compiler-v20200614.jar --js ../js/all.js --js_output_file ../js/all.min.js -W QUIET --language_in ECMASCRIPT5 --language_out ECMASCRIPT5");
-//~ copy("../js/all.js","../js/all.min.js");
+//copy("../js/all.js","../js/all.min.js");
 if(file_exists("../js/all.js")) unlink("../js/all.js");
 
 if(file_exists("../css/all.css")) unlink("../css/all.css");
 if(file_exists("../css/all.min.css")) unlink("../css/all.min.css");
-foreach($css as $file) file_put_contents("../css/all.css",str_replace("images/","../pdfjs/images/",file_get_contents("../${file}"))."\n",FILE_APPEND);
-//~ passthru("time java -jar yuicompressor-2.4.7.jar --type=css --charset=utf-8 ../css/all.css -o ../css/all.min.css");
-copy("../css/all.css","../css/all.min.css");
+foreach($css as $file) file_put_contents("../css/all.css",str_replace("images/","../pdfjs/images/",file_get_contents("../${file}"))."\n\n",FILE_APPEND);
+//passthru("time java -jar yuicompressor-2.4.7.jar --type=css --charset=utf-8 ../css/all.css -o ../css/all.min.css");
+$buffer=file_get_contents("../css/all.css");
+$buffer=str_replace(array("\n","\r","\t"),"",$buffer);
+for($i=0;$i<100;$i++) $buffer=str_replace("  "," ",$buffer);
+foreach(array(":",";","{","}",",") as $temp) $buffer=str_replace(array(" ${temp} "," ${temp}","${temp} "),$temp,$buffer);
+file_put_contents("../css/all.min.css",$buffer);
+//copy("../css/all.css","../css/all.min.css");
 if(file_exists("../css/all.css")) unlink("../css/all.css");
 
 ?>
