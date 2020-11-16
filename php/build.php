@@ -1,5 +1,5 @@
 <?php
-$index=file("index.php",FILE_IGNORE_NEW_LINES);
+$index=file("php/index.php",FILE_IGNORE_NEW_LINES);
 $css=array();
 $js=array();
 foreach($index as $key=>$val) {
@@ -28,29 +28,29 @@ foreach($index as $key=>$val) {
 	}
 }
 
-if(file_exists("../index.php")) unlink("../index.php");
-file_put_contents("../index.php",implode("\n",$index));
-passthru("time java -jar htmlcompressor-1.3.1.jar --type=html --charset=utf-8 --compress-js --compress-css ../index.php -o ../index.php");
-foreach(array("ca","es","en") as $lang) passthru("php ../index.php ${lang} > ../index.${lang}.html");
-if(file_exists("../index.php")) unlink("../index.php");
+if(file_exists("index.php")) unlink("index.php");
+file_put_contents("index.php",implode("\n",$index));
+passthru("time java -jar php/htmlcompressor-1.3.1.jar --type=html --charset=utf-8 --compress-js --compress-css index.php -o index.php");
+foreach(array("ca","es","en") as $lang) passthru("php index.php ${lang} > index.${lang}.html");
+if(file_exists("index.php")) unlink("index.php");
 
-if(file_exists("../js/all.js")) unlink("../js/all.js");
-if(file_exists("../js/all.min.js")) unlink("../js/all.min.js");
-foreach($js as $file) file_put_contents("../js/all.js",file_get_contents("../${file}")."\n",FILE_APPEND);
-passthru("time java -jar closure-compiler-v20200614.jar --js ../js/all.js --js_output_file ../js/all.min.js -W QUIET --language_in ECMASCRIPT5 --language_out ECMASCRIPT5");
-//copy("../js/all.js","../js/all.min.js");
-if(file_exists("../js/all.js")) unlink("../js/all.js");
+if(file_exists("js/all.js")) unlink("js/all.js");
+if(file_exists("js/all.min.js")) unlink("js/all.min.js");
+foreach($js as $file) file_put_contents("js/all.js",file_get_contents($file)."\n",FILE_APPEND);
+passthru("time java -jar php/closure-compiler-v20200614.jar --js js/all.js --js_output_file js/all.min.js -W QUIET --language_in ECMASCRIPT5 --language_out ECMASCRIPT5");
+//copy("js/all.js","js/all.min.js");
+if(file_exists("js/all.js")) unlink("js/all.js");
 
-if(file_exists("../css/all.css")) unlink("../css/all.css");
-if(file_exists("../css/all.min.css")) unlink("../css/all.min.css");
-foreach($css as $file) file_put_contents("../css/all.css",str_replace("images/","../pdfjs/images/",file_get_contents("../${file}"))."\n\n",FILE_APPEND);
-//passthru("time java -jar yuicompressor-2.4.7.jar --type=css --charset=utf-8 ../css/all.css -o ../css/all.min.css");
-$buffer=file_get_contents("../css/all.css");
+if(file_exists("css/all.css")) unlink("css/all.css");
+if(file_exists("css/all.min.css")) unlink("css/all.min.css");
+foreach($css as $file) file_put_contents("css/all.css",str_replace("images/","../pdfjs/images/",file_get_contents($file))."\n\n",FILE_APPEND);
+//passthru("time java -jar php/yuicompressor-2.4.7.jar --type=css --charset=utf-8 css/all.css -o css/all.min.css");
+$buffer=file_get_contents("css/all.css");
 $buffer=str_replace(array("\n","\r","\t"),"",$buffer);
 for($i=0;$i<100;$i++) $buffer=str_replace("  "," ",$buffer);
-foreach(array(":",";","{","}",",") as $temp) $buffer=str_replace(array(" ${temp} "," ${temp}","${temp} "),$temp,$buffer);
-file_put_contents("../css/all.min.css",$buffer);
-//copy("../css/all.css","../css/all.min.css");
-if(file_exists("../css/all.css")) unlink("../css/all.css");
+foreach(array(":",";","{","}",",") as $temp) $buffer=str_replace(array(" ".$temp." "," ".$temp,$temp." "),$temp,$buffer);
+file_put_contents("css/all.min.css",$buffer);
+//copy("css/all.css","css/all.min.css");
+if(file_exists("css/all.css")) unlink("css/all.css");
 
 ?>
