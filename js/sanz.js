@@ -137,7 +137,13 @@ $(function() {
 		$("#viewerContainer").attr("data-color",color);
 	});
 
-	$("body").on("click",function() {
+	$("body").on("click",function(e) {
+		if($(e.target).is("a")) return;
+		if($(e.target).is("button")) return;
+		if($(e.target).is("i")) return;
+		if($(e.target).is("div.portfolio-item-caption")) return;
+		if($(e.target).is("input")) return;
+		if($(e.target).is("textarea")) return;
 		counter=(counter+1)%nombre.length;
 		$("body").trigger("color");
 		$("body").trigger("pdfjs");
@@ -149,3 +155,4 @@ $(function() {
 	$("body").trigger("color");
 	$("body").trigger("pdfjs");
 });
+
