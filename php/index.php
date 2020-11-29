@@ -1,4 +1,4 @@
-<?php include("php/default.php"); ?>
+<?php include("php/langs.php"); ?>
 <!DOCTYPE html>
 <html lang="<?php echo $lang; ?>">
 

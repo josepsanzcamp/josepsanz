@@ -104,7 +104,7 @@ $(function() {
 				"color":"#234567!important",
 			}
 		}
-	}
+	};
 	var counter=0;
 	var nombre=["original","blue","green","red","yellow"];
 	var color1=["2c3e50","1a3561","144321","5d1a15","644b02"];
