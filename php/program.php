@@ -4,14 +4,11 @@ $css=array();
 $js=array();
 foreach($html as $key=>$val) {
 	$val=trim($val);
-	$pos0=strpos($val,'<script src="http');
 	$pos1=strpos($val,'<script src="');
 	$pos2=strpos($val,'"></script>');
 	$pos3=strpos($val,'<link href="');
 	$pos4=strpos($val,'" rel="stylesheet">');
-	if($pos0!==false && $pos2!==false) {
-		// NOTHING TO DO
-	} elseif($pos1!==false && $pos2!==false) {
+	if($pos1!==false && $pos2!==false) {
 		$len1=strlen('<script src="');
 		$js[]=substr($val,$pos1+$len1,$pos2-$pos1-$len1);
 		unset($html[$key]);
