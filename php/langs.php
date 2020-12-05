@@ -50,7 +50,9 @@ $labels=array(
 				"title"=>"RhinOS",
 				"description"=>"RhinOS es la herramienta perfecta para construir un portal web profesional, administrado de manera fácil y ágil sin necesidad de tener conocimientos técnicos. Además está licenciado como software libre bajo la licencia GPL-3.0.",
 				"links"=>array(
+					"www.saltos.org"=>"https://www.saltos.org/portal/es/acerca#informacion-de-rhinos",
 					"sourceforge.net/projects/rhinos"=>"http://sourceforge.net/projects/rhinos",
+					"github.com/josepsanzcamp/RhinOS"=>"https://github.com/josepsanzcamp/RhinOS",
 				)
 			),
 			"openrocs"=>array(
@@ -68,6 +70,7 @@ $labels=array(
 				"description"=>"Este portal es un catálogo de partituras para gralla. Inicialmente, las consegui de la web gralla.skamot.com en formato encore y usando software libre, he conseguido convertirlas a lilypond, pdf, midi y mp3.",
 				"links"=>array(
 					"gralla.josepsanz.net"=>"http://gralla.josepsanz.net",
+					"github.com/josepsanzcamp/gralla"=>"https://github.com/josepsanzcamp/gralla",
 				)
 			),
 			"rpi"=>array(
@@ -161,7 +164,9 @@ $labels=array(
 				"title"=>"RhinOS",
 				"description"=>"RhinOS is a perfect tool for building a professional website, and manage it in a easy and dynamic way without needing technical knowledge. Its license is 100% free software based GPL-3.0.",
 				"links"=>array(
+					"www.saltos.org"=>"https://www.saltos.org/portal/es/acerca#informacion-de-rhinos",
 					"sourceforge.net/projects/rhinos"=>"http://sourceforge.net/projects/rhinos",
+					"github.com/josepsanzcamp/RhinOS"=>"https://github.com/josepsanzcamp/RhinOS",
 				)
 			),
 			"openrocs"=>array(
@@ -179,6 +184,7 @@ $labels=array(
 				"description"=>"This site is a catalog of sheets music for gralla. Initially, I downloaded all sheets music from the site gralla.skamot.com in encore format, and using some free software, I convert them to lilypond, pdf, midi and mp3.",
 				"links"=>array(
 					"gralla.josepsanz.net"=>"http://gralla.josepsanz.net",
+					"github.com/josepsanzcamp/gralla"=>"https://github.com/josepsanzcamp/gralla",
 				)
 			),
 			"rpi"=>array(
@@ -272,7 +278,9 @@ $labels=array(
 				"title"=>"RhinOS",
 				"description"=>"Rhinos és l'eina perfecta per construir un portal web professional, administrat de manera fàcil i àgil sense necessitat de tenir coneixements tècnics. A més està llicenciat com a programari lliure sota la llicència GPL-3.0.",
 				"links"=>array(
+					"www.saltos.org"=>"https://www.saltos.org/portal/es/acerca#informacion-de-rhinos",
 					"sourceforge.net/projects/rhinos"=>"http://sourceforge.net/projects/rhinos",
+					"github.com/josepsanzcamp/RhinOS"=>"https://github.com/josepsanzcamp/RhinOS",
 				)
 			),
 			"openrocs"=>array(
@@ -290,6 +298,7 @@ $labels=array(
 				"description"=>"Aquest portal és un catàleg de partitures per a gralla. Inicialment, les vaig aconseguir del web gralla.skamot.com en format encore i fent servir programari lliure, he aconseguit convertir-les a lilypond, pdf, midi i mp3.",
 				"links"=>array(
 					"gralla.josepsanz.net"=>"http://gralla.josepsanz.net",
+					"github.com/josepsanzcamp/gralla"=>"https://github.com/josepsanzcamp/gralla",
 				)
 			),
 			"rpi"=>array(

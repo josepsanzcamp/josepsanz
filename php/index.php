@@ -310,7 +310,8 @@
 									<?php echo $labels[$lang]["moreinfo"]; ?>
 									<?php $first=1; ?>
 									<?php foreach($val["links"] as $key2=>$val2) { ?>
-										<?php if(!$first) { ?>|<?php } ?>
+										<?php if($first) { ?>&nbsp;<?php } ?>
+										<?php if(!$first) { ?> | <?php } ?>
 										<?php $first=0; ?>
 										<strong><a href="<?php echo $val2; ?>" target="_blank"><?php echo $key2; ?></a></strong>
 									<?php } ?>
