@@ -112,6 +112,32 @@ $labels=array(
 					"www.ice.csic.es"=>"http://www.ice.csic.es",
 				)
 			),
+			"josepsanz"=>array(
+				"image"=>"img/portfolio_josepsanz.png",
+				"title"=>"Josep Sanz Campderrós",
+				"description"=>"Mi página personal contiene la información de mis proyectos y mi currículum vitae, anteriormente lo tenia publicado en un hosting propio y requeria php para generar el contenido en tiempo real, actualmente el código php genera las 3 versiones estaticas que permite que se publique en un hosting estatico como el que ofrece github",
+				"links"=>array(
+					"www.josepsanz.net"=>"http://www.josepsanz.net",
+					"github.com/josepsanzcamp/josepsanz"=>"https://github.com/josepsanzcamp/josepsanz",
+				)
+			),
+			"covid19"=>array(
+				"image"=>"img/portfolio_covid19.png",
+				"title"=>"Covid 19",
+				"description"=>"Gráficos de defunciones por año, origen de los datos, acumulados diarios, semanales, mensuales, anuales, por edad, por comunidad autónoma, por provincia, por pais y más. Todos los datos se han obtenido de fuentes como MoMo, INE, CSIC, OECD, EuroMoMo, Eurostat, o los equivalentes al instituto nacional de estadística de Suecia, Noruega, Portugal, Francia y Alemania",
+				"links"=>array(
+					"josepsanzcamp.github.io/covid19"=>"https://josepsanzcamp.github.io/covid19",
+					"github.com/josepsanzcamp/covid19"=>"https://github.com/josepsanzcamp/covid19",
+				)
+			),
+			"cdesktopenv"=>array(
+				"image"=>"img/portfolio_cdesktopenv.png",
+				"title"=>"Common Desktop Environment",
+				"description"=>"This repository contains some useful scripts (developed by me, more or less) used by me to add features to my CDE that runs on my laptop with GNU/Linux!!!",
+				"links"=>array(
+					"github.com/josepsanzcamp/cdesktopenv"=>"https://github.com/josepsanzcamp/cdesktopenv",
+				)
+			),
 		)
 	),
 	"en"=>array(
@@ -225,6 +251,32 @@ $labels=array(
 					"www.ice.csic.es"=>"http://www.ice.csic.es",
 				)
 			),
+			"josepsanz"=>array(
+				"image"=>"img/portfolio_josepsanz.png",
+				"title"=>"Josep Sanz Campderrós",
+				"description"=>"My personal page contains the information of my projects and my professional profile, previously a php server was required to create the contents, currently the php code generates the three static versions that allow me to publish it using a static hosting like the offered by github",
+				"links"=>array(
+					"www.josepsanz.net"=>"http://www.josepsanz.net",
+					"github.com/josepsanzcamp/josepsanz"=>"https://github.com/josepsanzcamp/josepsanz",
+				)
+			),
+			"covid19"=>array(
+				"image"=>"img/portfolio_covid19.png",
+				"title"=>"Covid 19",
+				"description"=>"Graphs of deaths by year, origin of the data, daily accumulated, weekly, montly, yearly, by age, by autonomous community, by province, by country and more. All data have been obtained from sources as MoMo, INE, CSIC, OECD, EuroMoMo, Eurostat, or the equivalents to the National Statistics Institute of Sweden, Norway, Portugal, France and Germany",
+				"links"=>array(
+					"josepsanzcamp.github.io/covid19"=>"https://josepsanzcamp.github.io/covid19",
+					"github.com/josepsanzcamp/covid19"=>"https://github.com/josepsanzcamp/covid19",
+				)
+			),
+			"cdesktopenv"=>array(
+				"image"=>"img/portfolio_cdesktopenv.png",
+				"title"=>"Common Desktop Environment",
+				"description"=>"This repository contains some useful scripts (developed by me, more or less) used by me to add features to my CDE that runs on my laptop with GNU/Linux!!!",
+				"links"=>array(
+					"github.com/josepsanzcamp/cdesktopenv"=>"https://github.com/josepsanzcamp/cdesktopenv",
+				)
+			),
 		)
 	),
 	"ca"=>array(
@@ -336,6 +388,32 @@ $labels=array(
 				"description"=>"The mission of the Institute of Space Sciences (ICE) is to contribute to the general advance of the Cosmos studies, helping to improve CSIC's scientific and technological capacity, as well as to reinforce the presence of CSIC in the space initiatives, to promote excellence in all the activities related to scientific research and outreach and to articulate the contribution of the CSIC to the \"Institut d'Estudis Espacials de Catalunya (IEEC)\".",
 				"links"=>array(
 					"www.ice.csic.es"=>"http://www.ice.csic.es",
+				)
+			),
+			"josepsanz"=>array(
+				"image"=>"img/portfolio_josepsanz.png",
+				"title"=>"Josep Sanz Campderrós",
+				"description"=>"La meva plana personal conté la informació dels meus projectes i el meu currículum vitae, anteriorment ho tenia publicat en un hosting propi i requeria php per generar el contingut en temps real, actualment el codi php genera les 3 versions estàtiques que permet que es publiqui en un hosting estàtic com el que ofereix github",
+				"links"=>array(
+					"www.josepsanz.net"=>"http://www.josepsanz.net",
+					"github.com/josepsanzcamp/josepsanz"=>"https://github.com/josepsanzcamp/josepsanz",
+				)
+			),
+			"covid19"=>array(
+				"image"=>"img/portfolio_covid19.png",
+				"title"=>"Covid 19",
+				"description"=>"Gràfics de defuncions per any, origen de les dades, acumulats diaris, setmanals, mensuals, anuals, per edat, per comunitat autònoma, per provincia, per pais i més. Totes les dades s'han obtingut de fonts com MoMo, INE, CSIC, OECD, EuroMoMo, Eurostat, o els equivalents al institut nacional d'estadística de Suecia, Noruega, Portugal, França i Alemanya",
+				"links"=>array(
+					"josepsanzcamp.github.io/covid19"=>"https://josepsanzcamp.github.io/covid19",
+					"github.com/josepsanzcamp/covid19"=>"https://github.com/josepsanzcamp/covid19",
+				)
+			),
+			"cdesktopenv"=>array(
+				"image"=>"img/portfolio_cdesktopenv.png",
+				"title"=>"Common Desktop Environment",
+				"description"=>"This repository contains some useful scripts (developed by me, more or less) used by me to add features to my CDE that runs on my laptop with GNU/Linux!!!",
+				"links"=>array(
+					"github.com/josepsanzcamp/cdesktopenv"=>"https://github.com/josepsanzcamp/cdesktopenv",
 				)
 			),
 		)
