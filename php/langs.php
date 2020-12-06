@@ -41,8 +41,8 @@ $labels=array(
 				"description"=>"SaltOS es la solución 100% Cloud Computing de Gestión Empresarial. Integra las funcionalidades de CRM y ERP. Además está licenciado como software libre bajo la licencia GPL-3.0.",
 				"links"=>array(
 					"www.saltos.org"=>"http://www.saltos.org",
-					"sourceforge.net/projects/saltos/"=>"https://sourceforge.net/projects/saltos/",
-					"github.com/josepsanzcamp/SaltOS"=>"https://github.com/josepsanzcamp/SaltOS",
+					"sourceforge.net"=>"https://sourceforge.net/projects/saltos/",
+					"github.com"=>"https://github.com/josepsanzcamp/SaltOS",
 				)
 			),
 			"rhinos"=>array(
@@ -50,8 +50,8 @@ $labels=array(
 				"title"=>"RhinOS",
 				"description"=>"RhinOS es la herramienta perfecta para construir un portal web profesional, administrado de manera fácil y ágil sin necesidad de tener conocimientos técnicos. Además está licenciado como software libre bajo la licencia GPL-3.0.",
 				"links"=>array(
-					"sourceforge.net/projects/rhinos"=>"http://sourceforge.net/projects/rhinos",
-					"github.com/josepsanzcamp/RhinOS"=>"https://github.com/josepsanzcamp/RhinOS",
+					"sourceforge.net"=>"http://sourceforge.net/projects/rhinos",
+					"github.com"=>"https://github.com/josepsanzcamp/RhinOS",
 				)
 			),
 			"openrocs"=>array(
@@ -59,8 +59,8 @@ $labels=array(
 				"title"=>"OpenROCS v2.0",
 				"description"=>"OpenROCS conforms an independent control layer for robotic observatories. It is a master scheduler of the processes that the system has to execute and a monitor of the overall state of the observatory. It controls the end-to-end data flow and the housekeeping processes by handling a set of predefined events. The former are responsible for ensuring that the system executes the routine operation by maximizing the scientific return of the facility. While the latter consider all those anomalous situations that could put the observatory at risk and activate corrective or mitigation actions. All the applications running at the observatory and the hardware components interact with it. It is released under GNU/GPL public license.",
 				"links"=>array(
-					"sourceforge.net/projects/openrocs"=>"http://sourceforge.net/projects/openrocs",
-					"upcommons.upc.edu/handle/2099.1/26215"=>"https://upcommons.upc.edu/handle/2099.1/26215",
+					"sourceforge.net"=>"http://sourceforge.net/projects/openrocs",
+					"upcommons.upc.edu"=>"https://upcommons.upc.edu/handle/2099.1/26215",
 				)
 			),
 			"gralla"=>array(
@@ -69,7 +69,7 @@ $labels=array(
 				"description"=>"Este portal es un catálogo de partituras para gralla. Las consegui de la web gralla.skamot.com en formato encore y usando software libre, consegui convertirlas a lilypond, pdf, midi y mp3. Inicialmente lo tenia publicado en un hosting propio usando php, actualmente esta publicado en github usando javascript",
 				"links"=>array(
 					"gralla.josepsanz.net"=>"http://gralla.josepsanz.net",
-					"github.com/josepsanzcamp/gralla"=>"https://github.com/josepsanzcamp/gralla",
+					"github.com"=>"https://github.com/josepsanzcamp/gralla",
 				)
 			),
 			"rpi"=>array(
@@ -77,7 +77,7 @@ $labels=array(
 				"title"=>"Read-only Root-FS with overlayfs for Raspian",
 				"description"=>"This repository contains some useful files that allow you to use a Raspberry PI using a readonly filesystem. This files contains some ideas and code of the following projects: https://gist.github.com/niun/34c945d70753fc9e2cc7 and https://github.com/chesty/overlayroot. Congratulate the original authors if these files works as expected. Too, you can congratulate to me to join all files in a one repository and do some changes allowing to use the root and boot filesytem in readonly mode.",
 				"links"=>array(
-					"github.com/josepsanzcamp/root-ro"=>"https://github.com/josepsanzcamp/root-ro",
+					"github.com"=>"https://github.com/josepsanzcamp/root-ro",
 				)
 			),
 			"piwik"=>array(
@@ -85,7 +85,7 @@ $labels=array(
 				"title"=>"sqlite-for-piwik",
 				"description"=>"This repository contains the files needed to use Piwik with SQLite instead of MySQL. How to use it: Put the following file into the correct location: libs/mysql2sqlite.php, core/Db/Adapter/Pdo/Sqlite.php, core/Tracker.php and core/Tracker/Db/Pdo/Sqlite.php. Edit the config/config.ini.php and add in the [database] section: adapter=Pdo_Sqlite and dbname=piwik.sqlite And then, execute piwik...",
 				"links"=>array(
-					"github.com/josepsanzcamp/sqlite-for-piwik"=>"https://github.com/josepsanzcamp/sqlite-for-piwik",
+					"github.com"=>"https://github.com/josepsanzcamp/sqlite-for-piwik",
 				)
 			),
 			"oadm"=>array(
@@ -118,7 +118,7 @@ $labels=array(
 				"description"=>"Mi página personal contiene la información de mis proyectos y mi currículum vitae, anteriormente lo tenia publicado en un hosting propio y requeria php para generar el contenido en tiempo real, actualmente el código php genera las 3 versiones estaticas que permite que se publique en un hosting estatico como el que ofrece github",
 				"links"=>array(
 					"www.josepsanz.net"=>"http://www.josepsanz.net",
-					"github.com/josepsanzcamp/josepsanz"=>"https://github.com/josepsanzcamp/josepsanz",
+					"github.com"=>"https://github.com/josepsanzcamp/josepsanz",
 				)
 			),
 			"covid19"=>array(
@@ -126,8 +126,8 @@ $labels=array(
 				"title"=>"Covid 19",
 				"description"=>"Gráficos de defunciones por año, origen de los datos, acumulados diarios, semanales, mensuales, anuales, por edad, por comunidad autónoma, por provincia, por pais y más. Todos los datos se han obtenido de fuentes oficiales como MoMo, INE, CSIC, OECD, EuroMoMo, Eurostat, o los equivalentes al instituto nacional de estadística de Suecia, Noruega, Portugal, Francia y Alemania",
 				"links"=>array(
-					"josepsanzcamp.github.io/covid19"=>"https://josepsanzcamp.github.io/covid19",
-					"github.com/josepsanzcamp/covid19"=>"https://github.com/josepsanzcamp/covid19",
+					"josepsanzcamp.github.io"=>"https://josepsanzcamp.github.io/covid19",
+					"github.com"=>"https://github.com/josepsanzcamp/covid19",
 				)
 			),
 			"cdesktopenv"=>array(
@@ -135,7 +135,7 @@ $labels=array(
 				"title"=>"Common Desktop Environment",
 				"description"=>"This repository contains some useful scripts (developed by me, more or less) used by me to add features to my CDE that runs on my laptop with GNU/Linux!!!",
 				"links"=>array(
-					"github.com/josepsanzcamp/cdesktopenv"=>"https://github.com/josepsanzcamp/cdesktopenv",
+					"github.com"=>"https://github.com/josepsanzcamp/cdesktopenv",
 				)
 			),
 		)
@@ -180,8 +180,8 @@ $labels=array(
 				"description"=>"SaltOS is the Business Management solution 100% Cloud Computing. It integrates features like CRM and ERP. Moreover is it licensed as 100% free software GPL-3.0.",
 				"links"=>array(
 					"www.saltos.org"=>"http://www.saltos.org",
-					"sourceforge.net/projects/saltos/"=>"https://sourceforge.net/projects/saltos/",
-					"github.com/josepsanzcamp/SaltOS"=>"https://github.com/josepsanzcamp/SaltOS",
+					"sourceforge.net"=>"https://sourceforge.net/projects/saltos/",
+					"github.com"=>"https://github.com/josepsanzcamp/SaltOS",
 				)
 			),
 			"rhinos"=>array(
@@ -189,8 +189,8 @@ $labels=array(
 				"title"=>"RhinOS",
 				"description"=>"RhinOS is a perfect tool for building a professional website, and manage it in a easy and dynamic way without needing technical knowledge. Its license is 100% free software based GPL-3.0.",
 				"links"=>array(
-					"sourceforge.net/projects/rhinos"=>"http://sourceforge.net/projects/rhinos",
-					"github.com/josepsanzcamp/RhinOS"=>"https://github.com/josepsanzcamp/RhinOS",
+					"sourceforge.net"=>"http://sourceforge.net/projects/rhinos",
+					"github.com"=>"https://github.com/josepsanzcamp/RhinOS",
 				)
 			),
 			"openrocs"=>array(
@@ -198,8 +198,8 @@ $labels=array(
 				"title"=>"OpenROCS v2.0",
 				"description"=>"OpenROCS conforms an independent control layer for robotic observatories. It is a master scheduler of the processes that the system has to execute and a monitor of the overall state of the observatory. It controls the end-to-end data flow and the housekeeping processes by handling a set of predefined events. The former are responsible for ensuring that the system executes the routine operation by maximizing the scientific return of the facility. While the latter consider all those anomalous situations that could put the observatory at risk and activate corrective or mitigation actions. All the applications running at the observatory and the hardware components interact with it. It is released under GNU/GPL public license.",
 				"links"=>array(
-					"sourceforge.net/projects/openrocs"=>"http://sourceforge.net/projects/openrocs",
-					"upcommons.upc.edu/handle/2099.1/26215"=>"https://upcommons.upc.edu/handle/2099.1/26215",
+					"sourceforge.net"=>"http://sourceforge.net/projects/openrocs",
+					"upcommons.upc.edu"=>"https://upcommons.upc.edu/handle/2099.1/26215",
 				)
 			),
 			"gralla"=>array(
@@ -208,7 +208,7 @@ $labels=array(
 				"description"=>"This site is a catalog of sheets music for gralla. I downloaded all sheets music from the site gralla.skamot.com in encore format and using free software, I convert them to lilypond, pdf, midi and mp3. Initially I had it published on my own hosting using php, currently it is published on github using javascript",
 				"links"=>array(
 					"gralla.josepsanz.net"=>"http://gralla.josepsanz.net",
-					"github.com/josepsanzcamp/gralla"=>"https://github.com/josepsanzcamp/gralla",
+					"github.com"=>"https://github.com/josepsanzcamp/gralla",
 				)
 			),
 			"rpi"=>array(
@@ -216,7 +216,7 @@ $labels=array(
 				"title"=>"Read-only Root-FS with overlayfs for Raspian",
 				"description"=>"This repository contains some useful files that allow you to use a Raspberry PI using a readonly filesystem. This files contains some ideas and code of the following projects: https://gist.github.com/niun/34c945d70753fc9e2cc7 and https://github.com/chesty/overlayroot. Congratulate the original authors if these files works as expected. Too, you can congratulate to me to join all files in a one repository and do some changes allowing to use the root and boot filesytem in readonly mode.",
 				"links"=>array(
-					"github.com/josepsanzcamp/root-ro"=>"https://github.com/josepsanzcamp/root-ro",
+					"github.com"=>"https://github.com/josepsanzcamp/root-ro",
 				)
 			),
 			"piwik"=>array(
@@ -224,7 +224,7 @@ $labels=array(
 				"title"=>"sqlite-for-piwik",
 				"description"=>"This repository contains the files needed to use Piwik with SQLite instead of MySQL. How to use it: Put the following file into the correct location: libs/mysql2sqlite.php, core/Db/Adapter/Pdo/Sqlite.php, core/Tracker.php and core/Tracker/Db/Pdo/Sqlite.php. Edit the config/config.ini.php and add in the [database] section: adapter=Pdo_Sqlite and dbname=piwik.sqlite And then, execute piwik...",
 				"links"=>array(
-					"github.com/josepsanzcamp/sqlite-for-piwik"=>"https://github.com/josepsanzcamp/sqlite-for-piwik",
+					"github.com"=>"https://github.com/josepsanzcamp/sqlite-for-piwik",
 				)
 			),
 			"oadm"=>array(
@@ -257,7 +257,7 @@ $labels=array(
 				"description"=>"My personal page contains the information of my projects and my professional profile, previously a php server was required to create the contents, currently the php code generates the three static versions that allow me to publish it using a static hosting like the offered by github",
 				"links"=>array(
 					"www.josepsanz.net"=>"http://www.josepsanz.net",
-					"github.com/josepsanzcamp/josepsanz"=>"https://github.com/josepsanzcamp/josepsanz",
+					"github.com"=>"https://github.com/josepsanzcamp/josepsanz",
 				)
 			),
 			"covid19"=>array(
@@ -265,8 +265,8 @@ $labels=array(
 				"title"=>"Covid 19",
 				"description"=>"Graphs of deaths by year, origin of the data, daily accumulated, weekly, montly, yearly, by age, by autonomous community, by province, by country and more. All data have been obtained from official sources as MoMo, INE, CSIC, OECD, EuroMoMo, Eurostat, or the equivalents to the National Statistics Institute of Sweden, Norway, Portugal, France and Germany",
 				"links"=>array(
-					"josepsanzcamp.github.io/covid19"=>"https://josepsanzcamp.github.io/covid19",
-					"github.com/josepsanzcamp/covid19"=>"https://github.com/josepsanzcamp/covid19",
+					"josepsanzcamp.github.io"=>"https://josepsanzcamp.github.io/covid19",
+					"github.com"=>"https://github.com/josepsanzcamp/covid19",
 				)
 			),
 			"cdesktopenv"=>array(
@@ -274,7 +274,7 @@ $labels=array(
 				"title"=>"Common Desktop Environment",
 				"description"=>"This repository contains some useful scripts (developed by me, more or less) used by me to add features to my CDE that runs on my laptop with GNU/Linux!!!",
 				"links"=>array(
-					"github.com/josepsanzcamp/cdesktopenv"=>"https://github.com/josepsanzcamp/cdesktopenv",
+					"github.com"=>"https://github.com/josepsanzcamp/cdesktopenv",
 				)
 			),
 		)
@@ -319,8 +319,8 @@ $labels=array(
 				"description"=>"SaltOS és la solució 100% Cloud Computing de Gestió Empresarial. Integra les funcionalitats de CRM i ERP. A més està llicenciat com a programari lliure sota la llicència GPL-3.0.",
 				"links"=>array(
 					"www.saltos.org"=>"http://www.saltos.org",
-					"sourceforge.net/projects/saltos/"=>"https://sourceforge.net/projects/saltos/",
-					"github.com/josepsanzcamp/SaltOS"=>"https://github.com/josepsanzcamp/SaltOS",
+					"sourceforge.net"=>"https://sourceforge.net/projects/saltos/",
+					"github.com"=>"https://github.com/josepsanzcamp/SaltOS",
 				)
 			),
 			"rhinos"=>array(
@@ -328,8 +328,8 @@ $labels=array(
 				"title"=>"RhinOS",
 				"description"=>"Rhinos és l'eina perfecta per construir un portal web professional, administrat de manera fàcil i àgil sense necessitat de tenir coneixements tècnics. A més està llicenciat com a programari lliure sota la llicència GPL-3.0.",
 				"links"=>array(
-					"sourceforge.net/projects/rhinos"=>"http://sourceforge.net/projects/rhinos",
-					"github.com/josepsanzcamp/RhinOS"=>"https://github.com/josepsanzcamp/RhinOS",
+					"sourceforge.net"=>"http://sourceforge.net/projects/rhinos",
+					"github.com"=>"https://github.com/josepsanzcamp/RhinOS",
 				)
 			),
 			"openrocs"=>array(
@@ -337,8 +337,8 @@ $labels=array(
 				"title"=>"OpenROCS v2.0",
 				"description"=>"OpenROCS conforms an independent control layer for robotic observatories. It is a master scheduler of the processes that the system has to execute and a monitor of the overall state of the observatory. It controls the end-to-end data flow and the housekeeping processes by handling a set of predefined events. The former are responsible for ensuring that the system executes the routine operation by maximizing the scientific return of the facility. While the latter consider all those anomalous situations that could put the observatory at risk and activate corrective or mitigation actions. All the applications running at the observatory and the hardware components interact with it. It is released under GNU/GPL public license.",
 				"links"=>array(
-					"sourceforge.net/projects/openrocs"=>"http://sourceforge.net/projects/openrocs",
-					"upcommons.upc.edu/handle/2099.1/26215"=>"https://upcommons.upc.edu/handle/2099.1/26215",
+					"sourceforge.net"=>"http://sourceforge.net/projects/openrocs",
+					"upcommons.upc.edu"=>"https://upcommons.upc.edu/handle/2099.1/26215",
 				)
 			),
 			"gralla"=>array(
@@ -347,7 +347,7 @@ $labels=array(
 				"description"=>"Aquest portal és un catàleg de partitures per a gralla. Les vaig aconseguir del web gralla.skamot.com en format encore i utilitzant programari lliure, vaig aconseguir convertir-les a lilypond, pdf, midi i mp3. Inicialment ho tenia publicat en un hosting propi amb php, actualment està publicat a github fent servir javascript",
 				"links"=>array(
 					"gralla.josepsanz.net"=>"http://gralla.josepsanz.net",
-					"github.com/josepsanzcamp/gralla"=>"https://github.com/josepsanzcamp/gralla",
+					"github.com"=>"https://github.com/josepsanzcamp/gralla",
 				)
 			),
 			"rpi"=>array(
@@ -355,7 +355,7 @@ $labels=array(
 				"title"=>"Read-only Root-FS with overlayfs for Raspian",
 				"description"=>"This repository contains some useful files that allow you to use a Raspberry PI using a readonly filesystem. This files contains some ideas and code of the following projects: https://gist.github.com/niun/34c945d70753fc9e2cc7 and https://github.com/chesty/overlayroot. Congratulate the original authors if these files works as expected. Too, you can congratulate to me to join all files in a one repository and do some changes allowing to use the root and boot filesytem in readonly mode.",
 				"links"=>array(
-					"github.com/josepsanzcamp/root-ro"=>"https://github.com/josepsanzcamp/root-ro",
+					"github.com"=>"https://github.com/josepsanzcamp/root-ro",
 				)
 			),
 			"piwik"=>array(
@@ -363,7 +363,7 @@ $labels=array(
 				"title"=>"sqlite-for-piwik",
 				"description"=>"This repository contains the files needed to use Piwik with SQLite instead of MySQL. How to use it: Put the following file into the correct location: libs/mysql2sqlite.php, core/Db/Adapter/Pdo/Sqlite.php, core/Tracker.php and core/Tracker/Db/Pdo/Sqlite.php. Edit the config/config.ini.php and add in the [database] section: adapter=Pdo_Sqlite and dbname=piwik.sqlite And then, execute piwik...",
 				"links"=>array(
-					"github.com/josepsanzcamp/sqlite-for-piwik"=>"https://github.com/josepsanzcamp/sqlite-for-piwik",
+					"github.com"=>"https://github.com/josepsanzcamp/sqlite-for-piwik",
 				)
 			),
 			"oadm"=>array(
@@ -396,7 +396,7 @@ $labels=array(
 				"description"=>"La meva plana personal conté la informació dels meus projectes i el meu currículum vitae, anteriorment ho tenia publicat en un hosting propi i requeria php per generar el contingut en temps real, actualment el codi php genera les 3 versions estàtiques que permet que es publiqui en un hosting estàtic com el que ofereix github",
 				"links"=>array(
 					"www.josepsanz.net"=>"http://www.josepsanz.net",
-					"github.com/josepsanzcamp/josepsanz"=>"https://github.com/josepsanzcamp/josepsanz",
+					"github.com"=>"https://github.com/josepsanzcamp/josepsanz",
 				)
 			),
 			"covid19"=>array(
@@ -404,8 +404,8 @@ $labels=array(
 				"title"=>"Covid 19",
 				"description"=>"Gràfics de defuncions per any, origen de les dades, acumulats diaris, setmanals, mensuals, anuals, per edat, per comunitat autònoma, per provincia, per pais i més. Totes les dades s'han obtingut de fonts oficials com MoMo, INE, CSIC, OECD, EuroMoMo, Eurostat, o els equivalents al institut nacional d'estadística de Suecia, Noruega, Portugal, França i Alemanya",
 				"links"=>array(
-					"josepsanzcamp.github.io/covid19"=>"https://josepsanzcamp.github.io/covid19",
-					"github.com/josepsanzcamp/covid19"=>"https://github.com/josepsanzcamp/covid19",
+					"josepsanzcamp.github.io"=>"https://josepsanzcamp.github.io/covid19",
+					"github.com"=>"https://github.com/josepsanzcamp/covid19",
 				)
 			),
 			"cdesktopenv"=>array(
@@ -413,7 +413,7 @@ $labels=array(
 				"title"=>"Common Desktop Environment",
 				"description"=>"This repository contains some useful scripts (developed by me, more or less) used by me to add features to my CDE that runs on my laptop with GNU/Linux!!!",
 				"links"=>array(
-					"github.com/josepsanzcamp/cdesktopenv"=>"https://github.com/josepsanzcamp/cdesktopenv",
+					"github.com"=>"https://github.com/josepsanzcamp/cdesktopenv",
 				)
 			),
 		)

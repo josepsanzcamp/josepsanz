@@ -25,3 +25,10 @@
 	font-weight:bold;
 	font-family:helvetica,arial;
 }
+
+@media (max-width: 767.98px) {
+	.navbar-brand {
+		width: calc(100% - 4rem);
+	}
+}
+
