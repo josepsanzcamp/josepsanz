@@ -343,7 +343,7 @@
 	<script src="js/freelancer.js"></script>
 
 	<!-- Custom scripts for sanz -->
-	<script src="js/jquery.kookie.min.js"></script>
+	<script src="js/jquery.cookie.min.js"></script>
 	<script src="js/sanz.js"></script>
 
 	<!-- PDFJS feature -->

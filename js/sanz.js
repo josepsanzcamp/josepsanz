@@ -151,8 +151,12 @@ $(function() {
 	});
 
 	counter=parseInt($.cookie("color"));
-	if(isNaN(counter)) counter=Math.floor(Math.random()*nombre.length);
+	//~ if(isNaN(counter)) counter=Math.floor(Math.random()*nombre.length);
+	if(isNaN(counter)) counter=0;
 	$("body").trigger("color");
 	$("body").trigger("pdfjs");
+
+	var lang=window.location.href.split("/").pop().split(".")[1];
+	$.cookie("lang",lang,{expires:365,path:"/"});
 });
 
