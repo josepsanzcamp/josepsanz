@@ -46,4 +46,8 @@ $data=str_replace("images/","../pdfjs/images/",$data);
 $data=css_minify($data);
 file_put_contents("css/all.min.css",$data);
 
+$data=file_get_contents("js/index.js");
+$data=html_minify($data);
+file_put_contents("index.html",$data);
+
 ?>
