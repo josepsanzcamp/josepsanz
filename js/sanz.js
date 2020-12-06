@@ -155,6 +155,7 @@ $(function() {
 	if(isNaN(counter)) counter=0;
 	$("body").trigger("color");
 	$("body").trigger("pdfjs");
+	$.cookie("color",counter,{expires:365,path:"/"});
 
 	var lang=window.location.href.split("/").pop().split(".")[1];
 	$.cookie("lang",lang,{expires:365,path:"/"});
