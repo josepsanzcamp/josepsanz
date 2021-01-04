@@ -32,6 +32,7 @@ foreach($files as $file) {
 		"\\newcommand\\mynewpage{\\clearpage\\ifodd\\value{page}\\else\\hbox{}\\newpage\\fi}",
 		"\\setlength{\\parindent}{5mm}",
 		"\\setlength{\\parskip}{3mm}",
+		"\\plparsep 2.5mm",
 		""
 	);
 	$buffer2=array_slice($buffer,5);
