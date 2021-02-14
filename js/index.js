@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta http-equiv = "refresh" content = "1; url = index.ca.html" />
 </head>
 <body>
 <script>
@@ -12,7 +13,8 @@ document.cookie.split(";").forEach(function(val,key) {
 	if(val[0]="lang") lang=val[1];
 });
 if(lang!="ca" && lang!="es" && lang!="en") lang="ca";
-window.location.href="index."+lang+".html";
+var hash=window.location.hash;
+window.location.href="index."+lang+".html"+hash;
 </script>
 </body>
 </html>
