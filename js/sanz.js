@@ -144,7 +144,12 @@ $(function() {
 		if($(e.target).is("div.portfolio-item-caption")) return;
 		if($(e.target).is("input")) return;
 		if($(e.target).is("textarea")) return;
-		counter=(counter+1)%nombre.length;
+		if(e.ctrlKey || e.shiftKey) {
+			counter=counter-1;
+			if(counter<0) counter+=nombre.length;
+		} else {
+			counter=(counter+1)%nombre.length;
+		}
 		$("body").trigger("color");
 		$("body").trigger("pdfjs");
 		$.cookie("color",counter,{expires:365,path:"/"});
