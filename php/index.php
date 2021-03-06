@@ -24,7 +24,7 @@
 	<link href="css/sanz.css" rel="stylesheet">
 
 	<!-- PDFJS feature -->
-	<link href="pdfjs/pdf_viewer.css" rel="stylesheet">
+	<link href="pdfjs/pdf_viewer.min.css" rel="stylesheet">
 	<link href="css/pdfjs.css" rel="stylesheet">
 	<meta name="theme-color" content="#2c3e50"/>
 </head>
@@ -347,8 +347,8 @@
 	<script src="js/sanz.js"></script>
 
 	<!-- PDFJS feature -->
-	<script src="pdfjs/pdf.js"></script>
-	<script src="pdfjs/pdf_viewer.js"></script>
+	<script src="pdfjs/pdf.min.js"></script>
+	<script src="pdfjs/pdf_viewer.min.js"></script>
 	<script src="js/pdfjs.js"></script>
 
 </body>
