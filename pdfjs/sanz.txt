@@ -1,11 +1,12 @@
 
-    setFillRGBColor: function CanvasGraphics_setFillRGBColor(r, g, b) {
-	  /* BEGIN COLOR TRICK BY SANZ */
-	  if(r==39 && g==128 && b==227) { r=pdfColor[0]; g=pdfColor[1]; b=pdfColor[2]; }
-	  /* END COLOR TRICK BY SANZ */
-      var color = _util.Util.makeCssRgb(r, g, b);
+    setFillRGBColor(r, g, b) {
+      /* BEGIN COLOR TRICK BY SANZ */
+      if(r==39 && g==128 && b==227) { r=pdfColor[0]; g=pdfColor[1]; b=pdfColor[2]; }
+      /* END COLOR TRICK BY SANZ */
+      const color = _util.Util.makeHexColor(r, g, b);
 
       this.ctx.fillStyle = color;
       this.current.fillColor = color;
       this.current.patternFill = false;
-    },
+    }
+

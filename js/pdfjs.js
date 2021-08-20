@@ -39,6 +39,7 @@ $(function() {
 				eventBus.on("textlayerrendered",fn2);
 				pdfViewer.removePageBorders=true;
 				pdfViewer.setDocument(pdfDocument);
+				$("#viewerContainer").css("position","relative");
 			},function(message,exception) {
 				console.log(message);
 				console.log(exception);

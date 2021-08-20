@@ -1,6 +1,7 @@
 
 /* FOR VIEWPDF */
 #viewerContainer {
+	position: absolute;
 	width: 100%;
 }
 
