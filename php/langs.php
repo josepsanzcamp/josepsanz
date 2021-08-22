@@ -89,39 +89,6 @@ $labels=array(
 					"github.com"=>"https://github.com/josepsanzcamp/sqlite-for-piwik",
 				)
 			),
-			"oadm"=>array(
-				"image"=>"img/portfolio_oadm.png",
-				"title"=>"Observatorio Astronómico del Montsec",
-				"description"=>"El Telescopi Joan Oró (TJO) és un telescopio de la clase de un metro trabajando de forma completamente desatendida. La construcción de este telescopio robótico motivó el desarrollo del Observatori Astronòmic del Montsec (OAdM), un sitio dedicado a albergar instalaciones astronómicas de investigación. Este es el telescopio más grande de Cataluña (0.8 m) llamado Joan Oró en honor al famoso bioquímico catalán, pionero de la astrobiología.",
-				"links"=>array(
-					"www.oadm.cat"=>"http://www.oadm.cat",
-				)
-			),
-			"ieec"=>array(
-				"image"=>"img/portfolio_ieec.png",
-				"title"=>"Instituto de Estudios Espaciales de Cataluña",
-				"description"=>"El Institut d’Estudis Espacials de Catalunya (IEEC) fue fundado en febrero de 1996 como iniciativa de la Fundació Catalana per la Recerca (FCR) en colaboración con la Universitat de Barcelona (UB), la Universitat Autònoma de Barcelona (UAB), la Universitat Politècnica de Catalunya (UPC) y el Consejo Superior de Investigaciones Científicas (CSIC) con el objetivo de crear un instituto miltidisciplinar y multiinstitucional dedicado a la investigación espacial y sus aplicaciones. En 2006 la FCR fue reconstituida (su nombre actual es Fundació Catalana per a la Recerca i la Innovació FCRi) y su rol fue asumido por la Generalitat de Catalunya.",
-				"links"=>array(
-					"www.ieec.cat"=>"http://www.ieec.cat",
-				)
-			),
-			"ice"=>array(
-				"image"=>"img/portfolio_ice.png",
-				"title"=>"Institute of Space Sciences",
-				"description"=>"The mission of the Institute of Space Sciences (ICE) is to contribute to the general advance of the Cosmos studies, helping to improve CSIC's scientific and technological capacity, as well as to reinforce the presence of CSIC in the space initiatives, to promote excellence in all the activities related to scientific research and outreach and to articulate the contribution of the CSIC to the \"Institut d'Estudis Espacials de Catalunya (IEEC)\".",
-				"links"=>array(
-					"www.ice.csic.es"=>"http://www.ice.csic.es",
-				)
-			),
-			"josepsanz"=>array(
-				"image"=>"img/portfolio_josepsanz.png",
-				"title"=>"Josep Sanz Campderrós",
-				"description"=>"Mi página personal contiene la información de mis proyectos y mi currículum vitae, anteriormente lo tenia publicado en un hosting propio y requeria php para generar el contenido en tiempo real, actualmente el código php genera las 3 versiones estaticas que permite que se publique en un hosting estatico como el que ofrece github",
-				"links"=>array(
-					"www.josepsanz.net"=>"http://www.josepsanz.net",
-					"github.com"=>"https://github.com/josepsanzcamp/josepsanz",
-				)
-			),
 			"covid19"=>array(
 				"image"=>"img/portfolio_covid19.png",
 				"title"=>"Covid 19",
@@ -228,39 +195,6 @@ $labels=array(
 					"github.com"=>"https://github.com/josepsanzcamp/sqlite-for-piwik",
 				)
 			),
-			"oadm"=>array(
-				"image"=>"img/portfolio_oadm.png",
-				"title"=>"Montsec Astronomical Observatory",
-				"description"=>"The Telescopi Joan Oró (TJO) is a 1m-class telescope working in a completely unattended manner. The construction of this robotic telescope motivated the development of the Observatori Astronòmic del Montsec (OAdM), a site devoted to host astronomical research facilities. This is the largest telescope in Catalonia (0.8-m), named Joan Oró after the famous Catalan biochemist and pioneer of astrobiology.",
-				"links"=>array(
-					"www.oadm.cat"=>"http://www.oadm.cat",
-				)
-			),
-			"ieec"=>array(
-				"image"=>"img/portfolio_ieec.png",
-				"title"=>"Institute of Space Studies of Catalonia",
-				"description"=>"The Institute of Space Studies of Catalonia (IEEC) was founded in February of 1996 as an initiative of the Fundació Catalana per a la Recerca (FCR), in collaboration with the University of Barcelona (UB), the Autonomous University of Barcelona (UAB), the Polytechnic University of Catalonia (UPC) and the Spanish Research Council (CSIC) with the objective of creating a multi-disciplinary and multi-institutional institute devoted to space research and their applications. In 2006 the FCR was reformed (currently its name is Fundació Catalana per a la Recerca i la innovació -FCRi) and its role was assumed by the Department of the Catalan Government responsible of scientific affairs.",
-				"links"=>array(
-					"www.ieec.cat"=>"http://www.ieec.cat",
-				)
-			),
-			"ice"=>array(
-				"image"=>"img/portfolio_ice.png",
-				"title"=>"Institute of Space Sciences",
-				"description"=>"The mission of the Institute of Space Sciences (ICE) is to contribute to the general advance of the Cosmos studies, helping to improve CSIC's scientific and technological capacity, as well as to reinforce the presence of CSIC in the space initiatives, to promote excellence in all the activities related to scientific research and outreach and to articulate the contribution of the CSIC to the \"Institut d'Estudis Espacials de Catalunya (IEEC)\".",
-				"links"=>array(
-					"www.ice.csic.es"=>"http://www.ice.csic.es",
-				)
-			),
-			"josepsanz"=>array(
-				"image"=>"img/portfolio_josepsanz.png",
-				"title"=>"Josep Sanz Campderrós",
-				"description"=>"My personal page contains the information of my projects and my professional profile, previously a php server was required to create the contents, currently the php code generates the three static versions that allow me to publish it using a static hosting like the offered by github",
-				"links"=>array(
-					"www.josepsanz.net"=>"http://www.josepsanz.net",
-					"github.com"=>"https://github.com/josepsanzcamp/josepsanz",
-				)
-			),
 			"covid19"=>array(
 				"image"=>"img/portfolio_covid19.png",
 				"title"=>"Covid 19",
@@ -365,39 +299,6 @@ $labels=array(
 				"description"=>"This repository contains the files needed to use Piwik with SQLite instead of MySQL. How to use it: Put the following file into the correct location: libs/mysql2sqlite.php, core/Db/Adapter/Pdo/Sqlite.php, core/Tracker.php and core/Tracker/Db/Pdo/Sqlite.php. Edit the config/config.ini.php and add in the [database] section: adapter=Pdo_Sqlite and dbname=piwik.sqlite And then, execute piwik...",
 				"links"=>array(
 					"github.com"=>"https://github.com/josepsanzcamp/sqlite-for-piwik",
-				)
-			),
-			"oadm"=>array(
-				"image"=>"img/portfolio_oadm.png",
-				"title"=>"Observatori Astronòmic del Montsec",
-				"description"=>"El Telescopi Joan Oró (TJO) és un telescopi de la classe d'un metre treballant de forma completament desatesa. La construcció d'aquest telescopi robòtic va motivar el desenvolupament de l'Observatori Astronòmic del Montsec (OAdM), un lloc dedicat a albergar instal · lacions astronòmiques de recerca. Aquest és el telescopi més gran de Catalunya (0.8 m) anomenat Joan Oró en honor al famós bioquímic català, pioner de l'astrobiologia.",
-				"links"=>array(
-					"www.oadm.cat"=>"http://www.oadm.cat",
-				)
-			),
-			"ieec"=>array(
-				"image"=>"img/portfolio_ieec.png",
-				"title"=>"Institut d’Estudis Espacials de Catalunya",
-				"description"=>"L’Institut d’Estudis Espacials de Catalunya (IEEC) va ser fundat el febrer de 1996 com a iniciativa de la Fundació Catalana per la Recerca (FCR) en col·laboració amb la Universitat de Barcelona (UB), la Universitat Autònoma de Barcelona (UAB), la Universitat Politècnica de Catalunya (UPC) i el Consell Superior d’Investigacions Científiques (CSIC) amb l’objectiu de crear un institut miltidisciplinar i multiinstitucional dedicat a la recerca espacial i les seves aplicacions. El 2006, la FCR va ser reconstituïda (el seu nom actual és Fundació Catalana per a la Recerca i la Innovació FCRi) i el seu rol va ser assumit per la Generalitat de Catalunya.",
-				"links"=>array(
-					"www.ieec.cat"=>"http://www.ieec.cat",
-				)
-			),
-			"ice"=>array(
-				"image"=>"img/portfolio_ice.png",
-				"title"=>"Institute of Space Sciences",
-				"description"=>"The mission of the Institute of Space Sciences (ICE) is to contribute to the general advance of the Cosmos studies, helping to improve CSIC's scientific and technological capacity, as well as to reinforce the presence of CSIC in the space initiatives, to promote excellence in all the activities related to scientific research and outreach and to articulate the contribution of the CSIC to the \"Institut d'Estudis Espacials de Catalunya (IEEC)\".",
-				"links"=>array(
-					"www.ice.csic.es"=>"http://www.ice.csic.es",
-				)
-			),
-			"josepsanz"=>array(
-				"image"=>"img/portfolio_josepsanz.png",
-				"title"=>"Josep Sanz Campderrós",
-				"description"=>"La meva plana personal conté la informació dels meus projectes i el meu currículum vitae, anteriorment ho tenia publicat en un hosting propi i requeria php per generar el contingut en temps real, actualment el codi php genera les 3 versions estàtiques que permet que es publiqui en un hosting estàtic com el que ofereix github",
-				"links"=>array(
-					"www.josepsanz.net"=>"http://www.josepsanz.net",
-					"github.com"=>"https://github.com/josepsanzcamp/josepsanz",
 				)
 			),
 			"covid19"=>array(
