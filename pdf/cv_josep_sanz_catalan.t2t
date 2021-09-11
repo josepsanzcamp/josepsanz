@@ -9,8 +9,6 @@ Josep Sanz Campderrós.
 
 - Josep Sanz Campderrós.
 - Nascut a Barcelona el 7 de Desembre de 1976.
-- Nacionalitat: Espanya.
-- Estado civil: Casat.
 - EMail: josep.sanz@saltos.org
 - Web: www.josepsanz.net & www.saltos.org
 - Github: https://github.com/josepsanzcamp
@@ -52,6 +50,8 @@ Josep Sanz Campderrós.
 - També he realitzat treballs en entorns d'investigació com l'Institut d'Estudis Espacials de Catalunya i la Universitat Politècnica de Catalunya, Dept de Física Aplicada.
 
 
+[newpage]
+
 +Experiència professional+
 
 ++AB Custom Group - Transport per carretera o ferrocarril (desde 2019)++
@@ -60,12 +60,13 @@ Desenvolupaments per a entorns GNU/Linux i integració de SaltOS a totes les àr
 - Sistemes de reconeixement de documentació fent servir OCR, codis de barra i codis QR.
 - Integració de SaltOS en totes les àrees de negoci de la companyia.
 - Automatització de processos fent servir sistemes encastats basats en Raspberry PI
+- Optimització de rutes mitjançant IA i gestió de cites online
 
 
 ++Institut d’Estudis Espacials de Catalunya (2011-2019)++
 
 Desenvolupaments per a entorns GNU / Linux per a control robòtic de telescopis:
-- Desenvolupament de OpenROCS 2.0 (llicència GPL-3.0), es el programari de control per als telescopis TJO i SQT.
+- Desenvolupament de OpenROCS 2.0 (llicència GPL-3.0), programari de control per als telescopis TJO i SQT.
 - Desenvolupament del portal www.oadm.cat per a la divulgació del TJO, del portal www.ice.csic.es per al ICE i del portal www.ieec.cat per l'IEEC.
 - Desenvolupament de MUR: software online per a l'enviament de propostes astronòmiques.
 - Fork del projecte IndiCCD per al control de múltiples càmeres Andor.
@@ -89,6 +90,8 @@ Desenvolupaments per a entorns WEB basats en LAMP (Linux+Apache+MySQL+PHP):
 - Desenvolupament del projecte DBMailer (RhinOS en el futur)
 - Diverses col·laboracions amb l'IEEC per als projectes PARIS i GOLD-RTR
 
+
+[newpage]
 
 ++Ingeniería de la Información, IN2 (2005-2006 com a cap d'equip)++
 
@@ -132,6 +135,8 @@ Acoblament i manteniment d'equips d'electro-medicina.
 - Especificació i implementació d'equips per tests tècnics.
 
 
+[newpage]
+
 +Idiomes+
 
 - Castellà natiu (llegit, escrit i parlat).
@@ -149,6 +154,7 @@ Desenvolupaments per a entorns GNU/Linux i integració de SaltOS a totes les àr
 - Sistemes de reconeixement de documentació fent servir OCR, codis de barra i codis QR.
 - Integració de SaltOS en totes les àrees de negoci de la companyia.
 - Automatització de processos fent servir sistemes encastats basats en Raspberry PI
+- Optimització de rutes mitjançant IA i gestió de cites online
 
 
 ++Institut d’Estudis Espacials de Catalunya (2011-2019)++

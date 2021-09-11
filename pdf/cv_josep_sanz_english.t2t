@@ -9,8 +9,6 @@ Josep Sanz Campderrós.
 
 - Josep Sanz Campderrós.
 - Born in Barcelona on December 7, 1976.
-- Nationality: Spain.
-- Marital status: Married.
 - EMail: josep.sanz@saltos.org
 - Web: www.josepsanz.net & www.saltos.org
 - Github: https://github.com/josepsanzcamp
@@ -52,6 +50,8 @@ Josep Sanz Campderrós.
 - I have worked in research environments such as the Institute of Space Studies of Catalonia and the Technical University of Catalonia at Dept. of Applied Physics.
 
 
+[newpage]
+
 +Professional experience+
 
 ++AB Custom Group - Road or rail transportation (since 2019)++
@@ -60,12 +60,13 @@ Developments for GNU/Linux environments and integration of SaltOS in all busines
 - Documentation recognition systems using OCR, bar codes and QR codes.
 - Integration of SaltOS in all the business areas of the company.
 - Automation of processes using embedded systems based on Raspberry PI
+- Route optimization using AI and online appointment automation
 
 
 ++Institute of Space Studies of Catalonia (2011-2019)++
 
 Developments for GNU/Linux environments to control robotic telescopes:
-- Development of OpenROCS 2.0 (GPL-3.0 license), the control software used by the TJO and SQT telescopes.
+- Development of OpenROCS 2.0 (GPL-3.0 license), control software used by the TJO and SQT telescopes.
 - Development of the www.oadm.cat for the divulgation of the TJO telescope, the www.ice.csic.es for the ICE and the www.ieec.cat for the IEEC.
 - Development of the MUR application: an online software for sending astronomical proposals.
 - Fork of the IndiCCD project to allow the control of multiple Andor cameras.
@@ -89,6 +90,8 @@ Developments for WEB using LAMP environments (Linux+Apache+MySQL+PHP):
 - Development of the DBMailer project (RhinOS in the future)
 - Several collaborations with IEEC for the PARIS and GOLD-RTR projects
 
+
+[newpage]
 
 ++Information Engineering, IN2 (2005-2006 as team's chief)++
 
@@ -132,6 +135,8 @@ Assembly and maintenance of electromedical equipment.
 - Specification and implementation of equipment for technical tests.
 
 
+[newpage]
+
 +Languages+
 
 - Spanish native (read, written and spoken).
@@ -149,6 +154,7 @@ Developments for GNU/Linux environments and integration of SaltOS in all busines
 - Documentation recognition systems using OCR, bar codes and QR codes.
 - Integration of SaltOS in all the business areas of the company.
 - Automation of processes using embedded systems based on Raspberry PI
+- Route optimization using AI and online appointment automation
 
 
 ++Institute of Space Studies of Catalonia (2011-2019)++
