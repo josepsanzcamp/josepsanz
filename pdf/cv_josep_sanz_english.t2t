@@ -378,7 +378,7 @@ Development of a framework for developing Rich Internet Applications:
 
 [images/saltos2.jpg]
 
-+++WS3 - RhinOS Project (www.rhinos.es)+++
++++WS3 - RhinOS Project (www.saltos.org/rhinos)+++
 
 Development of a framework for developing web sites:
 - Designed for LAMP environments.
@@ -388,6 +388,7 @@ Development of a framework for developing web sites:
 - This project is released under GPL-3.0
 - I continue developing this project on my own.
 - https://sourceforge.net/projects/rhinos/
+- https://github.com/josepsanzcamp/RhinOS
 
 
 [images/rhinos.jpg]
@@ -503,13 +504,13 @@ Developments for WEB using LAMP environments (Linux+Apache+MySQL+PHP):
 - Several collaborations with IEEC for the PARIS and GOLD-RTR projects
 
 
-+++ADMIN project (www.rhinos.es)+++
++++ADMIN project (www.saltos.org/rhinos)+++
 
 Dynamic content manager for online applications
 - Use of GPL software as TinyMCE and other
 
 
-+++Mecano WEB project (www.rhinos.es)+++
++++Mecano WEB project (www.saltos.org/rhinos)+++
 
 System for generating dynamic web sites with the following characteristics:
 - Programming using multi-tier architecture (templates and code)
@@ -519,7 +520,7 @@ System for generating dynamic web sites with the following characteristics:
 - Documentation generation in real time (PDF)
 
 
-+++DBMailer project (www.rhinos.es)+++
++++DBMailer project (www.saltos.org/rhinos)+++
 
 System to sending mass mailings
 - Controled by database

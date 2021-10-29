@@ -378,7 +378,7 @@ Desarrollo de un framework para desarrollar aplicaciones on-line:
 
 [images/saltos2.jpg]
 
-+++WS3 - Proyecto RhinOS (www.rhinos.es)+++
++++WS3 - Proyecto RhinOS (www.saltos.org/rhinos)+++
 
 Desarrollo de un framework para desarrollar portales web:
 - Sobre entorno LAMP.
@@ -388,6 +388,7 @@ Desarrollo de un framework para desarrollar portales web:
 - Este proyecto se ha liberado bajo licencia GPL-3.0
 - Actualmente sigo con el desarrollo de este proyecto por mi cuenta.
 - https://sourceforge.net/projects/rhinos/
+- https://github.com/josepsanzcamp/RhinOS
 
 
 [images/rhinos.jpg]
@@ -503,13 +504,13 @@ Desarrollos para entornos WEB basados en LAMP (Linux+Apache+MySQL+PHP):
 - Varias colaboraciones con el IEEC para los proyectos PARIS y GOLD-RTR
 
 
-+++Proyecto ADMIN (www.rhinos.es)+++
++++Proyecto ADMIN (www.saltos.org/rhinos)+++
 
 Gestor de contenidos dinamico para aplicaciones on-line
 - Uso de software GPL como TinyMCE y otros
 
 
-+++Proyecto Mecano WEB (www.rhinos.es)+++
++++Proyecto Mecano WEB (www.saltos.org/rhinos)+++
 
 Sistema para generar webs dinamicas con las siguientes características:
 - Programación usando arquitectura multinivel (plantillas y codigo)
@@ -519,7 +520,7 @@ Sistema para generar webs dinamicas con las siguientes características:
 - Generacion de documentacion en tiempo real (PDF)
 
 
-+++Proyecto DBMailer (www.rhinos.es)+++
++++Proyecto DBMailer (www.saltos.org/rhinos)+++
 
 Sistema para envio masivo de correos electronicos
 - Control mediante base de datos
