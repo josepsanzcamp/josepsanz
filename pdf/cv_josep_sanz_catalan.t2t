@@ -54,7 +54,7 @@ Josep Sanz Campderrós.
 
 +Experiència professional+
 
-++AB Custom Group - Transport per carretera o ferrocarril (desde 2019)++
+++AB Custom Transports & Logistics, S.L. (desde 2019)++
 
 Desenvolupaments per a entorns GNU/Linux i integració de SaltOS a totes les àrees de negoci:
 - Sistemes de reconeixement de documentació fent servir OCR, codis de barra i codis QR.
@@ -65,7 +65,7 @@ Desenvolupaments per a entorns GNU/Linux i integració de SaltOS a totes les àr
 
 ++Institut d’Estudis Espacials de Catalunya (2011-2019)++
 
-Desenvolupaments per a entorns GNU / Linux per a control robòtic de telescopis:
+Desenvolupaments per a entorns GNU/Linux per a control robòtic de telescopis:
 - Desenvolupament de OpenROCS 2.0 (llicència GPL-3.0), programari de control per als telescopis TJO i SQT.
 - Desenvolupament del portal www.oadm.cat per a la divulgació del TJO, del portal www.ice.csic.es per al ICE i del portal www.ieec.cat per l'IEEC.
 - Desenvolupament de MUR: software online per a l'enviament de propostes astronòmiques.
@@ -144,11 +144,9 @@ Acoblament i manteniment d'equips d'electro-medicina.
 - Anglès tècnic (nivell mitjà, llegit, escrit i parlat).
 
 
-[newpage]
-
 +Annex (experiència professional detallada)+
 
-++AB Custom Group - Transport per carretera o ferrocarril (desde 2019)++
+++AB Custom Transports & Logistics, S.L. (desde 2019)++
 
 Desenvolupaments per a entorns GNU/Linux i integració de SaltOS a totes les àrees de negoci:
 - Sistemes de reconeixement de documentació fent servir OCR, codis de barra i codis QR.
@@ -157,9 +155,68 @@ Desenvolupaments per a entorns GNU/Linux i integració de SaltOS a totes les àr
 - Optimització de rutes mitjançant IA i gestió de cites online
 
 
++++Projecte concertació cites online+++
+
+Desenvolupament del conjunt d'aplicacions perquè els destinataris puguin concertar cites online:
+- Definició de plataformes, zones d'entrega, camions de distribució i clients.
+- Programació de les aplicacions d'expedicions, rutes i call center.
+- Definició dels extres com a festivitats, tipus de serveis, transfers i configuració genèrica.
+- Integració de l'app de concertació de cites amb la web de la companyia per a l'ús dels destinataris.
+- Programar l'enviament de comunicacions mitjançant correus electrònics i SMS als destinataris.
+- Generació d'etiquetes, albarans i fulles de rutes per als magatzems i els dept. de trànsit.
+
+
+[images/citasweb1.jpg]
+
+[images/citasweb2.jpg]
+
+[images/citasweb3.jpg]
+
++++Projecte impressores d'etiquetes fent servir Raspberry PI+++
+
+Desenvolupament d'un pack basat en impressora d'etiquetes + Raspberry PI per a ús remot:
+- Connexió a la xarxa de l'empresa host mitjançant cable de xarxa i DHCP.
+- Permet al client connectar-se per FTP i WEB a la RPI per deixar fitxers d'importació.
+- Enviament automàtic de fitxers d'importació al sistema informàtic central.
+- Recepció i impressió de les etiquetes dels paquets importats en temps real.
+- Ideal per a clients i magatzems que han d'etiquetar amb les etiquetes de la companyia.
+
+
+[images/rpiprinter1.jpg]
+
+[images/rpiprinter2.jpg]
+
++++Projecte replica SQLServer a MariaDB+++
+
+Tenir una rèplica del SQLServer a MariaDB per facilitar les consultes des de SaltOS:
+- Desenvolupar un driver a SaltOS per accedir a SQLServer.
+- Programar sistema per a la inicialització de les taules desitjades.
+- Programar control de les taules per detectar inserts, updates i delets a l'SQLServer.
+- Aplicar les actualitzacions a MariaDB de manera periòdica i validar la integritat de les dades.
+
+
++++Projecte pujada de documentació+++
+
+Desenvolupament d'un mecano que permeti pujar documentació a l'antic ERP de la companyia:
+- Pujada de documents PDF i imatges en format JPEG i TIFF amb múltiples capes.
+- Els documents es poden identificar si el nom del fitxer conté l'albarà o el viatge.
+- És possible detectar l'albarà o el viatge mitjançant el codi de barres que porten tots els documents.
+- Els errors en cas de fallada a la detecció es reporten en una carpeta d'error.
+- Generació de registres per traçar errades i aplicació per consultar l'estat de cada document.
+
+
++++Projecte integracions clients+++
+
+Sistema que permeti la integració dels clients amb la importació genèrica de l'antic ERP.
+- Sistema basat en plantilles per al mapeig de dades d'entrada amb les de l'antic ERP.
+- Millores en el suport d'importacions de SaltOS (fitxers CSV, Excel, XML, Bytes i EDI).
+- Programació d'una app de consultes per monitoritzar l'estat de cada importació.
+- Generació automàtica de reports i fluxs outs per retornar informació als clients.
+
+
 ++Institut d’Estudis Espacials de Catalunya (2011-2019)++
 
-Desenvolupaments per a entorns GNU / Linux per a control robòtic de telescopis:
+Desenvolupaments per a entorns GNU/Linux per a control robòtic de telescopis:
 - Desenvolupament de OpenROCS 2.0 (llicència GPL-3.0), es el programari de control per als telescopis TJO i SQT.
 - Desenvolupament del portal www.oadm.cat per a la divulgació del TJO, del portal www.ice.csic.es per al ICE i del portal www.ieec.cat per l'IEEC.
 - Desenvolupament de MUR: software online per a l'enviament de propostes astronòmiques.

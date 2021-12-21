@@ -54,7 +54,7 @@ Josep Sanz Campderrós.
 
 +Professional experience+
 
-++AB Custom Group - Road or rail transportation (since 2019)++
+++AB Custom Transports & Logistics, S.L. (since 2019)++
 
 Developments for GNU/Linux environments and integration of SaltOS in all business areas:
 - Documentation recognition systems using OCR, bar codes and QR codes.
@@ -144,17 +144,74 @@ Assembly and maintenance of electromedical equipment.
 - Technical English (intermediate level for read, write and speak).
 
 
-[newpage]
-
 +Annex (detailed professional experience)+
 
-++AB Custom Group - Road or rail transportation (since 2019)++
+++AB Custom Transports & Logistics, S.L. (since 2019)++
 
 Developments for GNU/Linux environments and integration of SaltOS in all business areas:
 - Documentation recognition systems using OCR, bar codes and QR codes.
 - Integration of SaltOS in all the business areas of the company.
 - Automation of processes using embedded systems based on Raspberry PI
 - Route optimization using AI and online appointment automation
+
+
++++Online appointment project+++
+
+Development of the suite of applications so that recipients can make online appointments:
+- Definition of platforms, delivery areas, distribution trucks and customers.
+- Programming of expeditions, routes and call center applications.
+- Definition of extras such as holidays, types of services, transfers and generic configuration.
+- Integration of the app for making appointments with the company's website for the use of the recipients.
+- Program the send of communications through emails and SMSs to the recipients.
+- Generation of labels, delivery notes and route sheets for warehouses and traffic departments.
+
+
+[images/citasweb1.jpg]
+
+[images/citasweb2.jpg]
+
+[images/citasweb3.jpg]
+
++++Label printers project using Raspberry PI+++
+
+Development of a pack based on label printer + Raspberry PI for remote use:
+- Connection to the host company network via network cable and DHCP.
+- Allows the client to connect via FTP and WEB to the RPI to put import files.
+- Automatic sending of import files to the central computer system.
+- Reception and printing of the labels of the imported packages in real time.
+- Ideal for customers and warehouses that must use labels of the delivery company.
+
+
+[images/rpiprinter1.jpg]
+
+[images/rpiprinter2.jpg]
+
++++SQLServer replica project in MariaDB+++
+
+They must to have a SQLServer replica in MariaDB to facilitate queries from SaltOS:
+- Develop a driver in SaltOS to access SQLServer.
+- Program system to initialize the desired tables.
+- Monitor and control of the tables to detect inserts, updates and deletes in the SQLServer.
+- Apply updates to MariaDB periodically and validate the integrity of the data.
+
+
++++Project upload documentation+++
+
+Development of a mechanism that allows uploading documentation to the company's old ERP:
+- Uploading PDF documents and images in JPEG and TIFF format with multiple layers.
+- Documents can be identified if the file name contains the delivery note or the trip.
+- It is possible to detect the delivery note or trip by means of the barcode that all documents carry.
+- Errors in case of detection failure are reported in an error folder.
+- Generation of records to trace errors and application to check the status of each document.
+
+
++++Client integrations project+++
+
+System that allows the integration of clients with the generic import of the old ERP.
+- System based on templates for mapping input data with those of the old ERP.
+- Improvements in SaltOS import support (CSV, Excel, XML, Bytes and EDI files).
+- Programming a query app to monitor the status of each import.
+- Automatic generation of reports and fluxs outs for the return of information to customers.
 
 
 ++Institute of Space Studies of Catalonia (2011-2019)++

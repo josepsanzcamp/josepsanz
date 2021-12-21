@@ -54,7 +54,7 @@ Josep Sanz Campderrós.
 
 +Experiencia profesional+
 
-++AB Custom Group - Transporte por carretera o ferrocarril (desde 2019)++
+++AB Custom Transports & Logistics, S.L. (desde 2019)++
 
 Desarrollos para entornos GNU/Linux y integración de SaltOS en todas las areas de negocio:
 - Sistemas de reconocimiento de documentación usando OCR, códigos de barra y códigos QR.
@@ -144,17 +144,74 @@ Ensamblaje y mantenimiento de equipos de electro-medicina.
 - Inglés técnico (nivel medio, leido, escrito y hablado).
 
 
-[newpage]
-
 +Anexo (experiencia profesional detallada)+
 
-++AB Custom Group - Transporte por carretera o ferrocarril (desde 2019)++
+++AB Custom Transports & Logistics, S.L. (desde 2019)++
 
 Desarrollos para entornos GNU/Linux y integración de SaltOS en todas las areas de negocio:
 - Sistemas de reconocimiento de documentación usando OCR, códigos de barra y códigos QR.
 - Integración de SaltOS en todas las areas de negocio de la compañía.
 - Automatización de procesos usando sistemas empotrados basados en Raspberry PI
 - Optimizacion de rutas mediante IA y gestion de citas online
+
+
++++Proyecto concertación citas online+++
+
+Desarrollo del conjunto de aplicaciones para que los destinatarios puedan concertar citas online:
+- Definición de plataformas, zonas de reparto, camiones de distribución y clientes.
+- Programación de las aplicaciones de expediciones, rutas y call center.
+- Definición  de los extras como festividades, tipos de servicios, transfers y configuración genérica.
+- Integración de la app de concertación de citas con la web de la compañía para el uso de los destinatarios.
+- Programar el envio de comunicaciones mediante correos electrónicos y SMSs a los destinatarios.
+- Generación de etiquetas, albaranes y hojas de rutas para los almacenes y los dept. de tráfico.
+
+
+[images/citasweb1.jpg]
+
+[images/citasweb2.jpg]
+
+[images/citasweb3.jpg]
+
++++Proyecto impresoras de etiquetas mediante Raspberry PI+++
+
+Desarrollo de un pack basado en impresora de etiquetas + Raspberry PI para uso remoto:
+- Conexión a la red de la empresa host mediante cable de red y DHCP.
+- Permite al cliente conectarse por FTP y WEB a la RPI para dejar ficheros de importación.
+- Envío automático de ficheros de importación al sistema informático central.
+- Recepción e impresión de las etiquetas de los bultos importados en tiempo real.
+- Ideal para clientes y almacenes que deben etiquetar con las etiquetas de la compañía.
+
+
+[images/rpiprinter1.jpg]
+
+[images/rpiprinter2.jpg]
+
++++Proyecto replica SQLServer en MariaDB+++
+
+Tener una replica del SQLServer en MariaDB para facilitar las consultas desde SaltOS:
+- Desarrollar un driver en SaltOS para acceder a SQLServer.
+- Programar sistema para la inicialización de las tablas deseadas.
+- Programar control de las tablas para detectar inserts, updates y deletes en el SQLServer.
+- Aplicar las actualizaciones en MariaDB de forma periódica y validar la integridad de los datos.
+
+
++++Proyecto subida de documentación+++
+
+Desarrollo de un mecano que permita subir documentación al antiguo ERP de la compañía:
+- Subida de documentos PDFs y imágenes en formato JPEG y TIFF con múltiples capas.
+- Los documentos se pueden identificar si el nombre del fichero contiene el albarán o el viaje.
+- Es posible detectar el albarán o viaje mediante el código de barras que llevan todos los documentos.
+- Los errores en caso de fallo en la detección se reportan en una carpeta de error.
+- Generación de registros para trazar errores y aplicación para consultar el estado de cada documento.
+
+
++++Proyecto integraciones clientes+++
+
+Sistema que permita la integración de los clientes con la importación genérica del antiguo ERP.
+- Sistema basado en plantillas para el mapeo de datos de entrada con los del antiguo ERP.
+- Mejoras en el soporte de importaciones de SaltOS (ficheros CSV, Excel, XML, Bytes y EDI).
+- Programación de una app de consultas para monitorizar el estado de cada importación.
+- Generación automática de reports y fluxs outs para el retorno de información a los clientes.
 
 
 ++Institut d’Estudis Espacials de Catalunya (2011-2019)++
