@@ -57,10 +57,11 @@ Josep Sanz Campderrós.
 ++AB Custom Transports & Logistics, S.L. (desde 2019)++
 
 Desarrollos para entornos GNU/Linux y integración de SaltOS en todas las areas de negocio:
-- Sistemas de reconocimiento de documentación usando OCR, códigos de barra y códigos QR.
+- Optimizacion de rutas mediante IA y gestion de citas online.
 - Integración de SaltOS en todas las areas de negocio de la compañía.
-- Automatización de procesos usando sistemas empotrados basados en Raspberry PI
-- Optimizacion de rutas mediante IA y gestion de citas online
+- Conexión de SaltOS con el antiguo ERP de la compañía (SQLServer).
+- Sistemas de reconocimiento de documentación usando OCR, códigos de barra y códigos QR.
+- Automatización de procesos usando sistemas empotrados basados en Raspberry PI.
 
 
 ++Institut d’Estudis Espacials de Catalunya (2011-2019)++
@@ -149,10 +150,11 @@ Ensamblaje y mantenimiento de equipos de electro-medicina.
 ++AB Custom Transports & Logistics, S.L. (desde 2019)++
 
 Desarrollos para entornos GNU/Linux y integración de SaltOS en todas las areas de negocio:
-- Sistemas de reconocimiento de documentación usando OCR, códigos de barra y códigos QR.
+- Optimizacion de rutas mediante IA y gestion de citas online.
 - Integración de SaltOS en todas las areas de negocio de la compañía.
-- Automatización de procesos usando sistemas empotrados basados en Raspberry PI
-- Optimizacion de rutas mediante IA y gestion de citas online
+- Conexión de SaltOS con el antiguo ERP de la compañía (SQLServer).
+- Sistemas de reconocimiento de documentación usando OCR, códigos de barra y códigos QR.
+- Automatización de procesos usando sistemas empotrados basados en Raspberry PI.
 
 
 +++Proyecto concertación citas online+++
@@ -160,8 +162,8 @@ Desarrollos para entornos GNU/Linux y integración de SaltOS en todas las areas 
 Desarrollo del conjunto de aplicaciones para que los destinatarios puedan concertar citas online:
 - Definición de plataformas, zonas de reparto, camiones de distribución y clientes.
 - Programación de las aplicaciones de expediciones, rutas y call center.
-- Definición  de los extras como festividades, tipos de servicios, transfers y configuración genérica.
-- Integración de la app de concertación de citas con la web de la compañía para el uso de los destinatarios.
+- Definición  de los extras como festividades, tipos de servicios, transfers, configuración genérica, ...
+- Integración de la app de concertación de citas con la web de la compañía.
 - Programar el envio de comunicaciones mediante correos electrónicos y SMSs a los destinatarios.
 - Generación de etiquetas, albaranes y hojas de rutas para los almacenes y los dept. de tráfico.
 

@@ -57,10 +57,11 @@ Josep Sanz Campderrós.
 ++AB Custom Transports & Logistics, S.L. (since 2019)++
 
 Developments for GNU/Linux environments and integration of SaltOS in all business areas:
-- Documentation recognition systems using OCR, bar codes and QR codes.
+- Route optimization using AI and online appointment automation.
 - Integration of SaltOS in all the business areas of the company.
-- Automation of processes using embedded systems based on Raspberry PI
-- Route optimization using AI and online appointment automation
+- SaltOS connection with the company's old ERP (SQLServer).
+- Documentation recognition systems using OCR, bar codes and QR codes.
+- Automation of processes using embedded systems based on Raspberry PI.
 
 
 ++Institute of Space Studies of Catalonia (2011-2019)++
@@ -149,10 +150,11 @@ Assembly and maintenance of electromedical equipment.
 ++AB Custom Transports & Logistics, S.L. (since 2019)++
 
 Developments for GNU/Linux environments and integration of SaltOS in all business areas:
-- Documentation recognition systems using OCR, bar codes and QR codes.
+- Route optimization using AI and online appointment automation.
 - Integration of SaltOS in all the business areas of the company.
-- Automation of processes using embedded systems based on Raspberry PI
-- Route optimization using AI and online appointment automation
+- SaltOS connection with the company's old ERP (SQLServer).
+- Documentation recognition systems using OCR, bar codes and QR codes.
+- Automation of processes using embedded systems based on Raspberry PI.
 
 
 +++Online appointment project+++
@@ -160,8 +162,8 @@ Developments for GNU/Linux environments and integration of SaltOS in all busines
 Development of the suite of applications so that recipients can make online appointments:
 - Definition of platforms, delivery areas, distribution trucks and customers.
 - Programming of expeditions, routes and call center applications.
-- Definition of extras such as holidays, types of services, transfers and generic configuration.
-- Integration of the app for making appointments with the company's website for the use of the recipients.
+- Definition of extras such as holidays, types of services, transfers, generic configuration, ...
+- Integration of the app for making appointments with the company's website.
 - Program the send of communications through emails and SMSs to the recipients.
 - Generation of labels, delivery notes and route sheets for warehouses and traffic departments.
 
