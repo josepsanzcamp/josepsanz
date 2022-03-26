@@ -36,7 +36,7 @@ $(function() {
 					});
 				};
 				eventBus.on("pagesinit",fn1);
-				eventBus.on("textlayerrendered",fn2);
+				eventBus.on("annotationlayerrendered",fn2);
 				pdfViewer.removePageBorders=true;
 				pdfViewer.setDocument(pdfDocument);
 				$("#viewerContainer").css("position","relative");

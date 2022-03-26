@@ -1,12 +1,33 @@
+# https://cdnjs.com/libraries/pdf.js
 
-    setFillRGBColor(r, g, b) {
-      /* BEGIN COLOR TRICK BY SANZ */
-      if(r==39 && g==128 && b==227) { r=pdfColor[0]; g=pdfColor[1]; b=pdfColor[2]; }
-      /* END COLOR TRICK BY SANZ */
-      const color = _util.Util.makeHexColor(r, g, b);
+#wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.12.313/pdf.min.js
+#wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.12.313/pdf.worker.min.js
+#wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.12.313/pdf_viewer.min.css
+#wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.12.313/pdf_viewer.min.js
 
-      this.ctx.fillStyle = color;
-      this.current.fillColor = color;
-      this.current.patternFill = false;
-    }
+#wget https://cdn.jsdelivr.net/npm/pdfjs-dist@2.12.313/build/pdf.min.js
+#wget https://cdn.jsdelivr.net/npm/pdfjs-dist@2.12.313/build/pdf.worker.min.js
+#wget https://cdn.jsdelivr.net/npm/pdfjs-dist@2.12.313/web/pdf_viewer.css
+#wget https://cdn.jsdelivr.net/npm/pdfjs-dist@2.12.313/web/pdf_viewer.js
+
+#wget https://cdn.jsdelivr.net/npm/pdfjs-dist@2.13.216/build/pdf.min.js
+#wget https://cdn.jsdelivr.net/npm/pdfjs-dist@2.13.216/build/pdf.worker.min.js
+#wget https://cdn.jsdelivr.net/npm/pdfjs-dist@2.13.216/web/pdf_viewer.css
+#wget https://cdn.jsdelivr.net/npm/pdfjs-dist@2.13.216/web/pdf_viewer.js
+
+wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.13.216/pdf.min.js
+wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.13.216/pdf.worker.min.js
+wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.13.216/pdf_viewer.min.css
+wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.13.216/pdf_viewer.min.js
+
+setFillRGBColor(r, g, b) {
+  /* BEGIN COLOR TRICK BY SANZ */
+  if(r==39 && g==128 && b==227) { r=pdfColor[0]; g=pdfColor[1]; b=pdfColor[2]; }
+  /* END COLOR TRICK BY SANZ */
+  const color = _util.Util.makeHexColor(r, g, b);
+
+  this.ctx.fillStyle = color;
+  this.current.fillColor = color;
+  this.current.patternFill = false;
+}
 
