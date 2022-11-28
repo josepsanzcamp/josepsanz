@@ -235,7 +235,7 @@
 					<a class="btn btn-outline-light btn-social mx-1" href="https://github.com/josepsanzcamp" target="_blank">
 						<i class="fab fa-fw fa-github"></i>
 					</a>
-					<a class="btn btn-outline-light btn-social mx-1" href="https://sourceforge.net/u/josepsanzcamp/profile" target="_blank">
+					<a class="btn btn-outline-light btn-social mx-1" href="https://sourceforge.net/u/josepsanzcamp" target="_blank">
 						<i class="fab fa-fw fa-sourceforge"><i class="fa-sourceforge1">s</i><i class="fa-sourceforge2">f</i></i>
 					</a>
 					<a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/josepsanz" target="_blank">
@@ -249,6 +249,12 @@
 					</a>
 					<a class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/josepsanzcamp" target="_blank">
 						<i class="fab fa-fw fa-twitter"></i>
+					</a>
+					<a class="btn btn-outline-light btn-social mx-1" href="https://youtube.com/@josepsanzcamp" target="_blank">
+						<i class="fab fa-fw fa-youtube"></i>
+					</a>
+					<a class="btn btn-outline-light btn-social mx-1" href="https://instagram.com/josepsanzcamp" target="_blank">
+						<i class="fab fa-fw fa-instagram"></i>
 					</a>
 
 				</div>
