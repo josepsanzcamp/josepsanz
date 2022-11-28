@@ -83,5 +83,3 @@ function js_minify2($data,$js) {
 	$data=str_replace("</body>",'<script src="'.$js.'"></script>'."</body>",$data);
 	return $data;
 }
-
-?>

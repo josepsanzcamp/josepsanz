@@ -23,5 +23,3 @@ file_put_contents("index.html",$data);
 $data=file_get_contents("js/gralla.js");
 $data=html_minify($data);
 file_put_contents("gralla/index.html",$data);
-
-?>

@@ -72,4 +72,3 @@ foreach($files as $file) {
 	// GENATE IMAGES
 	//~ exec("pdftoppm -r 150 -png ${file}.pdf ${file}");
 }
-?>

@@ -326,5 +326,3 @@ $labels=array(
 if(!isset($argv[1])) die("ERROR 1");
 if(!isset($labels[$argv[1]])) die("ERROR 2");
 $lang=$argv[1];
-
-?>

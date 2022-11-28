@@ -238,13 +238,13 @@
 					<a class="btn btn-outline-light btn-social mx-1" href="https://sourceforge.net/u/josepsanzcamp" target="_blank">
 						<i class="fab fa-fw fa-sourceforge"><i class="fa-sourceforge1">s</i><i class="fa-sourceforge2">f</i></i>
 					</a>
-					<a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/josepsanz" target="_blank">
+					<a class="btn btn-outline-light btn-social mx-1" href="https://linkedin.com/in/josepsanz" target="_blank">
 						<i class="fab fa-fw fa-linkedin"></i>
 					</a>
 					<a class="btn btn-outline-light btn-social mx-1" href="https://mastodont.cat/@josepsanzcamp" target="_blank">
 						<i class="fab fa-fw fa-mastodon"></i>
 					</a>
-					<a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/josepsanzcamp" target="_blank">
+					<a class="btn btn-outline-light btn-social mx-1" href="https://facebook.com/josepsanzcamp" target="_blank">
 						<i class="fab fa-fw fa-facebook-f"></i>
 					</a>
 					<a class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/josepsanzcamp" target="_blank">
