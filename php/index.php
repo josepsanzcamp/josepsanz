@@ -244,7 +244,7 @@
 					<a class="btn btn-outline-light btn-social mx-1" href="https://mastodont.cat/@josepsanzcamp" target="_blank">
 						<i class="fab fa-fw fa-mastodon"></i>
 					</a>
-					<a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/josep.sanz.56" target="_blank">
+					<a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/josepsanzcamp" target="_blank">
 						<i class="fab fa-fw fa-facebook-f"></i>
 					</a>
 					<a class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/josepsanzcamp" target="_blank">
