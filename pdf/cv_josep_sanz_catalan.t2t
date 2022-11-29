@@ -93,7 +93,7 @@ Desenvolupaments per a entorns WEB basats en LAMP (Linux+Apache+MySQL+PHP):
 
 ++Ingeniería de la Información, IN2 (2005-2006 com a cap d'equip)++
 
-Desenvolupament de software per a entorns Linux i Windows CE.
+Desenvolupament de software per a entorns GNU/Linux i Windows CE.
 - Ús d'eines de seguretat com Snort.
 - Programació de dispositius mòbils utilitzant MVC++ 3.0 per a PDAs
 - Programació en C++, PHP, .NET
@@ -611,7 +611,7 @@ Programació d'un microprocessador NIOS2
 - Control mitjançant oscil·loscopi digital per controlar timmings i garantir el correcte funcionament
 
 
-Programació d'un programari de Linux per recepció de trames UDP
+Programació d'un programari de GNU/Linux per recepció de trames UDP
 - Disseny i implementació d'un programa per recepció de trames UDP
 - Validació de les trames i revisió d'integritat de les mateixes
 - Desar dades en disc local a alta velocitat (usant tecnologia DMA)
@@ -626,7 +626,7 @@ Administració de sistemes per a equip de recepció de dades
 
 ++Ingeniería de la Información, IN2 (2005-2006 com a cap d'equip)++
 
-Desenvolupament de software per a entorns Linux i Windows CE.
+Desenvolupament de software per a entorns GNU/Linux i Windows CE.
 - Ús d'eines de seguretat com Snort.
 - Programació de dispositius mòbils utilitzant MVC++ 3.0 per a PDAs
 - Programació en C++, PHP, .NET

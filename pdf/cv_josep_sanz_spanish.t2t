@@ -93,7 +93,7 @@ Desarrollos para entornos WEB basados en LAMP (Linux+Apache+MySQL+PHP):
 
 ++Ingeniería de la Información, IN2 (2005-2006 como jefe de equipo)++
 
-Desarrollo de software para entornos Linux y Windows CE.
+Desarrollo de software para entornos GNU/Linux y Windows CE.
 - Uso de herramientas de seguridad como Snort.
 - Programación de dispositivos móviles usando EVC++ 3.0 para PDAs
 - Programación en C++, PHP, .NET
@@ -611,7 +611,7 @@ Programación de un microprocesador NIOS2
 - Control mediante osciloscopio digital para controlar timmings y garantizar el correcto funcionamiento
 
 
-Programación de un software sobre Linux para recepcion de tramas UDP
+Programación de un software sobre GNU/Linux para recepcion de tramas UDP
 - Diseño e implementacion de un programa para recepcion de tramas UDP
 - Validacion de las tramas y chequeo de integridad de las mismas
 - Guardado de datos en disco local a alta velocidad (usando tecnología DMA)
@@ -626,7 +626,7 @@ Administracion de sistemas para equipo de recepcion de datos
 
 ++Ingeniería de la Información, IN2 (2005-2006 como jefe de equipo)++
 
-Desarrollo de software para entornos Linux y Windows CE.
+Desarrollo de software para entornos GNU/Linux y Windows CE.
 - Uso de herramientas de seguridad como Snort.
 - Programación de dispositivos móviles usando EVC++ 3.0 para PDAs
 - Programación en C++, PHP, .NET
@@ -696,7 +696,7 @@ Automatización de procesos para el cálculo del Zenith Total Delay
 - Shell scripts usando tcsh, tcl/tk, etc...
 - Descarga en tiempo real de datos usando protocolos FTP, HTTP, SSH
 - Generación de 'reports' usando tecnologias WEB y LaTeX.
-- Gestión de procesos sobre el kernel de linux.
+- Gestión de procesos sobre el kernel de Linux.
 - Detección de bugs en el sistema de ficheros de Solaris 2.6
 
 
