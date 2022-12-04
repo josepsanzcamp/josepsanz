@@ -42,9 +42,9 @@ Novembre de 2022
 +Breu resum professional+
 
 - Al llarg de la meva carrera professional, sempre he fet tasques de R+D.
-- Al projecte empresarial Wide Spectrum Software Solutions, vaig dirigir els projectes SaltOS i Rhinos, així com el seu alliberament sota la llicència GPL-3.0.
+- Al projecte empresarial Wide Spectrum Software Solutions, vaig dirigir els projectes SaltOS i RhinOS, així com el seu alliberament sota la llicència GPL-3.0.
 - He estat membre de la junta directiva de CatPL, associació d'Empreses Catalanes de Programari Lliure.
-- També he realitzat treballs en entorns d'investigació com l'Institut d'Estudis Espacials de Catalunya i la Universitat Politècnica de Catalunya, Dept de Física Aplicada.
+- També he realitzat treballs en centres de recerca com l'Institut d'Estudis Espacials de Catalunya i la Universitat Politècnica de Catalunya, Dept de Física Aplicada.
 
 
 [newpage]
@@ -439,7 +439,7 @@ Desenvolupament d'un framework per desenvolupar aplicacions online:
 Desenvolupament d'un framework per desenvolupar portals web:
 - Sobre entorn LAMP.
 - Inclou 2 capes (CMS i CPS).
-- Pseudo-codi per a la interpretació de plantilles Rhinos.
+- Pseudo-codi per a la interpretació de plantilles RhinOS.
 - Separació de les capes lògiques (presentació i negoci)
 - Aquest projecte s'ha alliberat sota llicència GPL-3.0
 - Actualment segueixo amb el desenvolupament d'aquest projecte pel meu compte.
@@ -496,7 +496,7 @@ Millores a la botiga online
 ++++Portal web EUSS++++
 
 Portal web i intranets d'aquest centre educatiu:
-- S'ha emprat la tecnologia Rhinos.
+- S'ha emprat la tecnologia RhinOS.
 - S'han realitzat diversos evolutius amb èxit.
 - Personalització de Moodle com a aplicació d'e-learning
 
