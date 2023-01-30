@@ -1,13 +1,14 @@
 # https://cdnjs.com/libraries/pdf.js
 
-wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.2.146/pdf.js
-wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.2.146/pdf.worker.min.js
-wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.2.146/pdf_viewer.min.css
-wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.2.146/pdf_viewer.min.js
+wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.3.122/pdf.js
+wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.3.122/pdf.worker.min.js
+wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.3.122/pdf_viewer.min.css
+wget https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.3.122/pdf_viewer.min.js
 
 setFillRGBColor(r, g, b) {
   /* BEGIN COLOR TRICK BY SANZ */
-  if(r==39 && g==128 && b==227) { r=pdfColor[0]; g=pdfColor[1]; b=pdfColor[2]; }
+  //~ console.log("r="+r+", g="+g+", b="+b);
+  if(r==38 && g==127 && b==227) { r=pdfColor[0]; g=pdfColor[1]; b=pdfColor[2]; }
   /* END COLOR TRICK BY SANZ */
   const color = this.selectColor?.(r, g, b) || _util.Util.makeHexColor(r, g, b);
   this.ctx.fillStyle = color;
