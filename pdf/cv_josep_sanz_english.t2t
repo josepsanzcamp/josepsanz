@@ -327,7 +327,7 @@ Improvements in the infrastructure, and in the different software parts that are
 Software for unattended control of TJO (OAdM) and SQT astronomical telescopes.
 - Design, implement and test control software using the following architecture.
 - A server service that serves the requests from port 2323 to provide remote storage and accessible using predefined commands.
-- A broadcast service that allows you to synchronize others remotely  OpenROCS using broadcast techniques.
+- A broadcast service that allows you to synchronize others remotely OpenROCS using broadcast techniques.
 - A monitor service that the main task of this service is update the SDP and HK to be used by the scheduler.
 - A scheduler service that lets you execute the actions that controls the telescope when you change the SDP or HK.
 - This project is released under GPL-3.0
