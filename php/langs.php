@@ -99,14 +99,6 @@ $labels=array(
 					"github.com"=>"https://github.com/josepsanzcamp/covid19",
 				)
 			),
-			"cdesktopenv"=>array(
-				"image"=>"img/portfolio_cdesktopenv.png",
-				"title"=>"Common Desktop Environment",
-				"description"=>"This repository contains some useful scripts (developed by me, more or less) used by me to add features to my CDE that runs on my laptop with GNU/Linux!!!",
-				"links"=>array(
-					"github.com"=>"https://github.com/josepsanzcamp/cdesktopenv",
-				)
-			),
 		)
 	),
 	"en"=>array(
@@ -206,14 +198,6 @@ $labels=array(
 					"github.com"=>"https://github.com/josepsanzcamp/covid19",
 				)
 			),
-			"cdesktopenv"=>array(
-				"image"=>"img/portfolio_cdesktopenv.png",
-				"title"=>"Common Desktop Environment",
-				"description"=>"This repository contains some useful scripts (developed by me, more or less) used by me to add features to my CDE that runs on my laptop with GNU/Linux!!!",
-				"links"=>array(
-					"github.com"=>"https://github.com/josepsanzcamp/cdesktopenv",
-				)
-			),
 		)
 	),
 	"ca"=>array(
@@ -311,14 +295,6 @@ $labels=array(
 				"links"=>array(
 					"josepsanzcamp.github.io"=>"https://josepsanzcamp.github.io/covid19",
 					"github.com"=>"https://github.com/josepsanzcamp/covid19",
-				)
-			),
-			"cdesktopenv"=>array(
-				"image"=>"img/portfolio_cdesktopenv.png",
-				"title"=>"Common Desktop Environment",
-				"description"=>"This repository contains some useful scripts (developed by me, more or less) used by me to add features to my CDE that runs on my laptop with GNU/Linux!!!",
-				"links"=>array(
-					"github.com"=>"https://github.com/josepsanzcamp/cdesktopenv",
 				)
 			),
 		)
