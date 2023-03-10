@@ -62,6 +62,7 @@ $labels=array(
 				"links"=>array(
 					"sourceforge.net"=>"http://sourceforge.net/projects/openrocs",
 					"upcommons.upc.edu"=>"https://upcommons.upc.edu/handle/2099.1/26215",
+					"github.com"=>"https://github.com/josepsanzcamp/OpenROCS",
 				)
 			),
 			"gralla"=>array(
