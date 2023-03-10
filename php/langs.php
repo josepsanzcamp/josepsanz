@@ -42,8 +42,8 @@ $labels=array(
 				"description"=>"SaltOS es la solución 100% Cloud Computing de Gestión Empresarial. Integra las funcionalidades de CRM y ERP. Además está licenciado como software libre bajo la licencia GPL-3.0.",
 				"links"=>array(
 					"www.saltos.org"=>"http://www.saltos.org",
-					"sourceforge.net"=>"https://sourceforge.net/projects/saltos/",
 					"github.com"=>"https://github.com/josepsanzcamp/SaltOS",
+					"sourceforge.net"=>"https://sourceforge.net/projects/saltos/",
 				)
 			),
 			"rhinos"=>array(
@@ -51,8 +51,8 @@ $labels=array(
 				"title"=>"RhinOS",
 				"description"=>"RhinOS es la herramienta perfecta para construir un portal web profesional, administrado de manera fácil y ágil sin necesidad de tener conocimientos técnicos. Además está licenciado como software libre bajo la licencia GPL-3.0.",
 				"links"=>array(
-					"sourceforge.net"=>"http://sourceforge.net/projects/rhinos",
 					"github.com"=>"https://github.com/josepsanzcamp/RhinOS",
+					"sourceforge.net"=>"http://sourceforge.net/projects/rhinos",
 				)
 			),
 			"openrocs"=>array(
@@ -60,9 +60,9 @@ $labels=array(
 				"title"=>"OpenROCS v2.0",
 				"description"=>"OpenROCS conforms an independent control layer for robotic observatories. It is a master scheduler of the processes that the system has to execute and a monitor of the overall state of the observatory. It controls the end-to-end data flow and the housekeeping processes by handling a set of predefined events. The former are responsible for ensuring that the system executes the routine operation by maximizing the scientific return of the facility. While the latter consider all those anomalous situations that could put the observatory at risk and activate corrective or mitigation actions. All the applications running at the observatory and the hardware components interact with it. It is released under GNU/GPL public license.",
 				"links"=>array(
-					"sourceforge.net"=>"http://sourceforge.net/projects/openrocs",
 					"upcommons.upc.edu"=>"https://upcommons.upc.edu/handle/2099.1/26215",
 					"github.com"=>"https://github.com/josepsanzcamp/OpenROCS",
+					"sourceforge.net"=>"http://sourceforge.net/projects/openrocs",
 				)
 			),
 			"gralla"=>array(
@@ -149,8 +149,8 @@ $labels=array(
 				"description"=>"SaltOS is the Business Management solution 100% Cloud Computing. It integrates features like CRM and ERP. Moreover is it licensed as 100% free software GPL-3.0.",
 				"links"=>array(
 					"www.saltos.org"=>"http://www.saltos.org",
-					"sourceforge.net"=>"https://sourceforge.net/projects/saltos/",
 					"github.com"=>"https://github.com/josepsanzcamp/SaltOS",
+					"sourceforge.net"=>"https://sourceforge.net/projects/saltos/",
 				)
 			),
 			"rhinos"=>array(
@@ -158,8 +158,8 @@ $labels=array(
 				"title"=>"RhinOS",
 				"description"=>"RhinOS is a perfect tool for building a professional website, and manage it in a easy and dynamic way without needing technical knowledge. Its license is 100% free software based GPL-3.0.",
 				"links"=>array(
-					"sourceforge.net"=>"http://sourceforge.net/projects/rhinos",
 					"github.com"=>"https://github.com/josepsanzcamp/RhinOS",
+					"sourceforge.net"=>"http://sourceforge.net/projects/rhinos",
 				)
 			),
 			"openrocs"=>array(
@@ -167,8 +167,9 @@ $labels=array(
 				"title"=>"OpenROCS v2.0",
 				"description"=>"OpenROCS conforms an independent control layer for robotic observatories. It is a master scheduler of the processes that the system has to execute and a monitor of the overall state of the observatory. It controls the end-to-end data flow and the housekeeping processes by handling a set of predefined events. The former are responsible for ensuring that the system executes the routine operation by maximizing the scientific return of the facility. While the latter consider all those anomalous situations that could put the observatory at risk and activate corrective or mitigation actions. All the applications running at the observatory and the hardware components interact with it. It is released under GNU/GPL public license.",
 				"links"=>array(
-					"sourceforge.net"=>"http://sourceforge.net/projects/openrocs",
 					"upcommons.upc.edu"=>"https://upcommons.upc.edu/handle/2099.1/26215",
+					"github.com"=>"https://github.com/josepsanzcamp/OpenROCS",
+					"sourceforge.net"=>"http://sourceforge.net/projects/openrocs",
 				)
 			),
 			"gralla"=>array(
@@ -255,8 +256,8 @@ $labels=array(
 				"description"=>"SaltOS és la solució 100% Cloud Computing de Gestió Empresarial. Integra les funcionalitats de CRM i ERP. A més està llicenciat com a programari lliure sota la llicència GPL-3.0.",
 				"links"=>array(
 					"www.saltos.org"=>"http://www.saltos.org",
-					"sourceforge.net"=>"https://sourceforge.net/projects/saltos/",
 					"github.com"=>"https://github.com/josepsanzcamp/SaltOS",
+					"sourceforge.net"=>"https://sourceforge.net/projects/saltos/",
 				)
 			),
 			"rhinos"=>array(
@@ -264,8 +265,8 @@ $labels=array(
 				"title"=>"RhinOS",
 				"description"=>"Rhinos és l'eina perfecta per construir un portal web professional, administrat de manera fàcil i àgil sense necessitat de tenir coneixements tècnics. A més està llicenciat com a programari lliure sota la llicència GPL-3.0.",
 				"links"=>array(
-					"sourceforge.net"=>"http://sourceforge.net/projects/rhinos",
 					"github.com"=>"https://github.com/josepsanzcamp/RhinOS",
+					"sourceforge.net"=>"http://sourceforge.net/projects/rhinos",
 				)
 			),
 			"openrocs"=>array(
@@ -273,8 +274,9 @@ $labels=array(
 				"title"=>"OpenROCS v2.0",
 				"description"=>"OpenROCS conforms an independent control layer for robotic observatories. It is a master scheduler of the processes that the system has to execute and a monitor of the overall state of the observatory. It controls the end-to-end data flow and the housekeeping processes by handling a set of predefined events. The former are responsible for ensuring that the system executes the routine operation by maximizing the scientific return of the facility. While the latter consider all those anomalous situations that could put the observatory at risk and activate corrective or mitigation actions. All the applications running at the observatory and the hardware components interact with it. It is released under GNU/GPL public license.",
 				"links"=>array(
-					"sourceforge.net"=>"http://sourceforge.net/projects/openrocs",
 					"upcommons.upc.edu"=>"https://upcommons.upc.edu/handle/2099.1/26215",
+					"github.com"=>"https://github.com/josepsanzcamp/OpenROCS",
+					"sourceforge.net"=>"http://sourceforge.net/projects/openrocs",
 				)
 			),
 			"gralla"=>array(
