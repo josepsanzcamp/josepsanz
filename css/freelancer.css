@@ -9788,7 +9788,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .floating-label-form-group {
   position: relative;
-  border-bottom: 1px solid #e9ecef;
+  /*border-bottom: 1px solid #e9ecef;*//* REMOVED BY SANZ */
 }
 
 .floating-label-form-group input,
@@ -9796,11 +9796,12 @@ a.text-dark:hover, a.text-dark:focus {
   font-size: 1.5em;
   position: relative;
   z-index: 1;
-  padding-right: 0;
-  padding-left: 0;
+  /*padding-right: 0;*//* REMOVED BY SANZ */
+  /*padding-left: 0;*//* REMOVED BY SANZ */
   resize: none;
-  border: none;
-  border-radius: 0;
+  /*border: none;*//* REMOVED BY SANZ */
+  /*border-radius: 0;*//* REMOVED BY SANZ */
+  border: 1px solid #e9ecef;/* ADDED BY SANZ */
   background: none;
   box-shadow: none !important;
 }
