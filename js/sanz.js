@@ -102,6 +102,9 @@ $(function() {
 			"#mainNav button:hover":{
 				"background-color":"#345678!important",
 				"color":"#234567!important",
+			},
+			".form-control:focus":{
+				"border-color":"#234567!important",
 			}
 		}
 	};
