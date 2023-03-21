@@ -34,6 +34,15 @@ $(function() {
 				"background-color":"#123456",
 				"border-color":"#123456",
 			},
+			".btn-primary:focus":{
+				"box-shadow":"0 0 0 0.2rem rgba(50,100,150, 0.5)",
+			},
+			".btn-primary:active":{
+				"color":"#ffffff",
+				"background-color":"#123456!important",
+				"border-color":"#123456!important",
+				"box-shadow":"0 0 0 0.2rem rgba(50,100,150, 0.5)!important",
+			},
 			".masthead.text-white":{
 				"color":"#345678!important",
 			},
@@ -87,6 +96,15 @@ $(function() {
 				"color":"#234567",
 				"background-color":"#345678",
 				"border-color":"#345678",
+			},
+			".btn-outline-light:focus":{
+				"box-shadow":"0 0 0 0.2rem rgba(50,100,150, 0.5)",
+			},
+			".btn-outline-light:active":{
+				"color":"#234567!important",
+				"background-color":"#345678!important",
+				"border-color":"#345678!important",
+				"box-shadow":"0 0 0 0.2rem rgba(50,100,150, 0.5)!important",
 			},
 			"#mainNav .nav-link.active":{
 				"background-color":"#234567!important",
@@ -148,8 +166,7 @@ $(function() {
 		if($(e.target).is("input")) return;
 		if($(e.target).is("textarea")) return;
 		if(e.ctrlKey || e.shiftKey) {
-			counter=counter-1;
-			if(counter<0) counter+=nombre.length;
+			counter=(counter+nombre.length-1)%nombre.length;
 		} else {
 			counter=(counter+1)%nombre.length;
 		}
