@@ -155,9 +155,17 @@
 
                 <!-- About Section Button -->
                 <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="<?php echo str_replace(".pdf", "_full.pdf", $labels[$lang]["downloadlink"]); ?>">
+                    <a class="btn btn-xl btn-outline-light m-2" href="<?php echo str_replace(".pdf", "_full.pdf", str_replace(array("catalan","spanish","english"), "catalan", $labels[$lang]["downloadlink"])); ?>">
                         <i class="fas fa-download mr-2"></i>
-                        <?php echo $labels[$lang]["downloadtext"]; ?>
+                        <?php echo $labels[$lang]["downloadtext"]; ?> (<?php echo $labels[$lang]["catala"]; ?>)
+                    </a>
+                    <a class="btn btn-xl btn-outline-light m-2" href="<?php echo str_replace(".pdf", "_full.pdf", str_replace(array("catalan","spanish","english"), "spanish", $labels[$lang]["downloadlink"])); ?>">
+                        <i class="fas fa-download mr-2"></i>
+                        <?php echo $labels[$lang]["downloadtext"]; ?> (<?php echo $labels[$lang]["castellano"]; ?>)
+                    </a>
+                    <a class="btn btn-xl btn-outline-light m-2" href="<?php echo str_replace(".pdf", "_full.pdf", str_replace(array("catalan","spanish","english"), "english", $labels[$lang]["downloadlink"])); ?>">
+                        <i class="fas fa-download mr-2"></i>
+                        <?php echo $labels[$lang]["downloadtext"]; ?> (<?php echo $labels[$lang]["english"]; ?>)
                     </a>
                 </div>
 
