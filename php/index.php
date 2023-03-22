@@ -232,7 +232,10 @@
                             <br>
                             <div id="success"></div>
                             <div class="form-group">
-                                <button type="submit" class="btn btn-primary btn-xl" id="sendMessageButton"><?php echo $labels[$lang]["buttonsend"]; ?></button>
+                                <button type="submit" class="btn btn-primary btn-xl" id="sendMessageButton">
+                                    <i class="fas fa-envelope mr-2"></i>
+                                    <?php echo $labels[$lang]["buttonsend"]; ?>
+                                </button>
                             </div>
                         </form>
                     </div>
