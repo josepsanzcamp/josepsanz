@@ -147,26 +147,34 @@
                 <!-- About Section Content -->
                 <div class="row">
                     <div class="col-lg-12">
-                        <div id="viewerContainer" data-file="<?php echo str_replace(".pdf", "_preview.pdf", $labels[$lang]["downloadlink"]); ?>">
+                        <div id="viewerContainer" data-file="<?php echo $labels[$lang]["downloadlink"]; ?>">
                             <div id="viewer" class="pdfViewer"></div>
                         </div>
                     </div>
                 </div>
 
                 <!-- About Section Button -->
-                <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light m-2" href="<?php echo str_replace(".pdf", "_full.pdf", str_replace(array("catalan","spanish","english"), "catalan", $labels[$lang]["downloadlink"])); ?>">
-                        <i class="fas fa-download mr-2"></i>
-                        <?php echo $labels[$lang]["downloadtext"]; ?> (<?php echo $labels[$lang]["catala"]; ?>)
-                    </a>
-                    <a class="btn btn-xl btn-outline-light m-2" href="<?php echo str_replace(".pdf", "_full.pdf", str_replace(array("catalan","spanish","english"), "spanish", $labels[$lang]["downloadlink"])); ?>">
-                        <i class="fas fa-download mr-2"></i>
-                        <?php echo $labels[$lang]["downloadtext"]; ?> (<?php echo $labels[$lang]["castellano"]; ?>)
-                    </a>
-                    <a class="btn btn-xl btn-outline-light m-2" href="<?php echo str_replace(".pdf", "_full.pdf", str_replace(array("catalan","spanish","english"), "english", $labels[$lang]["downloadlink"])); ?>">
-                        <i class="fas fa-download mr-2"></i>
-                        <?php echo $labels[$lang]["downloadtext"]; ?> (<?php echo $labels[$lang]["english"]; ?>)
-                    </a>
+                <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                        <a class="btn btn-xl btn-outline-light w-100 my-3 sameheight" href="<?php echo $labels[$lang]["downloadlink_ca"]; ?>">
+                            <i class="fas fa-download mr-2"></i>
+                            <?php echo $labels[$lang]["downloadtext"]; ?> (<?php echo $labels[$lang]["catala"]; ?>)
+                        </a>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <a class="btn btn-xl btn-outline-light w-100 my-3 sameheight" href="<?php echo $labels[$lang]["downloadlink_es"]; ?>">
+                            <i class="fas fa-download mr-2"></i>
+                            <?php echo $labels[$lang]["downloadtext"]; ?> (<?php echo $labels[$lang]["castellano"]; ?>)
+                        </a>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <a class="btn btn-xl btn-outline-light w-100 my-3 sameheight" href="<?php echo $labels[$lang]["downloadlink_en"]; ?>">
+                            <i class="fas fa-download mr-2"></i>
+                            <?php echo $labels[$lang]["downloadtext"]; ?> (<?php echo $labels[$lang]["english"]; ?>)
+                        </a>
+                    </div>
                 </div>
 
             </div>
