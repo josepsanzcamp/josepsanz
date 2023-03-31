@@ -1,6 +1,8 @@
 # www.josepsanz.net
 Welcome to my personal website and profile
 
+![](https://raw.githubusercontent.com/josepsanzcamp/josepsanz/master/img/screenshot.png)
+
 ## Original template
 This website was built using a template obtained from here:
 - https://startbootstrap.com/themes/freelancer/
