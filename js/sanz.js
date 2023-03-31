@@ -165,7 +165,7 @@ $(function() {
 		if($(e.target).is("div.portfolio-item-caption")) return;
 		if($(e.target).is("input")) return;
 		if($(e.target).is("textarea")) return;
-		if(e.ctrlKey || e.shiftKey) {
+		if(e.ctrlKey || e.shiftKey || e.altKey) {
 			counter=(counter+nombre.length-1)%nombre.length;
 		} else {
 			counter=(counter+1)%nombre.length;
