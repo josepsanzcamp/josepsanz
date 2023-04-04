@@ -29,6 +29,11 @@ $(function() {
 				"background-color":"#234567",
 				"border-color":"#234567",
 			},
+			".btn-primary:disabled":{
+				"color":"#345678",
+				"background-color":"#234567",
+				"border-color":"#234567",
+			},
 			".btn-primary:hover":{
 				"color":"#ffffff",
 				"background-color":"#123456",
@@ -123,6 +128,9 @@ $(function() {
 			},
 			".form-control:focus":{
 				"border-color":"#234567!important",
+			},
+			".floating-label-form-group-with-focus label":{
+				"color":"#234567",
 			}
 		}
 	};
