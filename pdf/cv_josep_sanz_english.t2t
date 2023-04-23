@@ -41,28 +41,28 @@ April 2023
 
 +Other data of interest+
 
-- Throughout my professional career, I have always carried out R+D tasks.
+- Throughout my professional career, I have almost always carried out R+D+i tasks (Research, Development and Innovation).
 - In the Wide Spectrum Software Solutions business project, I directed the [SaltOS https://github.com/josepsanzcamp/SaltOS/] and [RhinOS https://github.com/josepsanzcamp/RhinOS/] projects, as well as their release under the GPL-3.0 license, currently I continue developing on these projects.
 - I have been a member of the board of directors of CatPL, the association of Catalan Free Software Companies, and I have given talks on free software.
 - I have worked in research environments such as the Institute of Space Studies of Catalonia and the Technical University of Catalonia at Dept. of Applied Physics.
 - In the last years I have carried out tasks of optimization and automation of processes in the logistics sector, using algorithms such as STRIPS and languages such as PDDL.
-- I have published a repository at [github https://github.com/josepsanzcamp/gralla/] with a web of scores for gralla and audios at [gralla.josepsanz.net https://gralla.josepsanz.net]
+- I have published a repository at [github.com/josepsanzcamp/gralla https://github.com/josepsanzcamp/gralla/] with a web of scores and audios for gralla at [gralla.josepsanz.net https://gralla.josepsanz.net]
 - I have also contributed to free software projects such as phpMyAdmin, Mroonga, MuseScore, PHP, jQuery-UI, jquery-timepicker, TCPDF, WarnockPDF, root-ro, handsontable, masonry, hhvm, jGrowl, sqlite-for-piwik, webapp-xul-wrapper, php-osx, jsmin-php, jquery-grab-bag, pdf.js, Columnizer-jQuery-Plugin
 
 
 +Key words+
 
-- Operating systems: GNU/Linux, Unix Solaris, HP-UX, Slackware, Centos, Debian, Ubuntu, RedHat, Fedora, LAMP, Microsoft
+- Operating systems: GNU/Linux, Unix Solaris, HP-UX, Slackware, Centos, Debian, Ubuntu, RedHat, Fedora, LAMP, Microsoft, Raspbian
 - Databases: MySQL, PostgreSQL, Oracle, SQLServer, MariaDB
 - Services: Samba, Apache, FTP, HTTP, SSH, Crontab
 - Programming: Visual Basic, Visual C++, C, GTK, PHP, TCSH, TCL/TK, Latex, Embedded Visual C++, Shell Scripts, Python, C++, .NET, XSLT, ANSI C, MONO, WEB, HTML, JavaScript, CSS, Ajax
 - Programs: Wordpress, EzPublish, VLC, Snort, GIS, Adobe OnSiteView, TomTom, Jquery-UI, Bootstrap, TinyMCE, CKEditor
-- Embedded: PLC, FPGA Altera, Terminal TETRA, PDA, NIOS, XILINX, microBlaze, LEON3, Firmware, Raspberry PI, Raspbian, RPI, RTOS
+- Embedded: PLC, FPGA, Altera, TETRA, PDA, NIOS, Xilinx, MicroBlaze, LEON3, Firmware, Raspberry PI, RPI, RTOS
 - Projects: SaltOS, RhinOS, OpenROCS
 - Licenses: GPL, MIT, BSD, Open Source, Free Software
 - Logistics: CitasWEB, Maps, Routes, IA, Call Center, ERP, CMS, OCR, QR, Codebar
 - Protocols: TCP/IP, UDP/IP, SSL, WebService, REST, SNMP, NMEA, RFID, DMA, SOAP, DHCP, API, SMS, Email
-- Integration: CSV, Excel, XML, Bytes, EDI, PDF, JPEG, TIFF, XML, RSS, ATOM
+- Integration: CSV, Excel, XML, Bytes, EDI, PDF, JPEG, TIFF, XML, RSS, ATOM, JSON
 - Tecnologies: Bluetooth, GPS, Ethernet, GRPS, WIFI, RS232
 - Quality: Unit test, Validation test, Cantata, Bazaar, Subversion, Git, phpcs, phpunit, phploc, phpmd, phpdoc
 - Astronomy: Vaisala, INDI, Rain detector, Previstorm, Cloud Sensor, Davis Weather Station, PbCdlComm, XmCCD, IndiCCD, Andor, Finger Lakes Instruments, APOGEE, APC, ROS, SBIG, Meade Telescope, Baader Dome, Allsky
@@ -70,6 +70,14 @@ April 2023
 
 
 +Professional experience+
+
+++Independent professional (Since 2022)++
+
+Developments for GNU/Linux and evolutives in the SaltOS and RhinOS projects:
+- RhinOS and SaltOS evolutions to run on PHP 8.2 + third-party library updates.
+- Development of the new SaltOS v4 framework, the improvements compared to the previous version are the following: backend developed in PHP and frontend developed in JavaScript, the communication between the layers is done through the new API based on SaltOS REST and JSON requests.
+- Migration of SaltOS Server from CentOS 7 to Debian 11.
+
 
 ++AB Custom Transports & Logistics, S.L. (2019-2022)++
 
@@ -151,6 +159,8 @@ Assembly and maintenance of electromedical equipment.
 - Specification and implementation of equipment for technical tests.
 
 
+[newpage]
+
 +Languages+
 
 - Spanish native (read, written and spoken).
@@ -158,9 +168,15 @@ Assembly and maintenance of electromedical equipment.
 - Technical English (intermediate level for read, write and speak).
 
 
-[newpage]
-
 +Annex (detailed professional experience)+
+
+++Independent professional (Since 2022)++
+
+Developments for GNU/Linux and evolutives in the SaltOS and RhinOS projects:
+- RhinOS and SaltOS evolutions to run on PHP 8.2 + third-party library updates.
+- Development of the new SaltOS v4 framework, the improvements compared to the previous version are the following: backend developed in PHP and frontend developed in JavaScript, the communication between the layers is done through the new API based on SaltOS REST and JSON requests.
+- Migration of SaltOS Server from CentOS 7 to Debian 11.
+
 
 ++AB Custom Transports & Logistics, S.L. (2019-2022)++
 

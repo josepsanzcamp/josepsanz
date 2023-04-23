@@ -41,28 +41,28 @@ Abril de 2023
 
 +Altres dades d'interès+
 
-- Al llarg de la meva carrera professional, sempre he fet tasques de R+D.
+- Al llarg de la meva carrera professional, gairebé sempre he fet tasques de R+D+i (Recerca, Desenvolupament i Innovació).
 - Al projecte empresarial Wide Spectrum Software Solutions, vaig dirigir els projectes [SaltOS https://github.com/josepsanzcamp/SaltOS/] i [RhinOS https://github.com/josepsanzcamp/RhinOS/], així com el seu alliberament sota la llicència GPL-3.0, en l'actualitat continuo desenvolupant en aquests projectes.
 - He estat membre de la junta directiva de CatPL, associació d'Empreses Catalanes de Programari Lliure i he impartit xerrades sobre programari lliure.
 - He realitzat treballs en centres de recerca com l'Institut d'Estudis Espacials de Catalunya i la Universitat Politècnica de Catalunya, Dept de Física Aplicada.
 - En els darrers anys he realitzat tasques d'optimització i automatització de processos al sector logístic, usant algoritmes com STRIPS i llenguatges com PDDL.
-- He publicat un repositori a [github https://github.com/josepsanzcamp/gralla/] amb una web de partitures per a gralla i àudios a [gralla.josepsanz.net https://gralla.josepsanz.net]
+- He publicat un repositori a [github.com/josepsanzcamp/gralla https://github.com/josepsanzcamp/gralla/] amb una web de partitures i àudios per a gralla a [gralla.josepsanz.net https://gralla.josepsanz.net]
 - També he fet contribucions en projectes de programari lliure com phpMyAdmin, Mroonga, MuseScore, PHP, jQuery-UI, jquery-timepicker, TCPDF, WarnockPDF, root-ro, handsontable, masonry, hhvm, jGrowl, sqlite-for-piwik, webapp-xul-wrapper, php-osx, jsmin-php, jquery-grab-bag, pdf.js, Columnizer-jQuery-Plugin
 
 
 +Paraules clau+
 
-- Sistemes operatius: GNU/Linux, Unix Solaris, HP-UX, Slackware, Centos, Debian, Ubuntu, RedHat, Fedora, LAMP, Microsoft
+- Sistemes operatius: GNU/Linux, Unix Solaris, HP-UX, Slackware, Centos, Debian, Ubuntu, RedHat, Fedora, LAMP, Microsoft, Raspbian
 - Bases de dades: MySQL, PostgreSQL, Oracle, SQLServer, MariaDB
 - Serveis: Samba, Apache, FTP, HTTP, SSH, Crontab
 - Programació: Visual Basic, Visual C++, C, GTK, PHP, TCSH, TCL/TK, Latex, Embedded Visual C++, Shell Scripts, Python, C++, .NET, XSLT, ANSI C, MONO, WEB, HTML, JavaScript, CSS, Ajax
 - Programes: Wordpress, EzPublish, VLC, Snort, GIS, Adobe OnSiteView, TomTom, Jquery-UI, Bootstrap, TinyMCE, CKEditor
-- Embedded: PLC, FPGA Altera, Terminal TETRA, PDA, NIOS, XILINX, microBlaze, LEON3, Firmware, Raspberry PI, Raspbian, RPI, RTOS
+- Embedded: PLC, FPGA, Altera, TETRA, PDA, NIOS, Xilinx, MicroBlaze, LEON3, Firmware, Raspberry PI, RPI, RTOS
 - Projectes: SaltOS, RhinOS, OpenROCS
 - Llicències: GPL, MIT, BSD, Open Source, Free Software
 - Logística: CitasWEB, Maps, Routes, IA, Call Center, ERP, CMS, OCR, QR, Codebar
 - Protocols: TCP/IP, UDP/IP, SSL, WebService, REST, SNMP, NMEA, RFID, DMA, SOAP, DHCP, API, SMS, Email
-- Integració: CSV, Excel, XML, Bytes, EDI, PDF, JPEG, TIFF, XML, RSS, ATOM
+- Integració: CSV, Excel, XML, Bytes, EDI, PDF, JPEG, TIFF, XML, RSS, ATOM, JSON
 - Tecnologies: Bluetooth, GPS, Ethernet, GRPS, WIFI, RS232
 - Qualitat: Unit test, Validation test, Cantata, Bazaar, Subversion, Git, phpcs, phpunit, phploc, phpmd, phpdoc
 - Astronomia: Vaisala, INDI, Rain detector, Previstorm, Cloud Sensor, Davis Weather Station, PbCdlComm, XmCCD, IndiCCD, Andor, Finger Lakes Instruments, APOGEE, APC, ROS, SBIG, Meade Telescope, Baader Dome, Allsky
@@ -70,6 +70,14 @@ Abril de 2023
 
 
 +Experiència professional+
+
+++Professional independent (Des de 2022)++
+
+Desenvolupaments per a entorns GNU/Linux i evolutius en els projectes SaltOS i RhinOS:
+- Evolutius de RhinOS i SaltOS per a la seva execució a PHP 8.2 + actualitzacions de les llibreries de tercers.
+- Desenvolupament del nou framework SaltOS v4, les millores respecte a la versió anterior són les següents: backend desenvolupat en PHP i frontend desenvolupat en JavaScript, la comunicació entre les capes es realitza mitjançant la nova API basada en peticions REST i JSON de SaltOS.
+- Migració de SaltOS Server de CentOS 7 a Debian 11.
+
 
 ++AB Custom Transports & Logistics, S.L. (2019-2022)++
 
@@ -151,6 +159,8 @@ Acoblament i manteniment d'equips d'electro-medicina.
 - Especificació i implementació d'equips per tests tècnics.
 
 
+[newpage]
+
 +Idiomes+
 
 - Castellà natiu (llegit, escrit i parlat).
@@ -158,9 +168,15 @@ Acoblament i manteniment d'equips d'electro-medicina.
 - Anglès tècnic (nivell mitjà, llegit, escrit i parlat).
 
 
-[newpage]
-
 +Annex (experiència professional detallada)+
+
+++Professional independent (Des de 2022)++
+
+Desenvolupaments per a entorns GNU/Linux i evolutius en els projectes SaltOS i RhinOS:
+- Evolutius de RhinOS i SaltOS per a la seva execució a PHP 8.2 + actualitzacions de les llibreries de tercers.
+- Desenvolupament del nou framework SaltOS v4, les millores respecte a la versió anterior són les següents: backend desenvolupat en PHP i frontend desenvolupat en JavaScript, la comunicació entre les capes es realitza mitjançant la nova API basada en peticions REST i JSON de SaltOS.
+- Migració de SaltOS Server de CentOS 7 a Debian 11.
+
 
 ++AB Custom Transports & Logistics, S.L. (2019-2022)++
 
