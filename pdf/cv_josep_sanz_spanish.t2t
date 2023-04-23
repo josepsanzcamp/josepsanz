@@ -42,11 +42,11 @@ Abril de 2023
 +Otros datos de interés+
 
 - A lo largo de mi carrera profesional, siempre he realizado tareas de I+D.
-- En el proyecto empresarial Wide Spectrum Software Solutions, dirigí los proyectos SaltOS y RhinOS, así como su liberación bajo la licencia GPL-3.0, en la actualizad continuo desarrollando en estos proyectos.
+- En el proyecto empresarial Wide Spectrum Software Solutions, dirigí los proyectos [SaltOS https://github.com/josepsanzcamp/SaltOS/] y [RhinOS https://github.com/josepsanzcamp/RhinOS/], así como su liberación bajo la licencia GPL-3.0, en la actualizad continuo desarrollando en estos proyectos.
 - He sido miembro de la junta directiva de CatPL, asociación de Empresas Catalanas de Software Libre y he impartido charlas sobre software libre.
 - He realizado trabajos en entornos de investigación como el Institut d'Estudis Espacials de Catalunya y la Universitat Politècnica de Catalunya, Dept. de Física Aplicada.
 - En los últimos años he realizado tareas de optimización y automatización de procesos en el sector logístico, usando algoritmos como STRIPS y lenguages como PDDL.
-- He publicado un repositorio con una web de partituras para gralla y audios en [gralla.josepsanz.net https://gralla.josepsanz.net]
+- He publicado un repositorio en [github https://github.com/josepsanzcamp/gralla/] con una web de partituras para gralla y audios en [gralla.josepsanz.net https://gralla.josepsanz.net]
 - Tambien he hecho contribuciones en proyectos de software libre como phpMyAdmin, Mroonga, MuseScore, PHP, jQuery-UI, jquery-timepicker, TCPDF, WarnockPDF, root-ro, handsontable, masonry, hhvm, jGrowl, sqlite-for-piwik, webapp-xul-wrapper, php-osx, jsmin-php, jquery-grab-bag, pdf.js, Columnizer-jQuery-Plugin
 
 
@@ -55,15 +55,16 @@ Abril de 2023
 - Sistemas operativos: GNU/Linux, Unix Solaris, HP-UX, Slackware, Centos, Debian, Ubuntu, RedHat, Fedora, LAMP, Microsoft
 - Bases de datos: MySQL, PostgreSQL, Oracle, SQLServer, MariaDB
 - Servicios: Samba, Apache, FTP, HTTP, SSH, Crontab
-- Programación: Visual Basic, Visual C++, C, GTK, PHP, TCSH, TCL/TK, Latex, Embedded Visual C++, Shell Scripts, Python, C++, .NET, XSLT, ANSI C, MONO, Unit-test, Validation-test, WEB, HTML, JavaScript, CSS, Ajax
+- Programación: Visual Basic, Visual C++, C, GTK, PHP, TCSH, TCL/TK, Latex, Embedded Visual C++, Shell Scripts, Python, C++, .NET, XSLT, ANSI C, MONO, WEB, HTML, JavaScript, CSS, Ajax
 - Programas: Wordpress, EzPublish, VLC, Snort, GIS, Adobe OnSiteView, TomTom, Jquery-UI, Bootstrap, TinyMCE, CKEditor
 - Embedded: PLC, FPGA Altera, Terminal TETRA, PDA, NIOS, XILINX, microBlaze, LEON3, Firmware, Raspberry PI, Raspbian, RPI, RTOS
 - Proyectos: SaltOS, RhinOS, OpenROCS
 - Licencias: GPL, MIT, BSD, Open Source, Free Software
-- Logística: CitasWEB, Maps, Route, IA, Call Center, ERP, CMS, OCR, QR, Codebar
+- Logística: CitasWEB, Maps, Routes, IA, Call Center, ERP, CMS, OCR, QR, Codebar
 - Protocolos: TCP/IP, UDP/IP, SSL, WebService, REST, SNMP, NMEA, RFID, DMA, SOAP, DHCP, API, SMS, Email
-- Formatos: CSV, Excel, XML, Bytes, EDI, PDF, JPEG, TIFF, XML, RSS, ATOM
-- Tecnologías: Bluetooth, GPS, Ethernet, GRPS, WIFI
+- Integración: CSV, Excel, XML, Bytes, EDI, PDF, JPEG, TIFF, XML, RSS, ATOM
+- Tecnologías: Bluetooth, GPS, Ethernet, GRPS, WIFI, RS232
+- Calidad: Unit test, Validation test, Cantata, Bazaar, Subversion, Git, phpcs, phpunit, phploc, phpmd, phpdoc
 - Astronomía: Vaisala, INDI, Rain detector, Previstorm, Cloud Sensor, Davis Weather Station, PbCdlComm, XmCCD, IndiCCD, Andor, Finger Lakes Instruments, APOGEE, APC, ROS, SBIG, Meade Telescope, Baader Dome, Allsky
 - Otros: Reports, Real Time, Osciloscope, LOPD, Frontend, Backend, Parser, MVC, Mailing, Online, E-Learning, SDK, Auditoria, DoS
 
