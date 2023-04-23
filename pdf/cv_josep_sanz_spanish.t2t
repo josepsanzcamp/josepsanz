@@ -1,6 +1,6 @@
 ﻿Currículum Vitae
 Josep Sanz Campderrós.
-Marzo de 2023
+Abril de 2023
 
 
 +Datos personales+
@@ -21,14 +21,14 @@ Marzo de 2023
 [images/foto_josep_sanz_small.jpg]
 [endright]
 
-+Formación reglada+
++Formación académica+
 
 - Ingeniería Técnica en Informática de Sistemas (UPC).
 - Ciclos Formativos de grado superior de Desarrollo de Aplicaciones Informáticas.
 - Título de FP-II de técnico electrónico de telecomunicaciones.
 
 
-+Formación complementaria+
++Otros cursos y seminarios+
 
 - Curso básico de AutoCAD
 - Permiso de conducir B1
@@ -36,16 +36,18 @@ Marzo de 2023
 - Programación en Java Distribuido con CORBA
 - Seminario de FPGA’s ALTERAz
 - Seminario de Echelon - Lonworks
-- Seminario aplicación Ley Orgánica de Protección de Datos.
+- Seminario aplicación Ley Orgánica de Protección de Datos (LOPD).
 
 
-+Breve resumen profesional+
++Otros datos de interés+
 
 - A lo largo de mi carrera profesional, siempre he realizado tareas de I+D.
-- En el proyecto empresarial Wide Spectrum Software Solutions, dirigí los proyectos SaltOS y RhinOS, así como su liberación bajo la licencia GPL-3.0.
+- En el proyecto empresarial Wide Spectrum Software Solutions, dirigí los proyectos SaltOS y RhinOS, así como su liberación bajo la licencia GPL-3.0, en la actualizad continuo desarrollando en estos proyectos.
 - He sido miembro de la junta directiva de CatPL, asociación de Empresas Catalanas de Software Libre y he impartido charlas sobre software libre.
 - He realizado trabajos en entornos de investigación como el Institut d'Estudis Espacials de Catalunya y la Universitat Politècnica de Catalunya, Dept. de Física Aplicada.
-- En los últimos años he realizado optimización y automatización de procesos en el sector de la logística.
+- En los últimos años he realizado tareas de optimización y automatización de procesos en el sector logístico, usando algoritmos como STRIPS y lenguages como PDDL.
+- He publicado un repositorio con una web de partituras para gralla y audios en [gralla.josepsanz.net https://gralla.josepsanz.net]
+- Tambien he hecho contribuciones en proyectos de software libre como phpMyAdmin, Mroonga, MuseScore, PHP, jQuery-UI, jquery-timepicker, TCPDF, WarnockPDF, root-ro, handsontable, masonry, hhvm, jGrowl, sqlite-for-piwik, webapp-xul-wrapper, php-osx, jsmin-php, jquery-grab-bag, pdf.js, Columnizer-jQuery-Plugin
 
 
 +Palabras clave+
@@ -77,8 +79,6 @@ Desarrollos para entornos GNU/Linux y integración de SaltOS en todas las areas 
 - Sistemas de reconocimiento de documentación usando OCR, códigos de barra y códigos QR.
 - Automatización de procesos usando sistemas empotrados basados en Raspberry PI.
 
-
-[newpage]
 
 ++Institut d’Estudis Espacials de Catalunya (2011-2019)++
 
@@ -116,8 +116,6 @@ Desarrollo de software para entornos GNU/Linux y Windows CE.
 - Programación en C++, PHP, .NET
 - Uso de SGBD como MySQL, ORACLE
 
-
-[newpage]
 
 ++Institut d’Estudis Espacials de Catalunya (2001-2005)++
 

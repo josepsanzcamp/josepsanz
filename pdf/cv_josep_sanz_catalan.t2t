@@ -1,6 +1,6 @@
 ﻿Currículum Vitae
 Josep Sanz Campderrós.
-Març de 2023
+Abril de 2023
 
 
 +Dades personals+
@@ -21,14 +21,14 @@ Març de 2023
 [images/foto_josep_sanz_small.jpg]
 [endright]
 
-+Formació reglada+
++Formació acadèmica+
 
 - Enginyeria Tècnica en Informàtica de Sistemes (UPC).
 - Cicles Formatius de grau superior de Desenvolupament d'Aplicacions Informàtiques.
 - Títol de FP-II de tècnic electrònic de telecomunicacions.
 
 
-+Formació complementària+
++Altres cursos i seminaris+
 
 - Curs bàsic d'AutoCAD
 - Permís de conduir B1
@@ -36,16 +36,18 @@ Març de 2023
 - Programació en Java Distribuït amb CORBA
 - Seminari de FPGA s ALTERA
 - Seminari d'Echelon - Lonworks
-- Seminari aplicació Llei Orgànica de Protecció de Dades.
+- Seminari aplicació Llei Orgànica de Protecció de Dades (LOPD).
 
 
-+Breu resum professional+
++Altres dades d'interès+
 
 - Al llarg de la meva carrera professional, sempre he fet tasques de R+D.
-- Al projecte empresarial Wide Spectrum Software Solutions, vaig dirigir els projectes SaltOS i RhinOS, així com el seu alliberament sota la llicència GPL-3.0.
-- He estat membre de la junta directiva de CatPL, associació d'Empreses Catalanes de Programari Lliure.
-- També he realitzat treballs en centres de recerca com l'Institut d'Estudis Espacials de Catalunya i la Universitat Politècnica de Catalunya, Dept de Física Aplicada.
-- En els darrers anys he realitzat optimització i automatització de processos al sector de la logística.
+- Al projecte empresarial Wide Spectrum Software Solutions, vaig dirigir els projectes SaltOS i RhinOS, així com el seu alliberament sota la llicència GPL-3.0, en l'actualitat continuo desenvolupant en aquests projectes.
+- He estat membre de la junta directiva de CatPL, associació d'Empreses Catalanes de Programari Lliure i he impartit xerrades sobre programari lliure.
+- He realitzat treballs en centres de recerca com l'Institut d'Estudis Espacials de Catalunya i la Universitat Politècnica de Catalunya, Dept de Física Aplicada.
+- En els darrers anys he realitzat tasques d'optimització i automatització de processos al sector logístic, usant algoritmes com STRIPS i llenguatges com PDDL.
+- He publicat un repositori amb una web de partitures per a gralla i àudios a [gralla.josepsanz.net https://gralla.josepsanz.net]
+- També he fet contribucions en projectes de programari lliure com phpMyAdmin, Mroonga, MuseScore, PHP, jQuery-UI, jquery-timepicker, TCPDF, WarnockPDF, root-ro, handsontable, masonry, hhvm, jGrowl, sqlite-for-piwik, webapp-xul-wrapper, php-osx, jsmin-php, jquery-grab-bag, pdf.js, Columnizer-jQuery-Plugin
 
 
 +Paraules clau+
@@ -77,8 +79,6 @@ Desenvolupaments per a entorns GNU/Linux i integració de SaltOS a totes les àr
 - Sistemes de reconeixement de documentació fent servir OCR, codis de barra i codis QR.
 - Automatització de processos fent servir sistemes encastats basats en Raspberry PI.
 
-
-[newpage]
 
 ++Institut d’Estudis Espacials de Catalunya (2011-2019)++
 
@@ -116,8 +116,6 @@ Desenvolupament de software per a entorns GNU/Linux i Windows CE.
 - Programació en C++, PHP, .NET
 - Ús de SGBD com MySQL, ORACLE
 
-
-[newpage]
 
 ++Institut d’Estudis Espacials de Catalunya (2001-2005)++
 
