@@ -34,7 +34,7 @@ Marzo de 2023
 - Permiso de conducir B1
 - Seminario de seguridad en redes informáticas
 - Programación en Java Distribuido con CORBA
-- Seminario de FPGA’s ALTERA
+- Seminario de FPGA’s ALTERAz
 - Seminario de Echelon - Lonworks
 - Seminario aplicación Ley Orgánica de Protección de Datos.
 
@@ -44,10 +44,27 @@ Marzo de 2023
 - A lo largo de mi carrera profesional, siempre he realizado tareas de I+D.
 - En el proyecto empresarial Wide Spectrum Software Solutions, dirigí los proyectos SaltOS y RhinOS, así como su liberación bajo la licencia GPL-3.0.
 - He sido miembro de la junta directiva de CatPL, asociación de Empresas Catalanas de Software Libre y he impartido charlas sobre software libre.
-- También he realizado trabajos en entornos de investigación como el Institut d'Estudis Espacials de Catalunya y la Universitat Politècnica de Catalunya, Dept. de Física Aplicada.
+- He realizado trabajos en entornos de investigación como el Institut d'Estudis Espacials de Catalunya y la Universitat Politècnica de Catalunya, Dept. de Física Aplicada.
+- En los últimos años he realizado optimización y automatización de procesos en el sector de la logística.
 
 
-[newpage]
++Palabras clave+
+
+- Sistemas operativos: GNU/Linux, Unix Solaris, HP-UX, Slackware, Centos, Debian, Ubuntu, RedHat, Fedora, LAMP, Microsoft
+- Bases de datos: MySQL, PostgreSQL, Oracle, SQLServer, MariaDB
+- Servicios: Samba, Apache, FTP, HTTP, SSH, Crontab
+- Programación: Visual Basic, Visual C++, C, GTK, PHP, TCSH, TCL/TK, Latex, Embedded Visual C++, Shell Scripts, Python, C++, .NET, XSLT, ANSI C, MONO, Unit-test, Validation-test, WEB, HTML, JavaScript, CSS, Ajax
+- Programas: Wordpress, EzPublish, VLC, Snort, GIS, Adobe OnSiteView, TomTom, Jquery-UI, Bootstrap, TinyMCE, CKEditor
+- Embedded: PLC, FPGA Altera, Terminal TETRA, PDA, NIOS, XILINX, microBlaze, LEON3, Firmware, Raspberry PI, Raspbian, RPI, RTOS
+- Proyectos: SaltOS, RhinOS, OpenROCS
+- Licencias: GPL, MIT, BSD, Open Source, Free Software
+- Logística: CitasWEB, Maps, Route, IA, Call Center, ERP, CMS, OCR, QR, Codebar
+- Protocolos: TCP/IP, UDP/IP, SSL, WebService, REST, SNMP, NMEA, RFID, DMA, SOAP, DHCP, API, SMS, Email
+- Formatos: CSV, Excel, XML, Bytes, EDI, PDF, JPEG, TIFF, XML, RSS, ATOM
+- Tecnologías: Bluetooth, GPS, Ethernet, GRPS, WIFI
+- Astronomía: Vaisala, INDI, Rain detector, Previstorm, Cloud Sensor, Davis Weather Station, PbCdlComm, XmCCD, IndiCCD, Andor, Finger Lakes Instruments, APOGEE, APC, ROS, SBIG, Meade Telescope, Baader Dome, Allsky
+- Otros: Reports, Real Time, Osciloscope, LOPD, Frontend, Backend, Parser, MVC, Mailing, Online, E-Learning, SDK, Auditoria, DoS
+
 
 +Experiencia profesional+
 
@@ -60,6 +77,8 @@ Desarrollos para entornos GNU/Linux y integración de SaltOS en todas las areas 
 - Sistemas de reconocimiento de documentación usando OCR, códigos de barra y códigos QR.
 - Automatización de procesos usando sistemas empotrados basados en Raspberry PI.
 
+
+[newpage]
 
 ++Institut d’Estudis Espacials de Catalunya (2011-2019)++
 
@@ -89,8 +108,6 @@ Desarrollos para entornos WEB basados en LAMP (Linux+Apache+MySQL+PHP):
 - Varias colaboraciones con el IEEC para los proyectos PARIS y GOLD-RTR
 
 
-[newpage]
-
 ++Ingeniería de la Información, IN2 (2005-2006 como jefe de equipo)++
 
 Desarrollo de software para entornos GNU/Linux y Windows CE.
@@ -99,6 +116,8 @@ Desarrollo de software para entornos GNU/Linux y Windows CE.
 - Programación en C++, PHP, .NET
 - Uso de SGBD como MySQL, ORACLE
 
+
+[newpage]
 
 ++Institut d’Estudis Espacials de Catalunya (2001-2005)++
 
@@ -133,14 +152,14 @@ Ensamblaje y mantenimiento de equipos de electro-medicina.
 - Especificación e implementación de equipos para tests técnicos.
 
 
-[newpage]
-
 +Idiomas+
 
 - Castellano nativo (leido, escrito y hablado).
 - Catalán nativo (nivel C, leido, escrito y hablado).
 - Inglés técnico (nivel medio, leido, escrito y hablado).
 
+
+[newpage]
 
 +Anexo (experiencia profesional detallada)+
 
@@ -331,6 +350,7 @@ Software para el control desatendido del telescopio astronómico TJO (OAdM) y SQ
 - Monitor: la principal tarea de este servicio es mantener actualizado el SDP y HK para ser utilizado por el scheduler.
 - Scheduler: permite ejecutar las acciones que controla el telescopio cuando cambia el SDP o el HK.
 - Este proyecto se ha liberado bajo licencia GPL-3.0
+- https://github.com/josepsanzcamp/OpenROCS/
 - https://sourceforge.net/projects/openrocs/
 - https://upcommons.upc.edu/handle/2099.1/26215
 
@@ -426,8 +446,9 @@ Desarrollo de un framework para desarrollar aplicaciones on-line:
 - Entorno personalizable basado en Jquery-UI
 - Este proyecto se ha liberado bajo licencia GPL-3.0
 - Actualmente sigo con el desarrollo de este proyecto por mi cuenta.
+- https://www.saltos.org/
+- https://github.com/josepsanzcamp/SaltOS/
 - https://sourceforge.net/projects/saltos/
-- https://github.com/josepsanzcamp/SaltOS
 
 
 [images/saltos1.jpg]
@@ -443,8 +464,8 @@ Desarrollo de un framework para desarrollar portales web:
 - Separación de las capas lógicas (presentación y negocio)
 - Este proyecto se ha liberado bajo licencia GPL-3.0
 - Actualmente sigo con el desarrollo de este proyecto por mi cuenta.
+- https://github.com/josepsanzcamp/RhinOS/
 - https://sourceforge.net/projects/rhinos/
-- https://github.com/josepsanzcamp/RhinOS
 
 
 [images/rhinos.jpg]

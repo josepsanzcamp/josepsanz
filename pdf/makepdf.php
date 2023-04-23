@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
 $files=glob("*.t2t");
-//~ $files=array("cv_josep_sanz_catalan.t2t");
+//~ $files=array("cv_josep_sanz_spanish.t2t");
 foreach($files as $file) {
     // GENERATE PDF
     $file=str_replace(".t2t","",$file);
