@@ -85,6 +85,7 @@ Desarrollos para entornos GNU/Linux y evolutivos en los proyectos SaltOS y RhinO
 ++AB Custom Transports & Logistics, S.L. (2019-2022)++
 
 Desarrollos para entornos GNU/Linux y integración de SaltOS en todas las areas de negocio:
+- Aplicación móvil de última milla para los choferes, para operar incluso sin internet.
 - Optimizacion de rutas mediante IA y gestion de citas online.
 - Integración de SaltOS en todas las areas de negocio de la compañía.
 - Conexión de SaltOS con el antiguo ERP de la compañía (SQLServer).
@@ -188,12 +189,27 @@ Desarrollos para entornos GNU/Linux y evolutivos en los proyectos SaltOS y RhinO
 ++AB Custom Transports & Logistics, S.L. (2019-2022)++
 
 Desarrollos para entornos GNU/Linux y integración de SaltOS en todas las areas de negocio:
+- Aplicación móvil de última milla para los choferes, para operar incluso sin internet.
 - Optimizacion de rutas mediante IA y gestion de citas online.
 - Integración de SaltOS en todas las areas de negocio de la compañía.
 - Conexión de SaltOS con el antiguo ERP de la compañía (SQLServer).
 - Sistemas de reconocimiento de documentación usando OCR, códigos de barra y códigos QR.
 - Automatización de procesos usando sistemas empotrados basados en Raspberry PI.
 
+
++++Proyecto aplicación móvil de última milla+++
+
+Desarrollar aplicación que funcione en móviles para que el chofer pueda hacer el servicio de última milla:
+- La aplicación funciona con conexión a internet solo para la carga de datos, despues puede funcionar sin internet
+- El envio de información a la base se realiza de forma asincrona cuando hay conexión a internet.
+- No requiere instalación, es un webapp 100% funcional offline usando tecnicas de control de cache y local storage.
+- Envio de la ruta al dispositivo del chofer usando email y/o SMS.
+- control de la llegada del chofer a la base y la carga del camión antes de iniciar la rutas.
+- Envio de avisos automáticos a los destinatarios antes de ir a cada servicio.
+- Control de la llegada, salida, estado de la entrega, envio de fotos, comentarios, todo esto por expedición y/o por bulto.
+
+
+[images/driver.png]
 
 +++Proyecto concertación citas online+++
 

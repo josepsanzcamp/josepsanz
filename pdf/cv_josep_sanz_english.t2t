@@ -85,6 +85,7 @@ Developments for GNU/Linux and evolutives in the SaltOS and RhinOS projects:
 ++AB Custom Transports & Logistics, S.L. (2019-2022)++
 
 Developments for GNU/Linux environments and integration of SaltOS in all business areas:
+- Last mile mobile application for drivers, to operate even without internet.
 - Route optimization using AI and online appointment automation.
 - Integration of SaltOS in all the business areas of the company.
 - SaltOS connection with the company's old ERP (SQLServer).
@@ -188,12 +189,27 @@ Developments for GNU/Linux and evolutives in the SaltOS and RhinOS projects:
 ++AB Custom Transports & Logistics, S.L. (2019-2022)++
 
 Developments for GNU/Linux environments and integration of SaltOS in all business areas:
+- Last mile mobile application for drivers, to operate even without internet.
 - Route optimization using AI and online appointment automation.
 - Integration of SaltOS in all the business areas of the company.
 - SaltOS connection with the company's old ERP (SQLServer).
 - Documentation recognition systems using OCR, bar codes and QR codes.
 - Automation of processes using embedded systems based on Raspberry PI.
 
+
++++Last mile mobile application project+++
+
+Develop an application that works on mobile phones so that the driver can do the last mile service:
+- The application works with internet connection only for data loading, then it can work without internet
+- The sending of information to the base is done asynchronously when there is an internet connection.
+- It does not require installation, it is a 100% functional offline webapp using cache and local storage control techniques.
+- Sending the route to the driver's device using email and/or SMS.
+- Control of the arrival of the driver to the base and the loading of the truck before starting the routes.
+- Sending automatic notices to recipients before going to each service.
+- Control of the arrival, departure, delivery status, sending photos, comments, all this by expedition and/or by parcel.
+
+
+[images/driver.png]
 
 +++Online appointment project+++
 
