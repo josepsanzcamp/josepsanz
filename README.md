@@ -5,7 +5,7 @@ Welcome to my personal website and profile
 
 ## Original template
 This website was built using a template obtained from here:
-- https://startbootstrap.com/themes/freelancer/
+- https://startbootstrap.com/theme/freelancer/
 
 ## Technologies involved in this website:
 - JQuery core and some plugins

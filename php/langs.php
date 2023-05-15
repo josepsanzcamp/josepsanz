@@ -37,7 +37,7 @@ $labels = array(
         "buttonsend" => "Enviar",
         "footer" => "Redes sociales",
         "copyright" => "Copyright &copy; 2016-2023 Josep Sanz Campderrós",
-        "template" => "Plantilla original de <a href='https://startbootstrap.com/themes/freelancer/' target='_blank'>Start Bootstrap</a>",
+        "template" => "Plantilla original de <a href='https://startbootstrap.com/theme/freelancer/' target='_blank'>Start Bootstrap</a>",
         "moreinfo" => "Más información:",
         "close" => "Cerrar",
         "portfolios" => array(
@@ -139,7 +139,7 @@ $labels = array(
         "buttonsend" => "Send",
         "footer" => "Around the web",
         "copyright" => "Copyright &copy; 2016-2023 Josep Sanz Campderrós",
-        "template" => "Original template of <a href='https://startbootstrap.com/themes/freelancer/' target='_blank'>Start Bootstrap</a>",
+        "template" => "Original template of <a href='https://startbootstrap.com/theme/freelancer/' target='_blank'>Start Bootstrap</a>",
         "moreinfo" => "More information:",
         "close" => "Close",
         "portfolios" => array(
@@ -241,7 +241,7 @@ $labels = array(
         "buttonsend" => "Enviar",
         "footer" => "Xarxes socials",
         "copyright" => "Copyright &copy; 2016-2023 Josep Sanz Campderrós",
-        "template" => "Plantilla original de <a href='https://startbootstrap.com/themes/freelancer/' target='_blank'>Start Bootstrap</a>",
+        "template" => "Plantilla original de <a href='https://startbootstrap.com/theme/freelancer/' target='_blank'>Start Bootstrap</a>",
         "moreinfo" => "Més informació:",
         "close" => "Tancar",
         "portfolios" => array(
