@@ -27,22 +27,19 @@ $(function() {
 					container:container,
 					eventBus:eventBus,
 				});
-				var fn1=function() {
+				eventBus.on("pagesinit",function() {
 					pdfViewer.currentScaleValue="page-width";
-				};
-				var fn2=function() {
+				});
+				eventBus.on("annotationlayerrendered",function() {
 					$("a",container).each(function() {
 						$(this).attr("target","_blank");
 					});
-				};
-				eventBus.on("pagesinit",fn1);
-				eventBus.on("annotationlayerrendered",fn2);
+				});
 				pdfViewer.removePageBorders=true;
 				pdfViewer.setDocument(pdfDocument);
 				$("#viewerContainer").css("position","relative");
 			},function(message,exception) {
 				console.log(message);
-				console.log(exception);
 			});
 		} else {
 			pdfViewer.currentScaleValue=pdfViewer.currentScale*2; // TRUC PER FORZAR EL REDIBUIXAT DEL PDF
