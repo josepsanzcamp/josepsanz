@@ -56,7 +56,7 @@ May 2023
 - Operating systems: GNU/Linux, Unix Solaris, HP-UX, Slackware, Centos, Debian, Ubuntu, RedHat, Fedora, LAMP, Microsoft, Raspbian
 - Databases: MySQL, PostgreSQL, Oracle, SQLServer, MariaDB
 - Services: Samba, Apache, FTP, HTTP, SSH, Crontab
-- Programming: Visual Basic, Visual C++, C, GTK, PHP, TCSH, TCL/TK, Latex, Embedded Visual C++, Shell Scripts, Python, C++, .NET, XSLT, ANSI C, MONO, WEB, HTML, JavaScript, CSS, Ajax
+- Programming: Visual Basic, Visual C++, C, GTK, PHP, TCSH, TCL/TK, Latex, Embedded Visual C++, Shell Scripts, Python, C++, .NET, XSLT, ANSI C, MONO, WEB, HTML, JavaScript, CSS, Ajax, Vanilla JS
 - Programs: Wordpress, EzPublish, VLC, Snort, GIS, Adobe OnSiteView, TomTom, Jquery-UI, Bootstrap, TinyMCE, CKEditor
 - Embedded: PLC, FPGA, Altera, TETRA, PDA, NIOS, Xilinx, MicroBlaze, LEON3, Firmware, Raspberry PI, RPI, RTOS
 - Projects: SaltOS, RhinOS, OpenROCS
@@ -78,7 +78,7 @@ May 2023
 
 Developments for GNU/Linux and evolutives in the SaltOS and RhinOS projects:
 - RhinOS and SaltOS evolutions to run on PHP 8.2 + third-party library updates.
-- Development of the new SaltOS v4 framework, the improvements compared to the previous version are the following: backend developed in PHP and frontend developed in JavaScript, the communication between the layers is done through the new API based on SaltOS REST and JSON requests.
+- Development of the new SaltOS v4 framework: backend in PHP, frontend in JavaScript, API based on REST and JSON requests.
 - Migration of SaltOS Server from CentOS 7 to Debian 11.
 
 
@@ -182,7 +182,7 @@ Assembly and maintenance of electromedical equipment.
 
 Developments for GNU/Linux and evolutives in the SaltOS and RhinOS projects:
 - RhinOS and SaltOS evolutions to run on PHP 8.2 + third-party library updates.
-- Development of the new SaltOS v4 framework, the improvements compared to the previous version are the following: backend developed in PHP and frontend developed in JavaScript, the communication between the layers is done through the new API based on SaltOS REST and JSON requests.
+- Development of the new SaltOS v4 framework: backend in PHP, frontend in JavaScript, API based on REST and JSON requests.
 - Migration of SaltOS Server from CentOS 7 to Debian 11.
 
 

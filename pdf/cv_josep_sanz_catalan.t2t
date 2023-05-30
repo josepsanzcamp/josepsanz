@@ -56,7 +56,7 @@ Maig de 2023
 - Sistemes operatius: GNU/Linux, Unix Solaris, HP-UX, Slackware, Centos, Debian, Ubuntu, RedHat, Fedora, LAMP, Microsoft, Raspbian
 - Bases de dades: MySQL, PostgreSQL, Oracle, SQLServer, MariaDB
 - Serveis: Samba, Apache, FTP, HTTP, SSH, Crontab
-- Programació: Visual Basic, Visual C++, C, GTK, PHP, TCSH, TCL/TK, Latex, Embedded Visual C++, Shell Scripts, Python, C++, .NET, XSLT, ANSI C, MONO, WEB, HTML, JavaScript, CSS, Ajax
+- Programació: Visual Basic, Visual C++, C, GTK, PHP, TCSH, TCL/TK, Latex, Embedded Visual C++, Shell Scripts, Python, C++, .NET, XSLT, ANSI C, MONO, WEB, HTML, JavaScript, CSS, Ajax, Vanilla JS
 - Programes: Wordpress, EzPublish, VLC, Snort, GIS, Adobe OnSiteView, TomTom, Jquery-UI, Bootstrap, TinyMCE, CKEditor
 - Embedded: PLC, FPGA, Altera, TETRA, PDA, NIOS, Xilinx, MicroBlaze, LEON3, Firmware, Raspberry PI, RPI, RTOS
 - Projectes: SaltOS, RhinOS, OpenROCS
@@ -78,7 +78,7 @@ Maig de 2023
 
 Desenvolupaments per a entorns GNU/Linux i evolutius en els projectes SaltOS i RhinOS:
 - Evolutius de RhinOS i SaltOS per a la seva execució a PHP 8.2 + actualitzacions de les llibreries de tercers.
-- Desenvolupament del nou framework SaltOS v4, les millores respecte a la versió anterior són les següents: backend desenvolupat en PHP i frontend desenvolupat en JavaScript, la comunicació entre les capes es realitza mitjançant la nova API basada en peticions REST i JSON de SaltOS.
+- Desenvolupament del nou framework SaltOS v4: backend en PHP, frontend en JavaScript, API basada en peticions REST i JSON.
 - Migració de SaltOS Server de CentOS 7 a Debian 11.
 
 
@@ -182,7 +182,7 @@ Acoblament i manteniment d'equips d'electro-medicina.
 
 Desenvolupaments per a entorns GNU/Linux i evolutius en els projectes SaltOS i RhinOS:
 - Evolutius de RhinOS i SaltOS per a la seva execució a PHP 8.2 + actualitzacions de les llibreries de tercers.
-- Desenvolupament del nou framework SaltOS v4, les millores respecte a la versió anterior són les següents: backend desenvolupat en PHP i frontend desenvolupat en JavaScript, la comunicació entre les capes es realitza mitjançant la nova API basada en peticions REST i JSON de SaltOS.
+- Desenvolupament del nou framework SaltOS v4: backend en PHP, frontend en JavaScript, API basada en peticions REST i JSON.
 - Migració de SaltOS Server de CentOS 7 a Debian 11.
 
 
