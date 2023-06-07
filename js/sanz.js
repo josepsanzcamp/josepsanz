@@ -136,11 +136,11 @@ $(function() {
 	};
 	var counter=0;
 	var nombre=["color1","color2","color3","color4","color5","color6","color7","color8","color9","color10"];
-	var color1=["2c3e50","9cc3d5","0061f2","e30059","1f2d41","A13941","c2af89","f4a100","daa03d","fc766a"];
+	var color1=["2c3e50","9cc3d5","0061f2","e30059","1f2d41","a13941","c2af89","f4a100","daa03d","fc766a"];
 	var color2=["1abc9c","0063b2","6900c7","f76400","00cfd5","e7b633","343148","6900c7","616247","5b84b1"];
 	var color3=[];
 	var color4=["ffffff","ffffff","ffffff","ffffff","ffffff","ffffff","ffffff","ffffff","ffffff","ffffff"];
-	var color5=["2c3e50","0063b2","6900c7","e30059","1f2d41","A13941","343148","6900c7","616247","5b84b1"];
+	var color5=["2c3e50","0063b2","0061f2","e30059","1f2d41","a13941","343148","f4a100","daa03d","fc766a"];
 	for(var k in nombre) {
 		var color=nombre[k];
 		colores[color]={};
