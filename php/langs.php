@@ -79,22 +79,6 @@ $labels = array(
                     "github.com" => "https://github.com/josepsanzcamp/gralla",
                 )
             ),
-            "rpi" => array(
-                "image" => "img/portfolio_rpi.png",
-                "title" => "Read-only Root-FS with overlayfs for Raspian",
-                "description" => "This repository contains some useful files that allow you to use a Raspberry PI using a readonly filesystem. This files contains some ideas and code of the following projects: https://gist.github.com/niun/34c945d70753fc9e2cc7 and https://github.com/chesty/overlayroot. Congratulate the original authors if these files works as expected. Too, you can congratulate to me to join all files in a one repository and do some changes allowing to use the root and boot filesytem in readonly mode.",
-                "links" => array(
-                    "github.com" => "https://github.com/josepsanzcamp/root-ro",
-                )
-            ),
-            "piwik" => array(
-                "image" => "img/portfolio_piwik.png",
-                "title" => "sqlite-for-piwik",
-                "description" => "This repository contains the files needed to use Piwik with SQLite instead of MySQL. How to use it: Put the following file into the correct location: libs/mysql2sqlite.php, core/Db/Adapter/Pdo/Sqlite.php, core/Tracker.php and core/Tracker/Db/Pdo/Sqlite.php. Edit the config/config.ini.php and add in the [database] section: adapter=Pdo_Sqlite and dbname=piwik.sqlite And then, execute piwik...",
-                "links" => array(
-                    "github.com" => "https://github.com/josepsanzcamp/sqlite-for-piwik",
-                )
-            ),
             "covid19" => array(
                 "image" => "img/portfolio_covid19.png",
                 "title" => "Covid 19",
@@ -102,6 +86,14 @@ $labels = array(
                 "links" => array(
                     "josepsanzcamp.github.io" => "https://josepsanzcamp.github.io/covid19",
                     "github.com" => "https://github.com/josepsanzcamp/covid19",
+                )
+            ),
+            "github" => array(
+                "image" => "img/portfolio_github.png",
+                "title" => "GitHub",
+                "description" => "Acceso a todos mis repositorios de GitHub: cdesktopenv, covid19, gralla, josepsanz, lluisgesa, OpenROCS, RhinOS, root-ro, SaltOS, scanner, sqlite-for-piwik",
+                "links" => array(
+                    "github.com" => "https://github.com/josepsanzcamp/?tab=repositories",
                 )
             )
         )
@@ -181,22 +173,6 @@ $labels = array(
                     "github.com" => "https://github.com/josepsanzcamp/gralla",
                 )
             ),
-            "rpi" => array(
-                "image" => "img/portfolio_rpi.png",
-                "title" => "Read-only Root-FS with overlayfs for Raspian",
-                "description" => "This repository contains some useful files that allow you to use a Raspberry PI using a readonly filesystem. This files contains some ideas and code of the following projects: https://gist.github.com/niun/34c945d70753fc9e2cc7 and https://github.com/chesty/overlayroot. Congratulate the original authors if these files works as expected. Too, you can congratulate to me to join all files in a one repository and do some changes allowing to use the root and boot filesytem in readonly mode.",
-                "links" => array(
-                    "github.com" => "https://github.com/josepsanzcamp/root-ro",
-                )
-            ),
-            "piwik" => array(
-                "image" => "img/portfolio_piwik.png",
-                "title" => "sqlite-for-piwik",
-                "description" => "This repository contains the files needed to use Piwik with SQLite instead of MySQL. How to use it: Put the following file into the correct location: libs/mysql2sqlite.php, core/Db/Adapter/Pdo/Sqlite.php, core/Tracker.php and core/Tracker/Db/Pdo/Sqlite.php. Edit the config/config.ini.php and add in the [database] section: adapter=Pdo_Sqlite and dbname=piwik.sqlite And then, execute piwik...",
-                "links" => array(
-                    "github.com" => "https://github.com/josepsanzcamp/sqlite-for-piwik",
-                )
-            ),
             "covid19" => array(
                 "image" => "img/portfolio_covid19.png",
                 "title" => "Covid 19",
@@ -204,6 +180,14 @@ $labels = array(
                 "links" => array(
                     "josepsanzcamp.github.io" => "https://josepsanzcamp.github.io/covid19",
                     "github.com" => "https://github.com/josepsanzcamp/covid19",
+                )
+            ),
+            "github" => array(
+                "image" => "img/portfolio_github.png",
+                "title" => "GitHub",
+                "description" => "Access to all my GitHub repositories: cdesktopenv, covid19, gralla, josepsanz, lluisgesa, OpenROCS, RhinOS, root-ro, SaltOS, scanner, sqlite-for-piwik",
+                "links" => array(
+                    "github.com" => "https://github.com/josepsanzcamp/?tab=repositories",
                 )
             )
         )
@@ -283,22 +267,6 @@ $labels = array(
                     "github.com" => "https://github.com/josepsanzcamp/gralla",
                 )
             ),
-            "rpi" => array(
-                "image" => "img/portfolio_rpi.png",
-                "title" => "Read-only Root-FS with overlayfs for Raspian",
-                "description" => "This repository contains some useful files that allow you to use a Raspberry PI using a readonly filesystem. This files contains some ideas and code of the following projects: https://gist.github.com/niun/34c945d70753fc9e2cc7 and https://github.com/chesty/overlayroot. Congratulate the original authors if these files works as expected. Too, you can congratulate to me to join all files in a one repository and do some changes allowing to use the root and boot filesytem in readonly mode.",
-                "links" => array(
-                    "github.com" => "https://github.com/josepsanzcamp/root-ro",
-                )
-            ),
-            "piwik" => array(
-                "image" => "img/portfolio_piwik.png",
-                "title" => "sqlite-for-piwik",
-                "description" => "This repository contains the files needed to use Piwik with SQLite instead of MySQL. How to use it: Put the following file into the correct location: libs/mysql2sqlite.php, core/Db/Adapter/Pdo/Sqlite.php, core/Tracker.php and core/Tracker/Db/Pdo/Sqlite.php. Edit the config/config.ini.php and add in the [database] section: adapter=Pdo_Sqlite and dbname=piwik.sqlite And then, execute piwik...",
-                "links" => array(
-                    "github.com" => "https://github.com/josepsanzcamp/sqlite-for-piwik",
-                )
-            ),
             "covid19" => array(
                 "image" => "img/portfolio_covid19.png",
                 "title" => "Covid 19",
@@ -306,6 +274,14 @@ $labels = array(
                 "links" => array(
                     "josepsanzcamp.github.io" => "https://josepsanzcamp.github.io/covid19",
                     "github.com" => "https://github.com/josepsanzcamp/covid19",
+                )
+            ),
+            "github" => array(
+                "image" => "img/portfolio_github.png",
+                "title" => "GitHub",
+                "description" => "Accés a tots els meus repositoris de GitHub: cdesktopenv, covid19, gralla, josepsanz, lluisgesa, OpenROCS, RhinOS, root-ro, SaltOS, scanner, sqlite-for-piwik",
+                "links" => array(
+                    "github.com" => "https://github.com/josepsanzcamp/?tab=repositories",
                 )
             )
         )
