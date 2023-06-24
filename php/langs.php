@@ -79,19 +79,10 @@ $labels = array(
                     "github.com" => "https://github.com/josepsanzcamp/gralla",
                 )
             ),
-            "covid19" => array(
-                "image" => "img/portfolio_covid19.png",
-                "title" => "Covid 19",
-                "description" => "Gráficos de defunciones por año, origen de los datos, acumulados diarios, semanales, mensuales, anuales, por edad, por comunidad autónoma, por provincia, por pais y más. Todos los datos se han obtenido de fuentes oficiales como MoMo, INE, CSIC, OECD, EuroMoMo, Eurostat, o los equivalentes al instituto nacional de estadística de Suecia, Noruega, Portugal, Francia y Alemania",
-                "links" => array(
-                    "josepsanzcamp.github.io" => "https://josepsanzcamp.github.io/covid19",
-                    "github.com" => "https://github.com/josepsanzcamp/covid19",
-                )
-            ),
             "github" => array(
                 "image" => "img/portfolio_github.png",
                 "title" => "GitHub",
-                "description" => "Acceso a todos mis repositorios de GitHub: cdesktopenv, covid19, gralla, josepsanz, lluisgesa, OpenROCS, RhinOS, root-ro, SaltOS, scanner, sqlite-for-piwik",
+                "description" => "Acceso a todos mis repositorios de GitHub: SaltOS, RhinOS, OpenROCS, gralla, cdesktopenv, covid19, josepsanz, lluisgesa, root-ro, scanner, sqlite-for-piwik",
                 "links" => array(
                     "github.com" => "https://github.com/josepsanzcamp/?tab=repositories",
                 )
@@ -173,19 +164,10 @@ $labels = array(
                     "github.com" => "https://github.com/josepsanzcamp/gralla",
                 )
             ),
-            "covid19" => array(
-                "image" => "img/portfolio_covid19.png",
-                "title" => "Covid 19",
-                "description" => "Graphs of deaths by year, origin of the data, daily accumulated, weekly, montly, yearly, by age, by autonomous community, by province, by country and more. All data have been obtained from official sources as MoMo, INE, CSIC, OECD, EuroMoMo, Eurostat, or the equivalents to the National Statistics Institute of Sweden, Norway, Portugal, France and Germany",
-                "links" => array(
-                    "josepsanzcamp.github.io" => "https://josepsanzcamp.github.io/covid19",
-                    "github.com" => "https://github.com/josepsanzcamp/covid19",
-                )
-            ),
             "github" => array(
                 "image" => "img/portfolio_github.png",
                 "title" => "GitHub",
-                "description" => "Access to all my GitHub repositories: cdesktopenv, covid19, gralla, josepsanz, lluisgesa, OpenROCS, RhinOS, root-ro, SaltOS, scanner, sqlite-for-piwik",
+                "description" => "Access to all my GitHub repositories: SaltOS, RhinOS, OpenROCS, gralla, cdesktopenv, covid19, josepsanz, lluisgesa, root-ro, scanner, sqlite-for-piwik",
                 "links" => array(
                     "github.com" => "https://github.com/josepsanzcamp/?tab=repositories",
                 )
@@ -267,19 +249,10 @@ $labels = array(
                     "github.com" => "https://github.com/josepsanzcamp/gralla",
                 )
             ),
-            "covid19" => array(
-                "image" => "img/portfolio_covid19.png",
-                "title" => "Covid 19",
-                "description" => "Gràfics de defuncions per any, origen de les dades, acumulats diaris, setmanals, mensuals, anuals, per edat, per comunitat autònoma, per provincia, per pais i més. Totes les dades s'han obtingut de fonts oficials com MoMo, INE, CSIC, OECD, EuroMoMo, Eurostat, o els equivalents al institut nacional d'estadística de Suecia, Noruega, Portugal, França i Alemanya",
-                "links" => array(
-                    "josepsanzcamp.github.io" => "https://josepsanzcamp.github.io/covid19",
-                    "github.com" => "https://github.com/josepsanzcamp/covid19",
-                )
-            ),
             "github" => array(
                 "image" => "img/portfolio_github.png",
                 "title" => "GitHub",
-                "description" => "Accés a tots els meus repositoris de GitHub: cdesktopenv, covid19, gralla, josepsanz, lluisgesa, OpenROCS, RhinOS, root-ro, SaltOS, scanner, sqlite-for-piwik",
+                "description" => "Accés a tots els meus repositoris de GitHub: SaltOS, RhinOS, OpenROCS, gralla, cdesktopenv, covid19, josepsanz, lluisgesa, root-ro, scanner, sqlite-for-piwik",
                 "links" => array(
                     "github.com" => "https://github.com/josepsanzcamp/?tab=repositories",
                 )
