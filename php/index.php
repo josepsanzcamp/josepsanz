@@ -254,27 +254,35 @@
                         <h4 class="text-uppercase mb-4"><?php echo $labels[$lang]["footer"]; ?></h4>
                         <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/josepsanzcamp" target="_blank">
                             <i class="fab fa-fw fa-github"></i>
+                            <span class="visually-hidden">GitHub</span>
                         </a>
                         <a class="btn btn-outline-light btn-social m-1" href="https://sourceforge.net/u/josepsanzcamp" target="_blank">
                             <i class="fab fa-fw fa-sourceforge"><i class="fa-sourceforge1">s</i><i class="fa-sourceforge2">f</i></i>
+                            <span class="visually-hidden">Sourceforge</span>
                         </a>
                         <a class="btn btn-outline-light btn-social m-1" href="https://linkedin.com/in/josepsanz" target="_blank">
                             <i class="fab fa-fw fa-linkedin"></i>
+                            <span class="visually-hidden">Linkedin</span>
                         </a>
                         <a class="btn btn-outline-light btn-social m-1" href="https://mastodont.cat/@josepsanzcamp" target="_blank">
                             <i class="fab fa-fw fa-mastodon"></i>
+                            <span class="visually-hidden">Mastodont</span>
                         </a>
                         <a class="btn btn-outline-light btn-social m-1" href="https://facebook.com/josepsanzcamp" target="_blank">
                             <i class="fab fa-fw fa-facebook-f"></i>
+                            <span class="visually-hidden">Facebook</span>
                         </a>
                         <a class="btn btn-outline-light btn-social m-1" href="https://twitter.com/josepsanzcamp" target="_blank">
                             <i class="fab fa-fw fa-twitter"></i>
+                            <span class="visually-hidden">Twitter</span>
                         </a>
                         <a class="btn btn-outline-light btn-social m-1" href="https://youtube.com/@josepsanzcamp" target="_blank">
                             <i class="fab fa-fw fa-youtube"></i>
+                            <span class="visually-hidden">Youtube</span>
                         </a>
                         <a class="btn btn-outline-light btn-social m-1" href="https://instagram.com/josepsanzcamp" target="_blank">
                             <i class="fab fa-fw fa-instagram"></i>
+                            <span class="visually-hidden">Instagram</span>
                         </a>
 
                     </div>
