@@ -36,3 +36,14 @@
 	height:calc(100% - 32px);
 }
 
+#portfolio img {
+	background-color: #1abc9c;
+}
+
+.portfolio-modal img {
+	background-color: #1abc9c;
+}
+
+.mb-45 {
+	margin-bottom: 2rem;
+}

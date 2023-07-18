@@ -24,9 +24,6 @@
         <link href="css/freelancer.css" rel="stylesheet" />
         <link href="css/sanz.css" rel="stylesheet" />
 
-        <!-- PDFJS feature -->
-        <link href="pdfjs/pdf_viewer.min.css" rel="stylesheet" />
-        <link href="css/pdfjs.css" rel="stylesheet" />
         <meta name="theme-color" content="#2c3e50" />
     </head>
 
@@ -147,9 +144,12 @@
                 <!-- About Section Content -->
                 <div class="row">
                     <div class="col-lg-12">
-                        <div id="viewerContainer" data-file="<?php echo $labels[$lang]["downloadlink"]; ?>">
-                            <div id="viewer" class="pdfViewer"></div>
-                        </div>
+                        <?php foreach($labels[$lang]["downloadlink"] as $image) { ?>
+                            <?php $size = getimagesize($image); $width = $size[0]; $height = $size[1]; ?>
+                            <img src="<?php echo $image; ?>" alt="<?php echo $labels[$lang]["aboutme"]; ?>"
+                                class="img-fluid mb-45 rounded"
+                                loading="lazy" width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
+                        <?php } ?>
                     </div>
                 </div>
 
@@ -370,11 +370,6 @@
         <!-- Custom scripts for sanz -->
         <script src="js/jquery.cookie.min.js"></script>
         <script src="js/sanz.js"></script>
-
-        <!-- PDFJS feature -->
-        <script src="pdfjs/pdf.min.js"></script>
-        <script src="pdfjs/pdf_viewer.min.js"></script>
-        <script src="js/pdfjs.js"></script>
 
     </body>
 
