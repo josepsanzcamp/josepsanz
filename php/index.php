@@ -66,7 +66,7 @@
             <div class="container d-flex align-items-center flex-column">
 
                 <!-- Masthead Avatar Image -->
-                <img class="masthead-avatar mb-5" src="img/profile.png" alt="<?php echo $labels[$lang]["name"]; ?>">
+                <img class="masthead-avatar mb-5" src="img/profile.png" alt="<?php echo $labels[$lang]["name"]; ?>" style="max-width: 256px; max-height: 256px;">
 
                 <!-- Masthead Heading -->
                 <h1 class="masthead-heading text-uppercase mb-0"><?php echo $labels[$lang]["name"]; ?></h1>
