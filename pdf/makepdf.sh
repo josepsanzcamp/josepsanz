@@ -12,4 +12,11 @@ for i in catalan spanish english; do
     gs -sDEVICE=pdfwrite -dPDFSETTINGS=/ebook -dNOPAUSE -dBATCH -dSAFER -dFirstPage=5 -dLastPage=9 -sOutputFile=cv_josep_sanz_${i}_preview.pdf cv_josep_sanz_${i}.pdf.2
     rm cv_josep_sanz_${i}.pdf
     rm cv_josep_sanz_${i}.pdf.2
+    pdftoppm -png cv_josep_sanz_${i}_preview.pdf cv_josep_sanz_${i}_preview
+done
+
+for i in cv_josep_sanz_*_preview-*.png; do
+    pngnq $i
+    j=$(echo $i | cut -d. -f1)-nq8.png
+    mv $j $i
 done
