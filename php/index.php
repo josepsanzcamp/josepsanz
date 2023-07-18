@@ -66,7 +66,7 @@
             <div class="container d-flex align-items-center flex-column">
 
                 <!-- Masthead Avatar Image -->
-                <img class="masthead-avatar mb-5" src="img/profile.png">
+                <img class="masthead-avatar mb-5" src="img/profile.png" alt="<?php echo $labels[$lang]["name"]; ?>">
 
                 <!-- Masthead Heading -->
                 <h1 class="masthead-heading text-uppercase mb-0"><?php echo $labels[$lang]["name"]; ?></h1>
@@ -114,7 +114,7 @@
                                     <i class="fas fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="<?php echo $val["image"] ?>" alt="">
+                            <img class="img-fluid" src="<?php echo $val["image"] ?>" alt="<?php echo $val["title"] ?>">
                         </div>
                     </div>
                     <?php } ?>
@@ -326,7 +326,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image -->
-                                    <img class="img-fluid rounded mb-5" src="<?php echo $val["image"] ?>" alt="">
+                                    <img class="img-fluid rounded mb-5" src="<?php echo $val["image"] ?>" alt="<?php echo $val["image"] ?>">
                                     <!-- Portfolio Modal - Text -->
                                     <p class="mb-3">
                                         <?php echo $val["description"]; ?>
