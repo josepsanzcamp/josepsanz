@@ -33,6 +33,7 @@ foreach($files as $file) {
         "\\setlength{\\parindent}{5mm}",
         "\\setlength{\\parskip}{3mm}",
         "\\plparsep 2.5mm",
+        "\\def\\htmladdnormallink#1#2{\\href{#2}{#1}}",
         ""
     );
     $buffer2=array_slice($buffer,5);
