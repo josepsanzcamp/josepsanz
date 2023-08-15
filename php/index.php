@@ -144,12 +144,21 @@
                 <!-- About Section Content -->
                 <div class="row">
                     <div class="col-lg-12">
-                        <?php foreach($labels[$lang]["downloadlink"] as $image) { ?>
+                        <?php foreach($labels[$lang]["download_img"] as $image) { ?>
                             <?php $size = getimagesize($image); $width = $size[0]; $height = $size[1]; ?>
                             <img src="<?php echo $image; ?>" alt="<?php echo $labels[$lang]["aboutme"]; ?>"
                                 class="img-fluid mb-45 rounded"
                                 loading="lazy" width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
                         <?php } ?>
+                    </div>
+                    <div class="d-none">
+                        <?php
+                            $text = file_get_contents($labels[$lang]["download_txt"]);
+                            $text = htmlentities($text);
+                            $text = nl2br($text);
+                            $text = str_replace("\n", "", $text);
+                            echo $text;
+                        ?>
                     </div>
                 </div>
 

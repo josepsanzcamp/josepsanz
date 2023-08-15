@@ -13,6 +13,7 @@ for i in catalan spanish english; do
     rm cv_josep_sanz_${i}.pdf
     rm cv_josep_sanz_${i}.pdf.2
     pdftoppm -gray -png cv_josep_sanz_${i}_preview.pdf cv_josep_sanz_${i}_preview
+    pdftotext -raw -nopgbrk cv_josep_sanz_${i}_preview.pdf
 done
 
 for i in cv_josep_sanz_*_preview-*.png; do
