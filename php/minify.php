@@ -2,16 +2,7 @@
 
 function html_minify($data)
 {
-    $data = str_replace(
-        ["<head>", "</head>", "<body>", "</body>"],
-        ["<aaaa>", "</aaaa>", "<bbbb>", "</bbbb>"],
-        $data);
-    $data = __minify($data, "html");
-    $data = str_replace(
-        ["<aaaa>", "</aaaa>", "<bbbb>", "</bbbb>"],
-        ["<head>", "</head>", "<body>", "</body>"],
-        $data);
-    return $data;
+    return __minify($data, "html");
 }
 
 function css_minify($data)
@@ -40,6 +31,12 @@ function __minify($data, $type) {
     if (file_exists($out)) {
         $data = file_get_contents($out);
     }
+    return $data;
+}
+
+function xml_minify($data)
+{
+    $data = preg_replace('/\>\s+\</m', '><', $data);
     return $data;
 }
 
