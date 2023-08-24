@@ -62,7 +62,7 @@
         </nav>
 
         <!-- Masthead -->
-        <header class="masthead bg-primary text-black text-center">
+        <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
 
                 <!-- Masthead Avatar Image -->
@@ -126,11 +126,11 @@
         </section>
 
         <!-- About Section -->
-        <section class="page-section bg-primary text-black mb-0" id="about">
+        <section class="page-section bg-primary text-white mb-0" id="about">
             <div class="container">
 
                 <!-- About Section Heading -->
-                <h2 class="page-section-heading text-center text-uppercase text-black"><?php echo $labels[$lang]["aboutme"]; ?></h2>
+                <h2 class="page-section-heading text-center text-uppercase text-white"><?php echo $labels[$lang]["aboutme"]; ?></h2>
 
                 <!-- Icon Divider -->
                 <div class="divider-custom divider-light">
@@ -165,21 +165,21 @@
                 <!-- About Section Button -->
                 <div class="row">
                     <div class="col-md-6 col-lg-4">
-                        <a class="btn btn-xl btn-outline-dark w-100 my-3 sameheight" href="<?php echo $labels[$lang]["downloadlink_ca"]; ?>">
+                        <a class="btn btn-xl btn-outline-light w-100 my-3 sameheight" href="<?php echo $labels[$lang]["downloadlink_ca"]; ?>">
                             <i class="fas fa-download mr-2"></i>
                             <?php echo $labels[$lang]["downloadtext"]; ?> (<?php echo $labels[$lang]["catala"]; ?>)
                         </a>
                     </div>
 
                     <div class="col-md-6 col-lg-4">
-                        <a class="btn btn-xl btn-outline-dark w-100 my-3 sameheight" href="<?php echo $labels[$lang]["downloadlink_es"]; ?>">
+                        <a class="btn btn-xl btn-outline-light w-100 my-3 sameheight" href="<?php echo $labels[$lang]["downloadlink_es"]; ?>">
                             <i class="fas fa-download mr-2"></i>
                             <?php echo $labels[$lang]["downloadtext"]; ?> (<?php echo $labels[$lang]["castellano"]; ?>)
                         </a>
                     </div>
 
                     <div class="col-md-6 col-lg-4">
-                        <a class="btn btn-xl btn-outline-dark w-100 my-3 sameheight" href="<?php echo $labels[$lang]["downloadlink_en"]; ?>">
+                        <a class="btn btn-xl btn-outline-light w-100 my-3 sameheight" href="<?php echo $labels[$lang]["downloadlink_en"]; ?>">
                             <i class="fas fa-download mr-2"></i>
                             <?php echo $labels[$lang]["downloadtext"]; ?> (<?php echo $labels[$lang]["english"]; ?>)
                         </a>
