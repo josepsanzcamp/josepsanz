@@ -48,5 +48,78 @@
 	margin-bottom: 2rem;
 }
 
-.visually-hidden,.visually-hidden-focusable:not(:focus):not(:focus-within){width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
-.visually-hidden-focusable:not(:focus):not(:focus-within):not(caption),.visually-hidden:not(caption){position:absolute!important}
+.visually-hidden,
+.visually-hidden-focusable:not(:focus):not(:focus-within) {
+	width:1px!important;
+	height:1px!important;
+	padding:0!important;
+	margin:-1px!important;
+	overflow:hidden!important;
+	clip:rect(0,0,0,0)!important;
+	white-space:nowrap!important;
+	border:0!important
+}
+
+.visually-hidden-focusable:not(:focus):not(:focus-within):not(caption),
+.visually-hidden:not(caption) {
+	position:absolute!important
+}
+
+/* For blue color */
+
+.bg-primary,
+.portfolio img,
+.portfolio .portfolio-item .portfolio-item-caption,
+.portfolio-modal img,
+.navbar-nav > li.nav-item > a.nav-link.active {
+	background-color: #0d6efd!important;
+}
+
+.navbar-nav li.nav-item a.nav-link:hover {
+	color: #fff!important;
+	background-color: #0d6efd!important;
+}
+
+.portfolio-modal .close {
+	color: #0d6efd!important;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+	color: #0d6efd;
+}
+
+.btn-primary {
+	background-color: #0d6efd!important;
+	border-color: #0d6efd!important;
+}
+
+.btn-primary.focus,
+.btn-primary:focus,
+.btn-primary:not(:disabled):not(.disabled).active:focus,
+.btn-primary:not(:disabled):not(.disabled):active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+	box-shadow: 0 0 0 .2rem rgba(13,110,253,.5)!important;
+}
+
+.form-control:focus {
+	border-color: #0d6efd!important;
+}
+
+.floating-label-form-group-with-focus label {
+	color: #0d6efd!important;
+}
+
+.text-danger ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+a.bg-primary:focus,
+a.bg-primary:hover,
+button.bg-primary:focus,
+button.bg-primary:hover {
+	background-color: #0d6efd!important;
+}
