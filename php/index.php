@@ -97,7 +97,7 @@
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon">
-                        <i class="fas fa-th-large"></i>
+                        <i class="fas fa-list"></i>
                     </div>
                     <div class="divider-custom-line"></div>
                 </div>
@@ -282,7 +282,7 @@
                             <span class="visually-hidden">Facebook</span>
                         </a>
                         <a class="btn btn-outline-light btn-social m-1" href="https://twitter.com/josepsanzcamp" target="_blank">
-                            <i class="fab fa-fw fa-twitter"></i>
+                            <i class="fab fa-fw fa-x-twitter"></i>
                             <span class="visually-hidden">Twitter</span>
                         </a>
                         <a class="btn btn-outline-light btn-social m-1" href="https://youtube.com/@josepsanzcamp" target="_blank">
