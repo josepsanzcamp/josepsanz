@@ -29,7 +29,7 @@ gramming for embedded systems (Altera, Xilinx, Arduino and Raspberry pi).
 as well as their release under the GPL-3.0 license, currently I continue developing on these projects.
 • I have been a member of the board of directors of CatPL, the association of Catalan Free Software
 Companies, and I have given talks on free software.
-• I have worked in research environments such as the Institute of Space Studies of Catalonia and the
+• I have worked in research environments such as the Institut d’Estudis Espacials de Catalunya and the
 4
 Technical University of Catalonia at Dept. of Applied Physics.
 • In the last years I have carried out tasks of optimization and automation of processes in the logistics
@@ -82,7 +82,7 @@ Developments for GNU/Linux environments and integration of SaltOS in all busines
 • SaltOS connection with the company’s old ERP (SQLServer).
 • Documentation recognition systems using OCR, bar codes and QR codes.
 • Automation of processes using embedded systems based on Raspberry PI.
-6.3 Institute of Space Studies of Catalonia (2011-2019)
+6.3 Institut d’Estudis Espacials de Catalunya (2011-2019)
 Developments for GNU/Linux environments to control robotic telescopes:
 • Development of OpenROCS 2.0 (GPL-3.0 license), control software used by the TJO and SQT tele-
 scopes.
@@ -104,13 +104,13 @@ Developments for WEB using LAMP environments (Linux+Apache+MySQL+PHP):
 • Development of the ’mecano’ project
 • Development of the DBMailer project
 • Several collaborations with IEEC for the PARIS and GOLD-RTR projects
-6.6 Information Engineering, IN2 (2005-2006 as team’s chief)
+6.6 Ingenierı́a de la Información, IN2 (2005-2006 as team’s chief)
 Software development for GNU/Linux and Windows CE.
 • Use of security tools like Snort.
 • Programming of mobile devices using EVC++ 3.0 for PDA devices
 • Programming in C, PHP, .NET
 • Use of DBMS such as MySQL, ORACLE
-6.7 Institute of Space Studies of Catalonia (2001-2005)
+6.7 Institut d’Estudis Espacials de Catalunya (2001-2005)
 Development of software for UNIX environments.
 • Design and implementation of hardware and drivers.
 • Planning and implementation of software for various projects.

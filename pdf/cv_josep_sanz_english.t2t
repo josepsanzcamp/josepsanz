@@ -1,6 +1,6 @@
 ﻿Professional Profile
 Josep Sanz Campderrós.
-August 2023
+October 2023
 
 
 +Personal Data+
@@ -45,7 +45,7 @@ August 2023
 - I have been working in Unix and GNU/Linux environments for 25 years, I have participated in process automation and big data processing projects (OpenROCS, motor control and astronomical telescopes), backend and frontend development (SaltOS, RhinOS and custom apps for web and desktop) and programming for embedded systems (Altera, Xilinx, Arduino and Raspberry pi).
 - In the Wide Spectrum Software Solutions business project, I directed the [SaltOS https://github.com/josepsanzcamp/SaltOS/] and [RhinOS https://github.com/josepsanzcamp/RhinOS/] projects, as well as their release under the GPL-3.0 license, currently I continue developing on these projects.
 - I have been a member of the board of directors of CatPL, the association of Catalan Free Software Companies, and I have given talks on free software.
-- I have worked in research environments such as the Institute of Space Studies of Catalonia and the Technical University of Catalonia at Dept. of Applied Physics.
+- I have worked in research environments such as the Institut d’Estudis Espacials de Catalunya and the Technical University of Catalonia at Dept. of Applied Physics.
 - In the last years I have carried out tasks of optimization and automation of processes in the logistics sector, using algorithms such as STRIPS and languages such as PDDL.
 - I have published a repository at [github https://github.com/josepsanzcamp/gralla/] with a web of scores and audios for gralla at [gralla.josepsanz.net https://gralla.josepsanz.net]
 - I have also contributed to free software projects such as phpMyAdmin, Mroonga, MuseScore, PHP, jQuery-UI, jquery-timepicker, TCPDF, WarnockPDF, root-ro, handsontable, masonry, hhvm, jGrowl, sqlite-for-piwik, webapp-xul-wrapper, php-osx, jsmin-php, jquery-grab-bag, pdf.js, Columnizer-jQuery-Plugin
@@ -93,7 +93,7 @@ Developments for GNU/Linux environments and integration of SaltOS in all busines
 - Automation of processes using embedded systems based on Raspberry PI.
 
 
-++Institute of Space Studies of Catalonia (2011-2019)++
+++Institut d’Estudis Espacials de Catalunya (2011-2019)++
 
 Developments for GNU/Linux environments to control robotic telescopes:
 - Development of OpenROCS 2.0 (GPL-3.0 license), control software used by the TJO and SQT telescopes.
@@ -123,7 +123,7 @@ Developments for WEB using LAMP environments (Linux+Apache+MySQL+PHP):
 - Several collaborations with IEEC for the PARIS and GOLD-RTR projects
 
 
-++Information Engineering, IN2 (2005-2006 as team's chief)++
+++Ingeniería de la Información, IN2 (2005-2006 as team's chief)++
 
 Software development for GNU/Linux and Windows CE.
 - Use of security tools like Snort.
@@ -132,7 +132,7 @@ Software development for GNU/Linux and Windows CE.
 - Use of DBMS such as MySQL, ORACLE
 
 
-++Institute of Space Studies of Catalonia (2001-2005)++
+++Institut d’Estudis Espacials de Catalunya (2001-2005)++
 
 Development of software for UNIX environments.
 - Design and implementation of hardware and drivers.
@@ -270,7 +270,7 @@ System that allows the integration of clients with the generic import of the old
 - Automatic generation of reports and fluxs outs for the return of information to customers.
 
 
-++Institute of Space Studies of Catalonia (2011-2019)++
+++Institut d’Estudis Espacials de Catalunya (2011-2019)++
 
 Developments for GNU/Linux environments to control robotic telescopes:
 - Development of OpenROCS 2.0 (GPL-3.0 license), the control software used by the TJO and SQT telescopes.
@@ -681,7 +681,7 @@ Configuration of the computer systems for data reception
 - Empirical calibration and performance certification document
 
 
-++Information Engineering, IN2 (2005-2006 as team's chief)++
+++Ingeniería de la Información, IN2 (2005-2006 as team's chief)++
 
 Software development for GNU/Linux and Windows CE.
 - Use of security tools like Snort.
@@ -739,7 +739,7 @@ Development of applications software to migrate from Portal to PHP
 - Using the ORACLE DBMS
 
 
-++Institute of Space Studies of Catalonia (2001-2005)++
+++Institut d’Estudis Espacials de Catalunya (2001-2005)++
 
 Development of software for UNIX environments.
 - Design and implementation of hardware and drivers.

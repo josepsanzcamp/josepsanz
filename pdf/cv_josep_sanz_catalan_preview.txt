@@ -131,7 +131,7 @@ Administració de sistemes Unix i Windows
 Muntatge i manteniment d’equips industrials.
 • Programació de PLCs per a aplicacions industrials.
 • Muntatge de quadres elèctrics i sistemes de depuració de residus.
-6.10 GESTHOS, gestió tècnica hospitalària (1996-1997)
+6.10 GESTHOS, gestión técnica hospitalaria (1996-1997)
 Acoblament i manteniment d’equips d’electro-medicina.
 • Reparació d’equips mèdics.
 • Especificació i implementació d’equips per tests tècnics.
