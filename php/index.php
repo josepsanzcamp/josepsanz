@@ -147,7 +147,7 @@
                         <?php foreach($labels[$lang]["download_img"] as $image) { ?>
                             <?php $size = getimagesize($image); $width = $size[0]; $height = $size[1]; ?>
                             <img src="<?php echo $image; ?>" alt="<?php echo $labels[$lang]["aboutme"]; ?>"
-                                class="img-fluid mb-45 rounded"
+                                class="img-fluid mb-45 rounded bg-white"
                                 loading="lazy" width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
                         <?php } ?>
                     </div>

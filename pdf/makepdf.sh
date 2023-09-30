@@ -12,7 +12,7 @@ for i in catalan spanish english; do
     gs -sDEVICE=pdfwrite -dPDFSETTINGS=/ebook -dNOPAUSE -dBATCH -dSAFER -dFirstPage=5 -dLastPage=9 -sOutputFile=cv_josep_sanz_${i}_preview.pdf cv_josep_sanz_${i}.pdf.2
     rm cv_josep_sanz_${i}.pdf
     rm cv_josep_sanz_${i}.pdf.2
-    pdftocairo -png cv_josep_sanz_${i}_preview.pdf cv_josep_sanz_${i}_preview
+    pdftocairo -png -transp cv_josep_sanz_${i}_preview.pdf cv_josep_sanz_${i}_preview
     pdftotext -raw -nopgbrk cv_josep_sanz_${i}_preview.pdf
 done
 
