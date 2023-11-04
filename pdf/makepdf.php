@@ -34,6 +34,12 @@ foreach($files as $file) {
         "\\setlength{\\parskip}{3mm}",
         "\\plparsep 2.5mm",
         "\\def\\htmladdnormallink#1#2{\\href{#2}{#1}}",
+        "\\usepackage{titlesec}",
+        "\\usepackage{xhfill}",
+        "\\newcommand\\ruleafter[1]{#1~\\xrfill[.7ex]{1pt}}",
+        "\\titleformat{\\section}{\\normalfont\\Large\\rmfamily\\bfseries\\color{myblue}}{\\thesection.}{.7ex}{\\ruleafter}",
+        "\\titleformat{\\subsection}{\\normalfont\\large\\rmfamily\\bfseries\\color{myblue}}{\\thesubsection.}{.7ex}{\\ruleafter}",
+        "\\titleformat{\\subsubsection}{\\normalfont\\normalsize\\rmfamily\\bfseries\\color{myblue}}{\\thesubsubsection.}{.7ex}{\\ruleafter}",
         ""
     );
     $buffer2=array_slice($buffer,5);

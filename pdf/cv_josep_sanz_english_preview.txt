@@ -1,4 +1,4 @@
-1 Personal Data
+1. Personal Data
 • Josep Sanz Campderrós.
 • Born in Barcelona on December 7, 1976.
 • EMail: josep.sanz@saltos.org
@@ -6,11 +6,11 @@
 • Github: github.com/josepsanzcamp
 • Sourceforge: sourceforge.net/u/josepsanzcamp
 • Linkedin: linkedin.com/in/josepsanz
-2 Academic training
+2. Academic training
 • Computer Engineer (UPC).
 • Degree of Computer Applications Development.
 • Technician in Telecommunications Electronics.
-3 Other courses and seminars
+3. Other courses and seminars
 • AutoCAD basic course
 • Driving license B1
 • Seminar on computer network security
@@ -18,7 +18,7 @@
 • ALTERA’s FPGA Seminar
 • Seminar Echelon - LonWorks
 • Law enforcement Seminar on Data Protection (Spanish LOPD).
-4 Other data of interest
+4. Other data of interest
 • Throughout my professional career, I have almost always carried out R+D+i tasks (Research, Develop-
 ment and Innovation).
 • I have been working in Unix and GNU/Linux environments for 25 years, I have participated in process
@@ -29,8 +29,8 @@ gramming for embedded systems (Altera, Xilinx, Arduino and Raspberry pi).
 as well as their release under the GPL-3.0 license, currently I continue developing on these projects.
 • I have been a member of the board of directors of CatPL, the association of Catalan Free Software
 Companies, and I have given talks on free software.
-• I have worked in research environments such as the Institut d’Estudis Espacials de Catalunya and the
 4
+• I have worked in research environments such as the Institut d’Estudis Espacials de Catalunya and the
 Technical University of Catalonia at Dept. of Applied Physics.
 • In the last years I have carried out tasks of optimization and automation of processes in the logistics
 sector, using algorithms such as STRIPS and languages such as PDDL.
@@ -39,7 +39,7 @@ sector, using algorithms such as STRIPS and languages such as PDDL.
 jQuery-UI, jquery-timepicker, TCPDF, WarnockPDF, root-ro, handsontable, masonry, hhvm, jGrowl,
 sqlite-for-piwik, webapp-xul-wrapper, php-osx, jsmin-php, jquery-grab-bag, pdf.js, Columnizer-jQuery-
 Plugin
-5 Key words
+5. Key words
 • Operating systems: GNU/Linux, Unix Solaris, HP-UX, Slackware, Centos, Debian, Ubuntu, RedHat,
 Fedora, LAMP, Microsoft, Raspbian
 • Databases: MySQL, PostgreSQL, Oracle, SQLServer, MariaDB
@@ -67,14 +67,14 @@ Telescope, Baader Dome, Allsky
 • Others: Reports, Real Time, Osciloscope, LOPD, Frontend, Backend, Parser, MVC, Mailing, Online,
 E-Learning, SDK, Auditoria, DoS
 5
-6 Professional experience
-6.1 Independent professional (Since 2022)
+6. Professional experience
+6.1. Independent professional (Since 2022)
 Developments for GNU/Linux and evolutives in the SaltOS and RhinOS projects:
 • RhinOS and SaltOS evolutions to run on PHP 8.2 + third-party library updates.
 • Development of the new SaltOS v4 framework: backend in PHP, frontend in JavaScript, API based on
 REST and JSON requests.
 • Migration of SaltOS Server from CentOS 7 to Debian 11.
-6.2 AB Custom Transports & Logistics, S.L. (2019-2022)
+6.2. AB Custom Transports & Logistics, S.L. (2019-2022)
 Developments for GNU/Linux environments and integration of SaltOS in all business areas:
 • Last mile mobile application for drivers, to operate even without internet.
 • Route optimization using AI and online appointment automation.
@@ -82,7 +82,7 @@ Developments for GNU/Linux environments and integration of SaltOS in all busines
 • SaltOS connection with the company’s old ERP (SQLServer).
 • Documentation recognition systems using OCR, bar codes and QR codes.
 • Automation of processes using embedded systems based on Raspberry PI.
-6.3 Institut d’Estudis Espacials de Catalunya (2011-2019)
+6.3. Institut d’Estudis Espacials de Catalunya (2011-2019)
 Developments for GNU/Linux environments to control robotic telescopes:
 • Development of OpenROCS 2.0 (GPL-3.0 license), control software used by the TJO and SQT tele-
 scopes.
@@ -91,31 +91,31 @@ the ICE and the www.ieec.cat for the IEEC.
 • Development of the MUR application: an online software for sending astronomical proposals.
 • Fork of the IndiCCD project to allow the control of multiple Andor cameras.
 • User interface and control system for the SQT telescope, the Allsky camera and the IEEC-CSIC telescope.
-6.4 Wide Spectrum Software Solutions (2007-2011 in R+D Dept.)
+6.4. Wide Spectrum Software Solutions (2007-2011 in R+D Dept.)
 Developments for GNU/Linux, MONO, Firmware, PDAs and web environments:
 • Development of the SaltOS and RhinOS projects released under the GPL-3.0 license.
 • Project for the NTE/ESA to do some parts of the unit-test of the LISA Pathfinder project.
 • Project for the IEEC to make improvements in the GOLD-RTR project (v2 and v3).
 • Multiple web projects (portals and online shops) to different customers.
 6
-6.5 Enfasystem (2006-2007 in R+D Dept.)
+6.5. Enfasystem (2006-2007 in R+D Dept.)
 Developments for WEB using LAMP environments (Linux+Apache+MySQL+PHP):
 • Improvement of the ’admin’ control panel
 • Development of the ’mecano’ project
 • Development of the DBMailer project
 • Several collaborations with IEEC for the PARIS and GOLD-RTR projects
-6.6 Ingenierı́a de la Información, IN2 (2005-2006 as team’s chief)
+6.6. Ingenierı́a de la Información, IN2 (2005-2006 as team’s chief)
 Software development for GNU/Linux and Windows CE.
 • Use of security tools like Snort.
 • Programming of mobile devices using EVC++ 3.0 for PDA devices
 • Programming in C, PHP, .NET
 • Use of DBMS such as MySQL, ORACLE
-6.7 Institut d’Estudis Espacials de Catalunya (2001-2005)
+6.7. Institut d’Estudis Espacials de Catalunya (2001-2005)
 Development of software for UNIX environments.
 • Design and implementation of hardware and drivers.
 • Planning and implementation of software for various projects.
 • Programming in C with GTK, Tcl/Tk on Unix tcsh.
-6.8 Universitat Politècnica de Catalunya, Dept. of Applied Physics (1999-2001)
+6.8. Universitat Politècnica de Catalunya, Dept. of Applied Physics (1999-2001)
 Administration of Unix Systems and Microsoft Windows
 • Implementation of network security systems (SSL)
 • Security audits for the computer systems of the department
@@ -124,15 +124,15 @@ Administration of Unix Systems and Microsoft Windows
 • Collaborations with the WAFAE association.
 • Support to users, and so on.
 7
-6.9 INCOSE, ingenierı́a de contrataciones y servicios (1997-1999)
+6.9. INCOSE, ingenierı́a de contrataciones y servicios (1997-1999)
 Installation and maintenance of industrial equipment.
 • Programming of PLC’s for industrial applications.
 • Installation of electrical boards and waste treatment systems.
-6.10 GESTHOS, gestión técnica hospitalaria (1996-1997)
+6.10. GESTHOS, gestión técnica hospitalaria (1996-1997)
 Assembly and maintenance of electromedical equipment.
 • Repair of medical equipment.
 • Specification and implementation of equipment for technical tests.
-7 Languages
+7. Languages
 • Spanish native (read, written and spoken).
 • Catalan native (read, written and spoken).
 • Technical English (intermediate level for read, write and speak).

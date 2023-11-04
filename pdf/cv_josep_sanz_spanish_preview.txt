@@ -28,9 +28,9 @@ programación para sistemas empotrados (Altera, Xilinx, Arduino y Raspberry pi)
 • En el proyecto empresarial Wide Spectrum Software Solutions, dirigı́ los proyectos SaltOS y RhinOS,
 ası́ como su liberación bajo la licencia GPL-3.0, en la actualizad continuo desarrollando en estos pro-
 yectos.
+4
 • He sido miembro de la junta directiva de CatPL, asociación de Empresas Catalanas de Software Libre
 y he impartido charlas sobre software libre.
-4
 • He realizado trabajos en entornos de investigación como el Institut d’Estudis Espacials de Catalunya y
 la Universitat Politècnica de Catalunya, Dept. de Fı́sica Aplicada.
 • En los últimos años he realizado tareas de optimización y automatización de procesos en el sector
