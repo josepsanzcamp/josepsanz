@@ -274,7 +274,7 @@
                             <i class="fab fa-fw fa-sourceforge"><i class="fa-sourceforge1">s</i><i class="fa-sourceforge2">f</i></i>
                             <span class="visually-hidden">Sourceforge</span>
                         </a>
-                        <a class="btn btn-outline-light btn-social m-1" href="https://linkedin.com/in/josepsanz" target="_blank">
+                        <a class="btn btn-outline-light btn-social m-1" href="https://linkedin.com/in/josepsanzcamp" target="_blank">
                             <i class="fab fa-fw fa-linkedin"></i>
                             <span class="visually-hidden">Linkedin</span>
                         </a>
