@@ -127,16 +127,3 @@ Administració de sistemes Unix i Windows
 • Col·laboracions amb l’associació WAFAE.
 • Suport als usuaris, etc.
 7
-6.9. INCOSE, ingenierı́a de contrataciones y servicios (1997-1999)
-Muntatge i manteniment d’equips industrials.
-• Programació de PLCs per a aplicacions industrials.
-• Muntatge de quadres elèctrics i sistemes de depuració de residus.
-6.10. GESTHOS, gestión técnica hospitalaria (1996-1997)
-Acoblament i manteniment d’equips d’electro-medicina.
-• Reparació d’equips mèdics.
-• Especificació i implementació d’equips per tests tècnics.
-7. Idiomes
-• Castellà natiu (llegit, escrit i parlat).
-• Català natiu (nivell C, llegit, escrit i parlat).
-• Anglès tècnic (nivell mitjà, llegit, escrit i parlat).
-8

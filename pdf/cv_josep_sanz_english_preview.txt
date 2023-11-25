@@ -124,16 +124,3 @@ Administration of Unix Systems and Microsoft Windows
 • Collaborations with the WAFAE association.
 • Support to users, and so on.
 7
-6.9. INCOSE, ingenierı́a de contrataciones y servicios (1997-1999)
-Installation and maintenance of industrial equipment.
-• Programming of PLC’s for industrial applications.
-• Installation of electrical boards and waste treatment systems.
-6.10. GESTHOS, gestión técnica hospitalaria (1996-1997)
-Assembly and maintenance of electromedical equipment.
-• Repair of medical equipment.
-• Specification and implementation of equipment for technical tests.
-7. Languages
-• Spanish native (read, written and spoken).
-• Catalan native (read, written and spoken).
-• Technical English (intermediate level for read, write and speak).
-8

@@ -126,16 +126,3 @@ NivAval)
 • Colaboraciones con la asociación WAFAE.
 • Soporte a los usuarios, etc.
 7
-6.9. INCOSE, ingenierı́a de contrataciones y servicios (1997-1999)
-Montaje y mantenimiento de equipos industriales.
-• Programación de PLC’s para aplicaciones industriales.
-• Montaje de cuadros eléctricos y sistemas de depuración de residuos.
-6.10. GESTHOS, gestión técnica hospitalaria (1996-1997)
-Ensamblaje y mantenimiento de equipos de electro-medicina.
-• Reparación de equipos médicos.
-• Especificación e implementación de equipos para tests técnicos.
-7. Idiomas
-• Castellano nativo (leido, escrito y hablado).
-• Catalán nativo (nivel C, leido, escrito y hablado).
-• Inglés técnico (nivel medio, leido, escrito y hablado).
-8
