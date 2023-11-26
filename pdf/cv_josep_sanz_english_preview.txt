@@ -18,7 +18,7 @@
 • ALTERA’s FPGA Seminar
 • Seminar Echelon - LonWorks
 • Law enforcement Seminar on Data Protection (Spanish LOPD).
-4. Other data of interest
+4. About me
 • Throughout my professional career, I have almost always carried out R+D+i tasks (Research, Develop-
 ment and Innovation).
 • I have been working in Unix and GNU/Linux environments for 25 years, I have participated in process
@@ -31,7 +31,7 @@ as well as their release under the GPL-3.0 license, currently I continue develop
 Companies, and I have given talks on free software.
 4
 • I have worked in research environments such as the Institut d’Estudis Espacials de Catalunya and the
-Technical University of Catalonia at Dept. of Applied Physics.
+Univ. Politècnica de Catalunya, Dept. of Applied Physics.
 • In the last years I have carried out tasks of optimization and automation of processes in the logistics
 sector, using algorithms such as STRIPS and languages such as PDDL.
 • I have published a repository at github with a web of scores and audios for gralla at gralla.josepsanz.net
@@ -115,7 +115,7 @@ Development of software for UNIX environments.
 • Design and implementation of hardware and drivers.
 • Planning and implementation of software for various projects.
 • Programming in C with GTK, Tcl/Tk on Unix tcsh.
-6.8. Universitat Politècnica de Catalunya, Dept. of Applied Physics (1999-2001)
+6.8. Univ. Politècnica de Catalunya, Dept. of Applied Physics (1999-2001)
 Administration of Unix Systems and Microsoft Windows
 • Implementation of network security systems (SSL)
 • Security audits for the computer systems of the department

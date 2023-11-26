@@ -39,13 +39,13 @@ Novembre de 2023
 - Seminari aplicació Llei Orgànica de Protecció de Dades (LOPD).
 
 
-+Altres dades d'interès+
++Sobre mi+
 
 - Al llarg de la meva carrera professional, gairebé sempre he fet tasques de R+D+i (Recerca, Desenvolupament i Innovació).
 - Fa 25 anys que treballo en entorns Unix i GNU/Linux, he participat en projectes d'automatització de processos i processament de dades massives (OpenROCS, control de motors i telescopis astronòmics), desenvolupaments de backends i fronends (SaltOS, RhinOS i apps a mida per a web i per a escriptori) i programació per a sistemes encastats (Altera, Xilinx, Arduino i Raspberry pi).
 - Al projecte empresarial Wide Spectrum Software Solutions, vaig dirigir els projectes [SaltOS https://github.com/josepsanzcamp/SaltOS/] i [RhinOS https://github.com/josepsanzcamp/RhinOS/], així com el seu alliberament sota la llicència GPL-3.0, en l'actualitat continuo desenvolupant en aquests projectes.
 - He estat membre de la junta directiva de CatPL, associació d'Empreses Catalanes de Programari Lliure i he impartit xerrades sobre programari lliure.
-- He realitzat treballs en centres de recerca com l'Institut d'Estudis Espacials de Catalunya i la Universitat Politècnica de Catalunya, Dept de Física Aplicada.
+- He realitzat treballs en centres de recerca com l'Institut d'Estudis Espacials de Catalunya i la Univ. Politècnica de Catalunya, Dept de Física Aplicada.
 - En els darrers anys he realitzat tasques d'optimització i automatització de processos al sector logístic, usant algoritmes com STRIPS i llenguatges com PDDL.
 - He publicat un repositori a [github https://github.com/josepsanzcamp/gralla/] amb una web de partitures i àudios per a gralla a [gralla.josepsanz.net https://gralla.josepsanz.net]
 - També he fet contribucions en projectes de programari lliure com phpMyAdmin, Mroonga, MuseScore, PHP, jQuery-UI, jquery-timepicker, TCPDF, WarnockPDF, root-ro, handsontable, masonry, hhvm, jGrowl, sqlite-for-piwik, webapp-xul-wrapper, php-osx, jsmin-php, jquery-grab-bag, pdf.js, Columnizer-jQuery-Plugin
@@ -140,7 +140,7 @@ Desenvolupament de software per a entorns UNIX.
 - Programació en C amb GTK, Tcl/Tk, tcsh sobre entorns Unix.
 
 
-++Universitat Politècnica de Catalunya, Dept. de Física Aplicada (1999-2001)++
+++Univ. Politècnica de Catalunya, Dept. de Física Aplicada (1999-2001)++
 
 Administració de sistemes Unix i Windows
 - Implementació de sistemes de seguretat de xarxes (SSL)
@@ -785,7 +785,7 @@ Programació en entorns ALTERA:
 
 [images/mdpp3.jpg]
 
-++Universitat Politècnica de Catalunya, Dept. de Física Aplicada (1999-2001)++
+++Univ. Politècnica de Catalunya, Dept. de Física Aplicada (1999-2001)++
 
 Administració de sistemes Unix i Windows
 - Implementació de sistemes de seguretat de xarxes (SSL)

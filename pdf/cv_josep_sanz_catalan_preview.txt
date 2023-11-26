@@ -18,7 +18,7 @@
 • Seminari de FPGA s ALTERA
 • Seminari d’Echelon - Lonworks
 • Seminari aplicació Llei Orgànica de Protecció de Dades (LOPD).
-4. Altres dades d’interès
+4. Sobre mi
 • Al llarg de la meva carrera professional, gairebé sempre he fet tasques de R+D+i (Recerca, Desenvolu-
 pament i Innovació).
 • Fa 25 anys que treballo en entorns Unix i GNU/Linux, he participat en projectes d’automatització de
@@ -31,7 +31,7 @@ projectes.
 4
 • He estat membre de la junta directiva de CatPL, associació d’Empreses Catalanes de Programari Lliure
 i he impartit xerrades sobre programari lliure.
-• He realitzat treballs en centres de recerca com l’Institut d’Estudis Espacials de Catalunya i la Universitat
+• He realitzat treballs en centres de recerca com l’Institut d’Estudis Espacials de Catalunya i la Univ.
 Politècnica de Catalunya, Dept de Fı́sica Aplicada.
 • En els darrers anys he realitzat tasques d’optimització i automatització de processos al sector logı́stic,
 usant algoritmes com STRIPS i llenguatges com PDDL.
@@ -117,7 +117,7 @@ Desenvolupament de software per a entorns UNIX.
 • Disseny i implementació de maquinari i drivers.
 • Planificació i implementació de programari per a diversos projectes.
 • Programació en C amb GTK, Tcl/Tk, tcsh sobre entorns Unix.
-6.8. Universitat Politècnica de Catalunya, Dept. de Fı́sica Aplicada (1999-2001)
+6.8. Univ. Politècnica de Catalunya, Dept. de Fı́sica Aplicada (1999-2001)
 Administració de sistemes Unix i Windows
 • Implementació de sistemes de seguretat de xarxes (SSL)
 • Auditories de seguretat dels sistemes informàtics del departament

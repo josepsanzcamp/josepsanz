@@ -18,7 +18,7 @@
 • Seminario de FPGA’s ALTERAz
 • Seminario de Echelon - Lonworks
 • Seminario aplicación Ley Orgánica de Protección de Datos (LOPD).
-4. Otros datos de interés
+4. Acerca de mi
 • A lo largo de mi carrera profesional, casi siempre he realizado tareas de I+D+i (Investigación, Desarrollo
 e Innovación).
 • Llevo 25 años trabajando en entornos Unix y GNU/Linux, he participado en proyectos de automatización
@@ -32,7 +32,7 @@ yectos.
 • He sido miembro de la junta directiva de CatPL, asociación de Empresas Catalanas de Software Libre
 y he impartido charlas sobre software libre.
 • He realizado trabajos en entornos de investigación como el Institut d’Estudis Espacials de Catalunya y
-la Universitat Politècnica de Catalunya, Dept. de Fı́sica Aplicada.
+la Univ. Politècnica de Catalunya, Dept. de Fı́sica Aplicada.
 • En los últimos años he realizado tareas de optimización y automatización de procesos en el sector
 logı́stico, usando algoritmos como STRIPS y lenguages como PDDL.
 • He publicado un repositorio en github con una web de partituras y audios para gralla en gralla.josepsanz.net
@@ -116,7 +116,7 @@ Desarrollo de software para entornos UNIX.
 • Diseño e implementación de hardware y drivers.
 • Planificación e implementación de software para varios proyectos.
 • Programación en C con GTK, Tcl/Tk, tcsh sobre entornos Unix.
-6.8. Universitat Politècnica de Catalunya, Dept. de Fı́sica Aplicada (1999-2001)
+6.8. Univ. Politècnica de Catalunya, Dept. de Fı́sica Aplicada (1999-2001)
 Administración de sistemas Unix y Windows
 • Implementación de sistemas de seguridad de redes (SSL)
 • Auditorias de seguridad de los sistemas informáticos del departamento

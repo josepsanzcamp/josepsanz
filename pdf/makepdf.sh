@@ -17,6 +17,7 @@ for i in catalan spanish english; do
 done
 
 for i in cv_josep_sanz_*_preview-*.png; do
+    echo $i
     pngnq $i
     j=$(echo $i | cut -d. -f1)-nq8.png
     mv $j $i
