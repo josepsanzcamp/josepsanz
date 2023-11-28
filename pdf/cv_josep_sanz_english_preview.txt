@@ -1,7 +1,7 @@
 1. Personal Data
 • Josep Sanz Campderrós.
 • Born in Barcelona on December 7, 1976.
-• EMail: josep.sanz@saltos.org
+• Email: josep.sanz@saltos.org
 • Web: www.josepsanz.net & www.saltos.org
 • Github: github.com/josepsanzcamp
 • Sourceforge: sourceforge.net/u/josepsanzcamp
