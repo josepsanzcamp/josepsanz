@@ -19,8 +19,8 @@
 • Seminar Echelon - LonWorks
 • Law enforcement Seminar on Data Protection (Spanish LOPD).
 4. About me
-• Throughout my professional career, I have almost always carried out R+D+i tasks (Research, Develop-
-ment and Innovation).
+• Throughout my professional career I have carried out R+D+i tasks (Research, Development and Inno-
+vation).
 • I have been working in Unix and GNU/Linux environments for 25 years, I have participated in process
 automation and big data processing projects (OpenROCS, motor control and astronomical telescopes),
 backend and frontend development (SaltOS, RhinOS and custom apps for web and desktop) and pro-

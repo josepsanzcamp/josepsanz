@@ -19,8 +19,7 @@
 • Seminario de Echelon - Lonworks
 • Seminario aplicación Ley Orgánica de Protección de Datos (LOPD).
 4. Acerca de mi
-• A lo largo de mi carrera profesional, casi siempre he realizado tareas de I+D+i (Investigación, Desarrollo
-e Innovación).
+• A lo largo de mi carrera profesional he realizado tareas de I+D+i (Investigación, Desarrollo e Innovación).
 • Llevo 25 años trabajando en entornos Unix y GNU/Linux, he participado en proyectos de automatización
 de procesos y procesado de datos masivos (OpenROCS, control de motores y telescopios astronómicos),
 desarrollos de backends y fronends (SaltOS, RhinOS y apps a medida para web y para escritorio) y
@@ -28,9 +27,9 @@ programación para sistemas empotrados (Altera, Xilinx, Arduino y Raspberry pi)
 • En el proyecto empresarial Wide Spectrum Software Solutions, dirigı́ los proyectos SaltOS y RhinOS,
 ası́ como su liberación bajo la licencia GPL-3.0, en la actualizad continuo desarrollando en estos pro-
 yectos.
-4
 • He sido miembro de la junta directiva de CatPL, asociación de Empresas Catalanas de Software Libre
 y he impartido charlas sobre software libre.
+4
 • He realizado trabajos en entornos de investigación como el Institut d’Estudis Espacials de Catalunya y
 la Univ. Politècnica de Catalunya, Dept. de Fı́sica Aplicada.
 • En los últimos años he realizado tareas de optimización y automatización de procesos en el sector

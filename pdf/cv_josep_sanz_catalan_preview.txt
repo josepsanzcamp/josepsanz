@@ -19,8 +19,8 @@
 • Seminari d’Echelon - Lonworks
 • Seminari aplicació Llei Orgànica de Protecció de Dades (LOPD).
 4. Sobre mi
-• Al llarg de la meva carrera professional, gairebé sempre he fet tasques de R+D+i (Recerca, Desenvolu-
-pament i Innovació).
+• Al llarg de la meva carrera professional he fet tasques de R+D+i (Recerca, Desenvolupament i Innova-
+ció).
 • Fa 25 anys que treballo en entorns Unix i GNU/Linux, he participat en projectes d’automatització de
 processos i processament de dades massives (OpenROCS, control de motors i telescopis astronòmics),
 desenvolupaments de backends i fronends (SaltOS, RhinOS i apps a mida per a web i per a escriptori)
