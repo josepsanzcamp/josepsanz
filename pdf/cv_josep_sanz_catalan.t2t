@@ -193,7 +193,7 @@ Desenvolupar aplicació que funcioni en mòbils perquè el xofer pugui fer el se
 - Control de l'arribada, sortida, estat de lliurament, enviament de fotos, comentaris, tot això per expedició i/o per paquet.
 
 
-[images/driver.jpg]
+[images/proyecto_aplicacion_movil_ultima_milla.jpg]
 
 +++Projecte concertació cites online+++
 
@@ -206,11 +206,11 @@ Desenvolupament del conjunt d'aplicacions perquè els destinataris puguin concer
 - Generació d'etiquetes, albarans i fulles de rutes per als magatzems i els dept. de trànsit.
 
 
-[images/citasweb1.jpg]
+[images/proyecto_concertacion_citas_online1.jpg]
 
-[images/citasweb2.jpg]
+[images/proyecto_concertacion_citas_online2.jpg]
 
-[images/citasweb3.jpg]
+[images/proyecto_concertacion_citas_online3.jpg]
 
 +++Projecte impressores d'etiquetes fent servir Raspberry PI+++
 
@@ -222,9 +222,9 @@ Desenvolupament d'un pack basat en impressora d'etiquetes + Raspberry PI per a �
 - Ideal per a clients i magatzems que han d'etiquetar amb les etiquetes de la companyia.
 
 
-[images/rpiprinter1.jpg]
+[images/proyecto_impresoras_etiquetas_mediante_raspverry_pi1.jpg]
 
-[images/rpiprinter2.jpg]
+[images/proyecto_impresoras_etiquetas_mediante_raspverry_pi2.jpg]
 
 +++Projecte replica SQLServer a MariaDB+++
 
@@ -274,7 +274,7 @@ Desenvolupament del portal web de l'IEEC
 - http://www.ieec.cat/
 
 
-[images/ieecweb.jpg]
+[images/proyecto_portal_web_ieec.jpg]
 
 +++Projecte portal web de l'ICE+++
 
@@ -286,9 +286,9 @@ Desenvolupament del portal web de l'ICE:
 - http://www.ice.csic.es/
 
 
-[images/iceweb1.jpg]
+[images/proyecto_portal_web_ice1.jpg]
 
-[images/iceweb2.jpg]
+[images/proyecto_portal_web_ice2.jpg]
 
 +++Projecte telescopi IEEC-CSIC+++
 
@@ -300,7 +300,7 @@ Projecte per automatitzar el telescopi astronòmic IEEC-CSIC:
 - Per el control es fa servir únicament una Raspberry PI 2.
 
 
-[images/icetel.jpg]
+[images/proyecto_telescopio_ieec_csic.jpg]
 
 +++Projecte càmera Allsky+++
 
@@ -312,7 +312,7 @@ Projecte per automatitzar la càmera Allsky de l'IEEC:
 - Es controla una heater, un fan, una pdu APC i una càmera APOGEE.
 
 
-[images/allsky.jpg]
+[images/proyecto_camara_allsky.jpg]
 
 +++Projecte telescopi SQT+++
 
@@ -323,7 +323,7 @@ Projecte per automatitzar el telescopi astronòmic SQT:
 - Desenvolupar la interfície gràfica d'usuari per permetre la supervisió remota (útil en el procés de posada en marxa).
 
 
-[images/sqt.jpg]
+[images/proyecto_telescopio_sqt.jpg]
 
 +++Projecte driver IndiCCD+++
 
@@ -344,7 +344,7 @@ Projecte per a la publicació d'una aplicació online que permeti l'enviament de
 - Front-end per als diversos rols que intervenen en les diferents fases d'acceptació de propostes (admin/CAT)
 
 
-[images/mur.jpg]
+[images/proyecto_mur.jpg]
 
 +++Projecte OAdM/TJO+++
 
@@ -361,7 +361,7 @@ Millores en la infraestructura, així com en les diferents parts de programari q
 - http://www.oadm.cat/
 
 
-[images/oadm.jpg]
+[images/proyecto_oadm_tjo.jpg]
 
 +++Projecte OpenROCS v2.0+++
 
@@ -376,9 +376,9 @@ Programari per al control desatès del telescopi astronòmic TJO (OAdM) i SQT.
 - https://upcommons.upc.edu/handle/2099.1/26215
 
 
-[images/openrocs.jpg]
+[images/proyecto_openrocs1.jpg]
 
-[images/tjo.jpg]
+[images/proyecto_openrocs2.jpg]
 
 ++Wide Spectrum Software Solutions (2007-2011 en Dept. R+D)++
 
@@ -434,7 +434,7 @@ Desenvolupament d'una aplicació de gestió de seguretat de servidors en línia:
 - Aplicació de tipus multi-usuari, multi-servidor i multi-rol.
 
 
-[images/wips.jpg]
+[images/isec_auditors_proyecto_wips_manager.jpg]
 
 +++AXA Winterthur - Projecte Seguiments+++
 
@@ -455,7 +455,7 @@ Aplicació per a ús en dispositius mòbils de gestió de processos:
 - Aplicació d'escriptori per a sincronització de dades
 
 
-[images/aida.jpg]
+[images/aida_centre_proyecto_pda_hormipresa.jpg]
 
 +++WS3 - Projecte SaltOS (www.saltos.org)+++
 
@@ -471,9 +471,9 @@ Desenvolupament d'un framework per desenvolupar aplicacions online:
 - https://github.com/josepsanzcamp/SaltOS
 
 
-[images/saltos1.jpg]
+[images/ws3_proyecto_saltos1.jpg]
 
-[images/saltos2.jpg]
+[images/ws3_proyecto_saltos2.jpg]
 
 +++WS3 - Projecte RhinOS (www.saltos.org/rhinos)+++
 
@@ -488,11 +488,11 @@ Desenvolupament d'un framework per desenvolupar portals web:
 - https://github.com/josepsanzcamp/RhinOS
 
 
-[images/rhinos.jpg]
+[images/ws3_proyecto_rhinos1.jpg]
 
-[images/rhinos2.jpg]
+[images/ws3_proyecto_rhinos2.jpg]
 
-[images/rhinos3.jpg]
+[images/ws3_proyecto_rhinos3.jpg]
 
 +++CVA - Projecte SISAC+++
 
@@ -565,7 +565,7 @@ Diverses aplicacions en línia:
 - Integració de Wordpress per a la gestió de notícies
 
 
-[images/sevibe2.jpg]
+[images/portal_web_tienda_online_sevibe.jpg]
 
 +++Portal web Restaurant TRITON+++
 
@@ -577,7 +577,7 @@ Desenvolupament del seu portal corporatiu i intranet
 
 Desenvolupament del seu portal corporatiu i intranet
 
-[images/ehc.jpg]
+[images/portal_web_escola_hosteleria_castelldefels.jpg]
 
 +++Botiga online TUTIENDADEVIDEOJUEGOS.COM+++
 
@@ -588,7 +588,7 @@ Diverses aplicacions en línia:
 - Gestió personalitzada de les despeses d'enviament
 
 
-[images/ttdv.jpg]
+[images/tienda_online_tu_tienda_de_videojuegos_com.jpg]
 
 ++Enfasystem (2006-2007 en Dept. R+D)++
 
@@ -739,9 +739,9 @@ Automatització de processos per al càlcul del Zenith Total Delay
 - Detecció d'errors en el sistema de fitxers de Solaris 2.6
 
 
-[images/realtime.jpg]
+[images/proyecto_realtime_cost716x1.jpg]
 
-[images/realtime2.jpg]
+[images/proyecto_realtime_cost716x2.jpg]
 
 +++Projectes DD_RCVR y LOTTOS+++
 
@@ -779,11 +779,11 @@ Programació en entorns ALTERA:
 - Sistema de monitorització gràfic en temps real
 
 
-[images/goldrtr.jpg]
+[images/proyectos_gold_rtr_paris_mdpp3_smos1.jpg]
 
-[images/goldrtr2.jpg]
+[images/proyectos_gold_rtr_paris_mdpp3_smos2.jpg]
 
-[images/mdpp3.jpg]
+[images/proyectos_gold_rtr_paris_mdpp3_smos3.jpg]
 
 ++Univ. Politècnica de Catalunya, Dept. de Física Aplicada (1999-2001)++
 
@@ -804,9 +804,9 @@ Projecte d'una aplicació amb entorn gràfic per al càlcul dels nivells de cont
 - Per dur a terme les simulacions topogràfiques i obtenir un model de dades vàlid per al model de càlcul, es van implementar mecanismes de representació 3D mitjançant triangulació de Delaunay i interpolació amb spline cúbica.
 
 
-[images/sigma.jpg]
+[images/sigma_sistema_informatic_gestio_modelitzacio_acustica1.jpg]
 
-[images/sigma2.jpg]
+[images/sigma_sistema_informatic_gestio_modelitzacio_acustica2.jpg]
 
 +++NivAval, Nivell d’Avaluació Lar+++
 
@@ -816,7 +816,7 @@ Projecte per avaluar els resultats de les campanyes d'adquisició de nivells ac�
 - Generació d'informes en format text i gràfiques que ressalten l'estudi de camp entrat amb el que estableix en cada cas per la llei acústica.
 
 
-[images/nivaval.jpg]
+[images/nivaval_nivell_avaluacio_lar1.jpg]
 
-[images/nivaval2.jpg]
+[images/nivaval_nivell_avaluacio_lar2.jpg]
 

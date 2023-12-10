@@ -193,7 +193,7 @@ Develop an application that works on mobile phones so that the driver can do the
 - Control of the arrival, departure, delivery status, sending photos, comments, all this by expedition and/or by parcel.
 
 
-[images/driver.jpg]
+[images/proyecto_aplicacion_movil_ultima_milla.jpg]
 
 +++Online appointment project+++
 
@@ -206,11 +206,11 @@ Development of the suite of applications so that recipients can make online appo
 - Generation of labels, delivery notes and route sheets for warehouses and traffic departments.
 
 
-[images/citasweb1.jpg]
+[images/proyecto_concertacion_citas_online1.jpg]
 
-[images/citasweb2.jpg]
+[images/proyecto_concertacion_citas_online2.jpg]
 
-[images/citasweb3.jpg]
+[images/proyecto_concertacion_citas_online3.jpg]
 
 +++Label printers project using Raspberry PI+++
 
@@ -222,9 +222,9 @@ Development of a pack based on label printer + Raspberry PI for remote use:
 - Ideal for customers and warehouses that must use labels of the delivery company.
 
 
-[images/rpiprinter1.jpg]
+[images/proyecto_impresoras_etiquetas_mediante_raspverry_pi1.jpg]
 
-[images/rpiprinter2.jpg]
+[images/proyecto_impresoras_etiquetas_mediante_raspverry_pi2.jpg]
 
 +++SQLServer replica project in MariaDB+++
 
@@ -274,7 +274,7 @@ Development of the IEEC website:
 - http://www.ieec.cat/
 
 
-[images/ieecweb.jpg]
+[images/proyecto_portal_web_ieec.jpg]
 
 +++ICE website project+++
 
@@ -286,9 +286,9 @@ Development of the ICE website:
 - http://www.ice.csic.es/
 
 
-[images/iceweb1.jpg]
+[images/proyecto_portal_web_ice1.jpg]
 
-[images/iceweb2.jpg]
+[images/proyecto_portal_web_ice2.jpg]
 
 +++IEEC-CSIC telescope project+++
 
@@ -300,7 +300,7 @@ Project to automate the IEEC-CSIC astronomical telescope:
 - All system is controlled using only one Raspberry PI 2.
 
 
-[images/icetel.jpg]
+[images/proyecto_telescopio_ieec_csic.jpg]
 
 +++Allsky camera project+++
 
@@ -312,7 +312,7 @@ Project to automate the IEEC Allsky camera:
 - Controlled devices: a heater, a fan, an APC pdu and an APOGEE camera.
 
 
-[images/allsky.jpg]
+[images/proyecto_camara_allsky.jpg]
 
 +++SQT telescope project+++
 
@@ -323,7 +323,7 @@ Project to automate the SQT astronomical telescope:
 - Develop of the GUI to allow the remote supervision (useful in the commissioning process).
 
 
-[images/sqt.jpg]
+[images/proyecto_telescopio_sqt.jpg]
 
 +++IndiCCD driver project+++
 
@@ -344,7 +344,7 @@ Project that must allow the end users to send astronomical observing proposals:
 - Front-end for each end user role that are involved in the different acceptation phases of the proposals (admin/CAT)
 
 
-[images/mur.jpg]
+[images/proyecto_mur.jpg]
 
 +++Proyecto OAdM/TJO+++
 
@@ -361,7 +361,7 @@ Improvements in the infrastructure, and in the different software parts that are
 - http://www.oadm.cat/
 
 
-[images/oadm.jpg]
+[images/proyecto_oadm_tjo.jpg]
 
 +++OpenROCS v2.0 project+++
 
@@ -376,9 +376,9 @@ Software for unattended control of TJO (OAdM) and SQT astronomical telescopes.
 - https://upcommons.upc.edu/handle/2099.1/26215
 
 
-[images/openrocs.jpg]
+[images/proyecto_openrocs1.jpg]
 
-[images/tjo.jpg]
+[images/proyecto_openrocs2.jpg]
 
 ++Wide Spectrum Software Solutions (2007-2011 in R+D Dept.)++
 
@@ -434,7 +434,7 @@ Developing a security manager application for online servers:
 - Application that be used with multiple users, multiple servers and multiple roles.
 
 
-[images/wips.jpg]
+[images/isec_auditors_proyecto_wips_manager.jpg]
 
 +++AXA Winterthur - Tracking project+++
 
@@ -455,7 +455,7 @@ Application for mobile devices that be used in process management:
 - Desktop application for data synchronization
 
 
-[images/aida.jpg]
+[images/aida_centre_proyecto_pda_hormipresa.jpg]
 
 +++WS3 - SaltOS Project (www.saltos.org)+++
 
@@ -471,9 +471,9 @@ Development of a framework for developing Rich Internet Applications:
 - https://github.com/josepsanzcamp/SaltOS
 
 
-[images/saltos1.jpg]
+[images/ws3_proyecto_saltos1.jpg]
 
-[images/saltos2.jpg]
+[images/ws3_proyecto_saltos2.jpg]
 
 +++WS3 - RhinOS Project (www.saltos.org/rhinos)+++
 
@@ -488,11 +488,11 @@ Development of a framework for developing web sites:
 - https://github.com/josepsanzcamp/RhinOS
 
 
-[images/rhinos.jpg]
+[images/ws3_proyecto_rhinos1.jpg]
 
-[images/rhinos2.jpg]
+[images/ws3_proyecto_rhinos2.jpg]
 
-[images/rhinos3.jpg]
+[images/ws3_proyecto_rhinos3.jpg]
 
 +++CVA - SISAC project+++
 
@@ -565,7 +565,7 @@ Several online applications:
 - Integration of Wordpress News management.
 
 
-[images/sevibe2.jpg]
+[images/portal_web_tienda_online_sevibe.jpg]
 
 +++Web site for the TRITON restaurant+++
 
@@ -577,7 +577,7 @@ Development of the corporate portal and intranet
 
 Development of the corporate portal and intranet
 
-[images/ehc.jpg]
+[images/portal_web_escola_hosteleria_castelldefels.jpg]
 
 +++Online shop for the TUTIENDADEVIDEOJUEGOS.COM company+++
 
@@ -588,7 +588,7 @@ Several online applications:
 - Management of personalized dispatching
 
 
-[images/ttdv.jpg]
+[images/tienda_online_tu_tienda_de_videojuegos_com.jpg]
 
 ++Enfasystem (2006-2007 in R+D Dept.)++
 
@@ -739,9 +739,9 @@ Automation of the calculation of Total Zenith Delay
 - Detection of bugs in the file system Solaris 2.6
 
 
-[images/realtime.jpg]
+[images/proyecto_realtime_cost716x1.jpg]
 
-[images/realtime2.jpg]
+[images/proyecto_realtime_cost716x2.jpg]
 
 +++DD_RCVR and LOTTOS projects+++
 
@@ -779,11 +779,11 @@ for ALTERA programming environments:
 - System monitoring graph in realtime mode
 
 
-[images/goldrtr.jpg]
+[images/proyectos_gold_rtr_paris_mdpp3_smos1.jpg]
 
-[images/goldrtr2.jpg]
+[images/proyectos_gold_rtr_paris_mdpp3_smos2.jpg]
 
-[images/mdpp3.jpg]
+[images/proyectos_gold_rtr_paris_mdpp3_smos3.jpg]
 
 ++Univ. Politècnica de Catalunya, Dept. of Applied Physics (1999-2001)++
 
@@ -804,9 +804,9 @@ Project of an application with graphical environment for calculating levels of n
 - To perform the topographical simulations and obtain a valid model for the model calculation, a 3D representation mechanisms were implemented using Delaunay triangulation and cubic spline interpolation.
 
 
-[images/sigma.jpg]
+[images/sigma_sistema_informatic_gestio_modelitzacio_acustica1.jpg]
 
-[images/sigma2.jpg]
+[images/sigma_sistema_informatic_gestio_modelitzacio_acustica2.jpg]
 
 +++NivAval, Nivell d’Avaluació Lar+++
 
@@ -816,7 +816,7 @@ Project to evaluate the results of acquisition campaigns of noise levels using s
 - Generating reports in text and graphical format highlighting the relevant information established in each case by the acoustic law.
 
 
-[images/nivaval.jpg]
+[images/nivaval_nivell_avaluacio_lar1.jpg]
 
-[images/nivaval2.jpg]
+[images/nivaval_nivell_avaluacio_lar2.jpg]
 
