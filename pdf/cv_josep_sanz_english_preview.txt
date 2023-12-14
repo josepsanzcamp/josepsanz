@@ -70,10 +70,10 @@ E-Learning, SDK, Auditoria, DoS
 6. Professional experience
 6.1. Independent professional (Since 2022)
 Developments for GNU/Linux and evolutives in the SaltOS and RhinOS projects:
-• RhinOS and SaltOS evolutions to run on PHP 8.2 + third-party library updates.
+• RhinOS and SaltOS evolutions to run on PHP 8.2-8.3 + third-party library updates.
 • Development of the new SaltOS v4 framework: backend in PHP, frontend in JavaScript, API based on
 REST and JSON requests.
-• Migration of SaltOS Server from CentOS 7 to Debian 11.
+• Migration of SaltOS Server from CentOS 7 to Debian 11-12.
 6.2. AB Custom Transports & Logistics, S.L. (2019-2022)
 Developments for GNU/Linux environments and integration of SaltOS in all business areas:
 • Last mile mobile application for drivers, to operate even without internet.

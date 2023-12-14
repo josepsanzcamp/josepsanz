@@ -70,11 +70,11 @@ E-Learning, SDK, Auditoria, DoS
 6. Experiencia profesional
 6.1. Profesional independiente (Desde 2022)
 Desarrollos para entornos GNU/Linux y evolutivos en los proyectos SaltOS y RhinOS:
-• Evolutivos de RhinOS y SaltOS para su ejecución en PHP 8.2 + actualizaciones de las librerias de
+• Evolutivos de RhinOS y SaltOS para su ejecución en PHP 8.2-8.3 + actualizaciones de las librerias de
 terceros.
 • Desarrollo del nuevo framework SaltOS v4: backend en PHP, frontend en JavaScript, API basada en
 peticiones REST y JSON.
-• Migración de SaltOS Server de CentOS 7 a Debian 11.
+• Migración de SaltOS Server de CentOS 7 a Debian 11-12.
 6.2. AB Custom Transports & Logistics, S.L. (2019-2022)
 Desarrollos para entornos GNU/Linux y integración de SaltOS en todas las areas de negocio:
 • Aplicación móvil de última milla para los choferes, para operar incluso sin internet.
