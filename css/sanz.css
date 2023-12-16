@@ -44,10 +44,6 @@
 	background-color: #1abc9c;
 }
 
-.mb-45 {
-	margin-bottom: 2rem;
-}
-
 .visually-hidden,
 .visually-hidden-focusable:not(:focus):not(:focus-within) {
 	width:1px!important;
