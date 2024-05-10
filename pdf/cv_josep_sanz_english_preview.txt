@@ -39,7 +39,7 @@ sector, using algorithms such as STRIPS and languages such as PDDL.
 jQuery-UI, jquery-timepicker, TCPDF, WarnockPDF, root-ro, handsontable, masonry, hhvm, jGrowl,
 sqlite-for-piwik, webapp-xul-wrapper, php-osx, jsmin-php, jquery-grab-bag, pdf.js, Columnizer-jQuery-
 Plugin
-5. Key words
+5. Keywords
 • Operating systems: GNU/Linux, Unix Solaris, HP-UX, Slackware, Centos, Debian, Ubuntu, RedHat,
 Fedora, LAMP, Microsoft, Raspbian
 • Databases: MySQL, PostgreSQL, Oracle, SQLServer, MariaDB
