@@ -15,7 +15,8 @@ function js_minify($data)
     return __minify($data, "js");
 }
 
-function __minify($data, $type) {
+function __minify($data, $type)
+{
     $hash = md5($data);
     $in = "cache/$hash.in.$type";
     $out = "cache/$hash.out.$type";
@@ -23,7 +24,11 @@ function __minify($data, $type) {
         file_put_contents($in, $data);
     }
     if (!file_exists($out)) {
-        passthru("minify $in > $out");
+        if ($type == "js") {
+            passthru("uglifyjs $in -c -m -o $out");
+        } else {
+            passthru("minify $in > $out");
+        }
         if (file_exists($out) && !filesize($out)) {
             unlink($out);
         }

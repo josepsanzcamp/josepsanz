@@ -66,8 +66,9 @@
             <div class="container d-flex align-items-center flex-column">
 
                 <!-- Masthead Avatar Image -->
-                <?php $size = getimagesize("img/profile.png"); $width = $size[0]; $height = $size[1]; ?>
-                <img class="masthead-avatar mb-5" src="img/profile.png" alt="<?php echo $labels[$lang]["name"]; ?>"
+                <?php $image = "img/profile.png"; ?>
+                <?php $size = getimagesize($image); $width = $size[0]; $height = $size[1]; ?>
+                <img class="masthead-avatar mb-5" src="<?php echo $image . "?" . md5_file($image); ?>" alt="<?php echo $labels[$lang]["name"]; ?>"
                     style="max-width: 256px; max-height: 256px;"
                     width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
 
@@ -118,7 +119,7 @@
                                 </div>
                             </div>
                             <?php $size = getimagesize($val["image"]); $width = $size[0]; $height = $size[1]; ?>
-                            <img class="img-fluid" src="<?php echo $val["image"] ?>" alt="<?php echo $val["title"] ?>"
+                            <img class="img-fluid" src="<?php echo $val["image"] . "?" . md5_file($val["image"]); ?>" alt="<?php echo $val["title"] ?>"
                                 width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
                         </div>
                     </div>
@@ -152,7 +153,7 @@
                         <?php $clase = "mb-3"; ?>
                         <?php foreach($labels[$lang]["download_img"] as $image) { ?>
                             <?php $size = getimagesize($image); $width = $size[0]; $height = $size[1]; ?>
-                            <img src="<?php echo $image; ?>" alt="<?php echo $labels[$lang]["aboutme"]; ?>"
+                            <img src="<?php echo $image . "?" . md5_file($image); ?>" alt="<?php echo $labels[$lang]["aboutme"]; ?>"
                                 class="img-fluid <?php echo $clase; ?> rounded bg-white" loading="lazy"
                                 width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
                             <?php $clase = "my-3"; ?>
@@ -351,7 +352,7 @@
                                     </div>
                                     <!-- Portfolio Modal - Image -->
                                     <?php $size = getimagesize($val["image"]); $width = $size[0]; $height = $size[1]; ?>
-                                    <img class="img-fluid rounded mb-5" src="<?php echo $val["image"] ?>" alt="<?php echo $val["image"] ?>"
+                                    <img class="img-fluid rounded mb-5" src="<?php echo $val["image"] . "?" . md5_file($val["image"]); ?>" alt="<?php echo $val["image"] ?>"
                                         width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
                                     <!-- Portfolio Modal - Text -->
                                     <p class="mb-3">

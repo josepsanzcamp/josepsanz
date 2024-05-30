@@ -9,3 +9,6 @@ clean:
 	rm -f css/all.min.css
 	rm -f js/all.min.js
 	rm -f gralla/index.html
+
+distclean:
+	rm -f cache/*

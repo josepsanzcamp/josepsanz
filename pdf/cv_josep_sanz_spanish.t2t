@@ -12,7 +12,6 @@ Mayo de 2024
 - Email: josep.sanz@saltos.org
 - Web: [www.josepsanz.net https://www.josepsanz.net] & [www.saltos.org https://www.saltos.org]
 - Github: [github.com/josepsanzcamp https://github.com/josepsanzcamp]
-- Sourceforge: [sourceforge.net/u/josepsanzcamp https://sourceforge.net/u/josepsanzcamp]
 - Linkedin: [linkedin.com/in/josepsanzcamp https://linkedin.com/in/josepsanzcamp]
 
 
@@ -372,9 +371,9 @@ Software para el control desatendido del telescopio astronómico TJO (OAdM) y SQ
 - Monitor: la principal tarea de este servicio es mantener actualizado el SDP y HK para ser utilizado por el scheduler.
 - Scheduler: permite ejecutar las acciones que controla el telescopio cuando cambia el SDP o el HK.
 - Este proyecto se ha liberado bajo licencia GPL-3.0
-- https://github.com/josepsanzcamp/OpenROCS/
 - https://sourceforge.net/projects/openrocs/
 - https://upcommons.upc.edu/handle/2099.1/26215
+- https://github.com/josepsanzcamp/OpenROCS
 
 
 [images/proyecto_openrocs1.jpg]
