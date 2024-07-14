@@ -1,5 +1,5 @@
 <?php // phpcs:disable Generic.Files.LineLength ?>
-<?php include("php/langs.php"); ?>
+<?php require_once "php/langs.php"; ?>
 <!DOCTYPE html>
 <html lang="<?php echo $lang; ?>">
 
@@ -17,8 +17,7 @@
         <link href="css/fontawesome.min.css" rel="stylesheet" />
         <link href="css/solid.min.css" rel="stylesheet" />
         <link href="css/brands.min.css" rel="stylesheet" />
-        <link href="css/font-montserrat.css" rel="stylesheet" />
-        <link href="css/font-lato.css" rel="stylesheet" />
+        <link href="css/atkinson-hyperlegible.css" rel="stylesheet" />
 
         <!-- Custom CSS -->
         <link href="css/freelancer.css" rel="stylesheet" />
@@ -151,7 +150,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <?php $clase = "mb-3"; ?>
-                        <?php foreach($labels[$lang]["download_img"] as $image) { ?>
+                        <?php foreach ($labels[$lang]["download_img"] as $image) {?>
                             <?php $size = getimagesize($image); $width = $size[0]; $height = $size[1]; ?>
                             <img src="<?php echo $image . "?" . md5_file($image); ?>" alt="<?php echo $labels[$lang]["aboutme"]; ?>"
                                 class="img-fluid <?php echo $clase; ?> rounded bg-white" loading="lazy"

@@ -16,6 +16,8 @@ foreach($files as $file) {
     if(strpos($file,"english")!==false) $babel="english";
     if(strpos($file,"catalan")!==false) $babel="catalan";
     $buffer1=array(
+        "\\usepackage[sfdefault]{atkinson}",
+        "\\usepackage[T1]{fontenc}",
         "\\usepackage[$babel]{babel}",
         "\\usepackage{ucs}",
         "\\usepackage[utf8x]{inputenc}",
@@ -37,9 +39,9 @@ foreach($files as $file) {
         "\\usepackage{titlesec}",
         "\\usepackage{xhfill}",
         "\\newcommand\\ruleafter[1]{#1~\\xrfill[.7ex]{1pt}}",
-        "\\titleformat{\\section}{\\normalfont\\Large\\rmfamily\\bfseries\\color{myblue}}{\\thesection.}{.7ex}{\\ruleafter}",
-        "\\titleformat{\\subsection}{\\normalfont\\large\\rmfamily\\bfseries\\color{myblue}}{\\thesubsection.}{.7ex}{\\ruleafter}",
-        "\\titleformat{\\subsubsection}{\\normalfont\\normalsize\\rmfamily\\bfseries\\color{myblue}}{\\thesubsubsection.}{.7ex}{\\ruleafter}",
+        "\\titleformat{\\section}{\\rmfamily\\normalfont\\Large\\bfseries\\color{myblue}}{\\thesection.}{.7ex}{\\ruleafter}",
+        "\\titleformat{\\subsection}{\\rmfamily\\normalfont\\large\\bfseries\\color{myblue}}{\\thesubsection.}{.7ex}{\\ruleafter}",
+        "\\titleformat{\\subsubsection}{\\rmfamily\\normalfont\\normalsize\\bfseries\\color{myblue}}{\\thesubsubsection.}{.7ex}{\\ruleafter}",
         ""
     );
     $buffer2=array_slice($buffer,5);

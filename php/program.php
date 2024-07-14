@@ -1,6 +1,6 @@
 <?php
 
-include_once("php/minify.php");
+require_once "php/minify.php";
 
 $html = file_get_contents("php/index.php");
 list($html,$js,$css) = html_minify2($html);
