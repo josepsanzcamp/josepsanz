@@ -1,6 +1,6 @@
 ﻿Currículum Vitae
 Josep Sanz Campderrós.
-Agosto de 2024
+Febrero de 2025
 
 
 +Datos personales+
@@ -71,12 +71,18 @@ Agosto de 2024
 
 +Experiencia profesional+
 
+++European Home Deliveries (Desde 2024)++
+
+Desarrollos para entornos GNU/Linux e integración de SaltOS 4 en todas las áreas de negocio:
+- Integración de SaltOS 4 en todas las áreas de negocio de la compañía.
+
+
 ++Profesional independiente (Desde 2022)++
 
 Desarrollos para entornos GNU/Linux y evolutivos en los proyectos SaltOS y RhinOS:
-- Evolutivos de RhinOS y SaltOS para su ejecución en PHP 8.2-8.3 + actualizaciones de las librerias de terceros.
-- Desarrollo del nuevo framework SaltOS v4: backend en PHP, frontend en JavaScript, API basada en peticiones REST y JSON.
-- Migración de SaltOS Server de CentOS 7 a Debian 11-12.
+- Evolutivos de RhinOS y SaltOS para su ejecución en las últimas versiones de PHP + actualizaciones de las librerias de terceros.
+- Desarrollo del nuevo framework SaltOS 4: backend en PHP, frontend en JavaScript, API basada en peticiones REST y JSON.
+- Migración de SaltOS Server de CentOS 7 a las últimas versiones de Debian.
 
 
 ++AB Custom Transports & Logistics, S.L. (2019-2022)++
@@ -135,6 +141,8 @@ Desarrollo de software para entornos UNIX.
 - Programación en C con GTK, Tcl/Tk, tcsh sobre entornos Unix.
 
 
+[newpage]
+
 ++Univ. Politècnica de Catalunya, Dept. de Física Aplicada (1999-2001)++
 
 Administración de sistemas Unix y Windows
@@ -146,8 +154,6 @@ Administración de sistemas Unix y Windows
 - Soporte a los usuarios, etc.
 
 
-[newpage]
-
 +Idiomas+
 
 - Castellano nativo (leido, escrito y hablado).
@@ -155,14 +161,22 @@ Administración de sistemas Unix y Windows
 - Inglés técnico (nivel medio, leido, escrito y hablado).
 
 
+[newpage]
+
 +Anexo (experiencia profesional detallada)+
+
+++European Home Deliveries (Desde 2024)++
+
+Desarrollos para entornos GNU/Linux e integración de SaltOS 4 en todas las áreas de negocio:
+- Integración de SaltOS 4 en todas las áreas de negocio de la compañía.
+
 
 ++Profesional independiente (Desde 2022)++
 
 Desarrollos para entornos GNU/Linux y evolutivos en los proyectos SaltOS y RhinOS:
-- Evolutivos de RhinOS y SaltOS para su ejecución en PHP 8.2-8.3 + actualizaciones de las librerias de terceros.
-- Desarrollo del nuevo framework SaltOS v4: backend en PHP, frontend en JavaScript, API basada en peticiones REST y JSON.
-- Migración de SaltOS Server de CentOS 7 a Debian 11-12.
+- Evolutivos de RhinOS y SaltOS para su ejecución en las últimas versiones de PHP + actualizaciones de las librerias de terceros.
+- Desarrollo del nuevo framework SaltOS 4: backend en PHP, frontend en JavaScript, API basada en peticiones REST y JSON.
+- Migración de SaltOS Server de CentOS 7 a las últimas versiones de Debian.
 
 
 [images/saltos4-1.png]

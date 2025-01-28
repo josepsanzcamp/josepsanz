@@ -68,14 +68,17 @@ Telescope, Baader Dome, Allsky
 E-Learning, SDK, Auditoria, DoS
 5
 6. Experiència professional
-6.1. Professional independent (Des de 2022)
+6.1. European Home Deliveries (Des de 2024)
+Desenvolupaments per a entorns GNU/Linux i integració de SaltOS 4 a totes les àrees de negoci:
+• Integració de SaltOS 4 a totes les àrees de negoci de la companyia.
+6.2. Professional independent (Des de 2022)
 Desenvolupaments per a entorns GNU/Linux i evolutius en els projectes SaltOS i RhinOS:
-• Evolutius de RhinOS i SaltOS per a la seva execució a PHP 8.2-8.3 + actualitzacions de les llibreries
-de tercers.
-• Desenvolupament del nou framework SaltOS v4: backend en PHP, frontend en JavaScript, API
-basada en peticions REST i JSON.
-• Migració de SaltOS Server de CentOS 7 a Debian 11-12.
-6.2. AB Custom Transports & Logistics, S.L. (2019-2022)
+• Evolutius de RhinOS i SaltOS per a la seva execució a les darreres versions de PHP + actualitzacions
+de les llibreries de tercers.
+• Desenvolupament del nou framework SaltOS 4: backend en PHP, frontend en JavaScript, API ba-
+sada en peticions REST i JSON.
+• Migració de SaltOS Server de CentOS 7 a les darreres versions de Debian.
+6.3. AB Custom Transports & Logistics, S.L. (2019-2022)
 Desenvolupaments per a entorns GNU/Linux i integració de SaltOS a totes les àrees de negoci:
 • Aplicació mòbil d’última milla per als xofers, per operar fins i tot sense internet.
 • Optimització de rutes mitjançant IA i gestió de cites online.
@@ -83,7 +86,7 @@ Desenvolupaments per a entorns GNU/Linux i integració de SaltOS a totes les àr
 • Connexió de SaltOS amb l’antic ERP de la companyia (SQLServer).
 • Sistemes de reconeixement de documentació fent servir OCR, codis de barra i codis QR.
 • Automatització de processos fent servir sistemes encastats basats en Raspberry PI.
-6.3. Institut d’Estudis Espacials de Catalunya (2011-2019)
+6.4. Institut d’Estudis Espacials de Catalunya (2011-2019)
 Desenvolupaments per a entorns GNU/Linux per a control robòtic de telescopis:
 • Desenvolupament de OpenROCS 2.0 (llicència GPL-3.0), programari de control per als telescopis
 TJO i SQT.
@@ -92,31 +95,32 @@ per al ICE i del portal www.ieec.cat per l’IEEC.
 • Desenvolupament de MUR: software online per a l’enviament de propostes astronòmiques.
 • Fork del projecte IndiCCD per al control de múltiples càmeres Andor.
 • Interfície i sistema de control per al telescopi SQT, la càmera Allsky i el telescopi IEEC-CSIC.
-6.4. Wide Spectrum Software Solutions (2007-2011 en Dept. R+D)
+6
+6.5. Wide Spectrum Software Solutions (2007-2011 en Dept. R+D)
 Desenvolupaments per a entorns GNU/Linux, MONO, Firmware, PDAs i WEB:
 • Desenvolupament i alliberament sota GPL-3.0 dels projectes SaltOS i RhinOS.
 • Projecte per NTE/ESA per fer el unit-test d’una part del projecte LISA Pathfinder.
 • Projecte per l’IEEC per fer millores en el projecte GOLD-RTR (v2 i v3).
-6
 • Multiples projectes web (portals i botigues online) per a diversos clients.
-6.5. Enfasystem (2006-2007 en Dept. R+D)
+6.6. Enfasystem (2006-2007 en Dept. R+D)
 Desenvolupaments per a entorns WEB basats en LAMP (Linux+Apache+MySQL+PHP):
 • Millores del tauler de control del ’admin’
 • Desenvolupament del projecte ’mecano’
 • Desenvolupament del projecte DBMailer
 • Diverses col·laboracions amb l’IEEC per als projectes PARIS i GOLD-RTR
-6.6. Ingeniería de la Información, IN2 (2005-2006 com a cap d’equip)
+6.7. Ingeniería de la Información, IN2 (2005-2006 com a cap d’equip)
 Desenvolupament de software per a entorns GNU/Linux i Windows CE.
 • Ús d’eines de seguretat com Snort.
 • Programació de dispositius mòbils utilitzant MVC++ 3.0 per a PDAs
 • Programació en C++, PHP, .NET
 • Ús de SGBD com MySQL, ORACLE
-6.7. Institut d’Estudis Espacials de Catalunya (2001-2005)
+6.8. Institut d’Estudis Espacials de Catalunya (2001-2005)
 Desenvolupament de software per a entorns UNIX.
 • Disseny i implementació de maquinari i drivers.
 • Planificació i implementació de programari per a diversos projectes.
 • Programació en C amb GTK, Tcl/Tk, tcsh sobre entorns Unix.
-6.8. Univ. Politècnica de Catalunya, Dept. de Física Aplicada (1999-2001)
+7
+6.9. Univ. Politècnica de Catalunya, Dept. de Física Aplicada (1999-2001)
 Administració de sistemes Unix i Windows
 • Implementació de sistemes de seguretat de xarxes (SSL)
 • Auditories de seguretat dels sistemes informàtics del departament
@@ -125,4 +129,8 @@ Administració de sistemes Unix i Windows
 (SIGMA i NivAval)
 • Col·laboracions amb l’associació WAFAE.
 • Suport als usuaris, etc.
-7
+7. Idiomes
+• Castellà natiu (llegit, escrit i parlat).
+• Català natiu (nivell C, llegit, escrit i parlat).
+• Anglès tècnic (nivell mitjà, llegit, escrit i parlat).
+8

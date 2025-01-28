@@ -68,13 +68,16 @@ Telescope, Baader Dome, Allsky
 E-Learning, SDK, Auditoria, DoS
 5
 6. Professional experience
-6.1. Independent professional (Since 2022)
+6.1. European Home Deliveries (Since 2024)
+Developments for GNU/Linux environments and integration of SaltOS 4 in all business areas:
+• Integration of SaltOS 4 in all business areas of the company.
+6.2. Freelance (Since 2022)
 Developments for GNU/Linux and evolutives in the SaltOS and RhinOS projects:
-• RhinOS and SaltOS evolutions to run on PHP 8.2-8.3 + third-party library updates.
-• Development of the new SaltOS v4 framework: backend in PHP, frontend in JavaScript, API based
+• RhinOS and SaltOS evolutions to run on the latest releases of PHP + third-party library updates.
+• Development of the new SaltOS 4 framework: backend in PHP, frontend in JavaScript, API based
 on REST and JSON requests.
-• Migration of SaltOS Server from CentOS 7 to Debian 11-12.
-6.2. AB Custom Transports & Logistics, S.L. (2019-2022)
+• Migration of SaltOS Server from CentOS 7 to the latest releases of Debian.
+6.3. AB Custom Transports & Logistics, S.L. (2019-2022)
 Developments for GNU/Linux environments and integration of SaltOS in all business areas:
 • Last mile mobile application for drivers, to operate even without internet.
 • Route optimization using AI and online appointment automation.
@@ -82,7 +85,7 @@ Developments for GNU/Linux environments and integration of SaltOS in all busines
 • SaltOS connection with the company’s old ERP (SQLServer).
 • Documentation recognition systems using OCR, bar codes and QR codes.
 • Automation of processes using embedded systems based on Raspberry PI.
-6.3. Institut d’Estudis Espacials de Catalunya (2011-2019)
+6.4. Institut d’Estudis Espacials de Catalunya (2011-2019)
 Developments for GNU/Linux environments to control robotic telescopes:
 • Development of OpenROCS 2.0 (GPL-3.0 license), control software used by the TJO and SQT tele-
 scopes.
@@ -92,31 +95,32 @@ the ICE and the www.ieec.cat for the IEEC.
 • Fork of the IndiCCD project to allow the control of multiple Andor cameras.
 • User interface and control system for the SQT telescope, the Allsky camera and the IEEC-CSIC
 telescope.
-6.4. Wide Spectrum Software Solutions (2007-2011 in R+D Dept.)
+6
+6.5. Wide Spectrum Software Solutions (2007-2011 in R+D Dept.)
 Developments for GNU/Linux, MONO, Firmware, PDAs and web environments:
 • Development of the SaltOS and RhinOS projects released under the GPL-3.0 license.
 • Project for the NTE/ESA to do some parts of the unit-test of the LISA Pathfinder project.
 • Project for the IEEC to make improvements in the GOLD-RTR project (v2 and v3).
-6
 • Multiple web projects (portals and online shops) to different customers.
-6.5. Enfasystem (2006-2007 in R+D Dept.)
+6.6. Enfasystem (2006-2007 in R+D Dept.)
 Developments for WEB using LAMP environments (Linux+Apache+MySQL+PHP):
 • Improvement of the ’admin’ control panel
 • Development of the ’mecano’ project
 • Development of the DBMailer project
 • Several collaborations with IEEC for the PARIS and GOLD-RTR projects
-6.6. Ingeniería de la Información, IN2 (2005-2006 as team’s chief)
+6.7. Ingeniería de la Información, IN2 (2005-2006 as team’s chief)
 Software development for GNU/Linux and Windows CE.
 • Use of security tools like Snort.
 • Programming of mobile devices using EVC++ 3.0 for PDA devices
 • Programming in C, PHP, .NET
 • Use of DBMS such as MySQL, ORACLE
-6.7. Institut d’Estudis Espacials de Catalunya (2001-2005)
+6.8. Institut d’Estudis Espacials de Catalunya (2001-2005)
 Development of software for UNIX environments.
 • Design and implementation of hardware and drivers.
 • Planning and implementation of software for various projects.
 • Programming in C with GTK, Tcl/Tk on Unix tcsh.
-6.8. Univ. Politècnica de Catalunya, Dept. of Applied Physics (1999-2001)
+7
+6.9. Univ. Politècnica de Catalunya, Dept. of Applied Physics (1999-2001)
 Administration of Unix Systems and Microsoft Windows
 • Implementation of network security systems (SSL)
 • Security audits for the computer systems of the department
@@ -124,4 +128,8 @@ Administration of Unix Systems and Microsoft Windows
 • Software development for the Generalitat de Catalunya (SIGMA and NivAval)
 • Collaborations with the WAFAE association.
 • Support to users, and so on.
-7
+7. Languages
+• Spanish native (read, written and spoken).
+• Catalan native (read, written and spoken).
+• Technical English (intermediate level for read, write and speak).
+8
