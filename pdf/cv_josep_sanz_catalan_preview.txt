@@ -4,20 +4,14 @@
 • Email: josep.sanz@saltos.org
 • Web: www.josepsanz.net & www.saltos.org
 • Github: github.com/josepsanzcamp
+• Sourceforge: sourceforge.net/u/josepsanzcamp
 • Linkedin: linkedin.com/in/josepsanzcamp
-2. Formació acadèmica
-• Enginyeria Tècnica en Informàtica de Sistemes (UPC).
-• Cicles Formatius de grau superior de Desenvolupament d’Aplicacions Informàtiques.
-• Títol de FP-II de tècnic electrònic de telecomunicacions.
-3. Altres cursos i seminaris
-• Curs bàsic d’AutoCAD
-• Permís de conduir B1
-• Seminari de seguretat en xarxes informàtiques
-• Programació en Java Distribuït amb CORBA
-• Seminari de FPGA s ALTERA
-• Seminari d’Echelon - Lonworks
-• Seminari aplicació Llei Orgànica de Protecció de Dades (LOPD).
-4. Sobre mi
+• Mastodont: mastodont.cat/@josepsanzcamp
+• Facebook: facebook.com/josepsanzcamp
+• Twitter/X: x.com/josepsanzcamp
+• Youtube: youtube.com/@josepsanzcamp
+• Instagram: instagram.com/josepsanzcamp
+2. Sobre mi
 • Al llarg de la meva carrera professional he fet tasques de R+D+i (Recerca, Desenvolupament i
 Innovació).
 • Fa 25 anys que treballo en entorns Unix i GNU/Linux, he participat en projectes d’automatització
@@ -27,7 +21,6 @@ per a escriptori) i programació per a sistemes encastats (Altera, Xilinx, Ardui
 • Al projecte empresarial Wide Spectrum Software Solutions, vaig dirigir els projectes SaltOS i Rhi-
 nOS, així com el seu alliberament sota la llicència GPL-3.0, en l’actualitat continuo desenvolupant
 en aquests projectes.
-4
 • He estat membre de la junta directiva de CatPL, associació d’Empreses Catalanes de Programari
 Lliure i he impartit xerrades sobre programari lliure.
 • He realitzat treballs en centres de recerca com l’Institut d’Estudis Espacials de Catalunya i la Univ.
@@ -39,7 +32,86 @@ logístic, usant algoritmes com STRIPS i llenguatges com PDDL.
 seScore, PHP, jQuery-UI, jquery-timepicker, TCPDF, WarnockPDF, root-ro, handsontable, masonry,
 hhvm, jGrowl, sqlite-for-piwik, webapp-xul-wrapper, php-osx, jsmin-php, jquery-grab-bag, pdf.js,
 Columnizer-jQuery-Plugin
-5. Paraules clau
+4
+3. Formació acadèmica
+• Enginyeria Tècnica en Informàtica de Sistemes (UPC).
+• Cicles Formatius de grau superior de Desenvolupament d’Aplicacions Informàtiques.
+• Títol de FP-II de tècnic electrònic de telecomunicacions.
+4. Experiència professional
+4.1. European Home Deliveries (Des de 2024)
+Desenvolupaments per a entorns GNU/Linux i integració de SaltOS 4 a totes les àrees de negoci:
+• Integració de SaltOS 4 a totes les àrees de negoci de la companyia.
+4.2. Professional independent (Des de 2022)
+Desenvolupaments per a entorns GNU/Linux i evolutius en els projectes SaltOS i RhinOS:
+• Evolutius de RhinOS i SaltOS per a la seva execució a les darreres versions de PHP + actualitzacions
+de les llibreries de tercers.
+• Desenvolupament del nou framework SaltOS 4: backend en PHP, frontend en JavaScript, API ba-
+sada en peticions REST i JSON.
+• Migració de SaltOS Server de CentOS 7 a les darreres versions de Debian.
+4.3. AB Custom Transports & Logistics, S.L. (2019-2022)
+Desenvolupaments per a entorns GNU/Linux i integració de SaltOS a totes les àrees de negoci:
+• Aplicació mòbil d’última milla per als xofers, per operar fins i tot sense internet.
+• Optimització de rutes mitjançant IA i gestió de cites online.
+• Integració de SaltOS a totes les àrees de negoci de la companyia.
+• Connexió de SaltOS amb l’antic ERP de la companyia (SQLServer).
+• Sistemes de reconeixement de documentació fent servir OCR, codis de barra i codis QR.
+• Automatització de processos fent servir sistemes encastats basats en Raspberry PI.
+4.4. Institut d’Estudis Espacials de Catalunya (2011-2019)
+Desenvolupaments per a entorns GNU/Linux per a control robòtic de telescopis:
+• Desenvolupament de OpenROCS 2.0 (llicència GPL-3.0), programari de control per als telescopis
+TJO i SQT.
+5
+• Desenvolupament del portal www.oadm.cat per a la divulgació del TJO, del portal www.ice.csic.es
+per al ICE i del portal www.ieec.cat per l’IEEC.
+• Desenvolupament de MUR: software online per a l’enviament de propostes astronòmiques.
+• Fork del projecte IndiCCD per al control de múltiples càmeres Andor.
+• Interfície i sistema de control per al telescopi SQT, la càmera Allsky i el telescopi IEEC-CSIC.
+4.5. Wide Spectrum Software Solutions (2007-2011 en Dept. R+D)
+Desenvolupaments per a entorns GNU/Linux, MONO, Firmware, PDAs i WEB:
+• Desenvolupament i alliberament sota GPL-3.0 dels projectes SaltOS i RhinOS.
+• Projecte per NTE/ESA per fer el unit-test d’una part del projecte LISA Pathfinder.
+• Projecte per l’IEEC per fer millores en el projecte GOLD-RTR (v2 i v3).
+• Multiples projectes web (portals i botigues online) per a diversos clients.
+4.6. Enfasystem (2006-2007 en Dept. R+D)
+Desenvolupaments per a entorns WEB basats en LAMP (Linux+Apache+MySQL+PHP):
+• Millores del tauler de control del ’admin’
+• Desenvolupament del projecte ’mecano’
+• Desenvolupament del projecte DBMailer
+• Diverses col·laboracions amb l’IEEC per als projectes PARIS i GOLD-RTR
+4.7. Ingeniería de la Información, IN2 (2005-2006 com a cap d’equip)
+Desenvolupament de software per a entorns GNU/Linux i Windows CE.
+• Ús d’eines de seguretat com Snort.
+• Programació de dispositius mòbils utilitzant MVC++ 3.0 per a PDAs
+• Programació en C++, PHP, .NET
+• Ús de SGBD com MySQL, ORACLE
+4.8. Institut d’Estudis Espacials de Catalunya (2001-2005)
+Desenvolupament de software per a entorns UNIX.
+• Disseny i implementació de maquinari i drivers.
+• Planificació i implementació de programari per a diversos projectes.
+• Programació en C amb GTK, Tcl/Tk, tcsh sobre entorns Unix.
+6
+4.9. Univ. Politècnica de Catalunya, Dept. de Física Aplicada (1999-2001)
+Administració de sistemes Unix i Windows
+• Implementació de sistemes de seguretat de xarxes (SSL)
+• Auditories de seguretat dels sistemes informàtics del departament
+• Desenvolupament i manteniment de la intranet del departament
+• Desenvolupament de software per al Departament de Medi Ambient de la Generalitat de Catalunya
+(SIGMA i NivAval)
+• Col·laboracions amb l’associació WAFAE.
+• Suport als usuaris, etc.
+5. Altres cursos i seminaris
+• Curs bàsic d’AutoCAD
+• Permís de conduir B1
+• Seminari de seguretat en xarxes informàtiques
+• Programació en Java Distribuït amb CORBA
+• Seminari de FPGA s ALTERA
+• Seminari d’Echelon - Lonworks
+• Seminari aplicació Llei Orgànica de Protecció de Dades (LOPD).
+6. Idiomes
+• Castellà natiu (llegit, escrit i parlat).
+• Català natiu (nivell C, llegit, escrit i parlat).
+• Anglès tècnic (nivell mitjà, llegit, escrit i parlat).
+7. Paraules clau
 • Sistemes operatius: GNU/Linux, Unix Solaris, HP-UX, Slackware, Centos, Debian, Ubuntu, RedHat,
 Fedora, LAMP, Microsoft, Raspbian
 • Bases de dades: MySQL, PostgreSQL, Oracle, SQLServer, MariaDB
@@ -47,6 +119,7 @@ Fedora, LAMP, Microsoft, Raspbian
 • Programació: Visual Basic, Visual C++, C, GTK, PHP, TCSH, TCL/TK, Latex, Embedded Visual C++,
 Shell Scripts, Python, C++, .NET, XSLT, ANSI C, MONO, WEB, HTML, JavaScript, CSS, Ajax, Vanilla
 JS
+7
 • Programes: Wordpress, EzPublish, VLC, Snort, GIS, Adobe OnSiteView, TomTom, Jquery-UI, Boots-
 trap, TinyMCE, CKEditor
 • Embedded: PLC, FPGA, Altera, TETRA, PDA, NIOS, Xilinx, MicroBlaze, LEON3, Firmware, Raspberry
@@ -66,71 +139,4 @@ Comm, XmCCD, IndiCCD, Andor, Finger Lakes Instruments, APOGEE, APC, ROS, SBIG, M
 Telescope, Baader Dome, Allsky
 • Altres: Reports, Real Time, Osciloscope, LOPD, Frontend, Backend, Parser, MVC, Mailing, Online,
 E-Learning, SDK, Auditoria, DoS
-5
-6. Experiència professional
-6.1. European Home Deliveries (Des de 2024)
-Desenvolupaments per a entorns GNU/Linux i integració de SaltOS 4 a totes les àrees de negoci:
-• Integració de SaltOS 4 a totes les àrees de negoci de la companyia.
-6.2. Professional independent (Des de 2022)
-Desenvolupaments per a entorns GNU/Linux i evolutius en els projectes SaltOS i RhinOS:
-• Evolutius de RhinOS i SaltOS per a la seva execució a les darreres versions de PHP + actualitzacions
-de les llibreries de tercers.
-• Desenvolupament del nou framework SaltOS 4: backend en PHP, frontend en JavaScript, API ba-
-sada en peticions REST i JSON.
-• Migració de SaltOS Server de CentOS 7 a les darreres versions de Debian.
-6.3. AB Custom Transports & Logistics, S.L. (2019-2022)
-Desenvolupaments per a entorns GNU/Linux i integració de SaltOS a totes les àrees de negoci:
-• Aplicació mòbil d’última milla per als xofers, per operar fins i tot sense internet.
-• Optimització de rutes mitjançant IA i gestió de cites online.
-• Integració de SaltOS a totes les àrees de negoci de la companyia.
-• Connexió de SaltOS amb l’antic ERP de la companyia (SQLServer).
-• Sistemes de reconeixement de documentació fent servir OCR, codis de barra i codis QR.
-• Automatització de processos fent servir sistemes encastats basats en Raspberry PI.
-6.4. Institut d’Estudis Espacials de Catalunya (2011-2019)
-Desenvolupaments per a entorns GNU/Linux per a control robòtic de telescopis:
-• Desenvolupament de OpenROCS 2.0 (llicència GPL-3.0), programari de control per als telescopis
-TJO i SQT.
-• Desenvolupament del portal www.oadm.cat per a la divulgació del TJO, del portal www.ice.csic.es
-per al ICE i del portal www.ieec.cat per l’IEEC.
-• Desenvolupament de MUR: software online per a l’enviament de propostes astronòmiques.
-• Fork del projecte IndiCCD per al control de múltiples càmeres Andor.
-• Interfície i sistema de control per al telescopi SQT, la càmera Allsky i el telescopi IEEC-CSIC.
-6
-6.5. Wide Spectrum Software Solutions (2007-2011 en Dept. R+D)
-Desenvolupaments per a entorns GNU/Linux, MONO, Firmware, PDAs i WEB:
-• Desenvolupament i alliberament sota GPL-3.0 dels projectes SaltOS i RhinOS.
-• Projecte per NTE/ESA per fer el unit-test d’una part del projecte LISA Pathfinder.
-• Projecte per l’IEEC per fer millores en el projecte GOLD-RTR (v2 i v3).
-• Multiples projectes web (portals i botigues online) per a diversos clients.
-6.6. Enfasystem (2006-2007 en Dept. R+D)
-Desenvolupaments per a entorns WEB basats en LAMP (Linux+Apache+MySQL+PHP):
-• Millores del tauler de control del ’admin’
-• Desenvolupament del projecte ’mecano’
-• Desenvolupament del projecte DBMailer
-• Diverses col·laboracions amb l’IEEC per als projectes PARIS i GOLD-RTR
-6.7. Ingeniería de la Información, IN2 (2005-2006 com a cap d’equip)
-Desenvolupament de software per a entorns GNU/Linux i Windows CE.
-• Ús d’eines de seguretat com Snort.
-• Programació de dispositius mòbils utilitzant MVC++ 3.0 per a PDAs
-• Programació en C++, PHP, .NET
-• Ús de SGBD com MySQL, ORACLE
-6.8. Institut d’Estudis Espacials de Catalunya (2001-2005)
-Desenvolupament de software per a entorns UNIX.
-• Disseny i implementació de maquinari i drivers.
-• Planificació i implementació de programari per a diversos projectes.
-• Programació en C amb GTK, Tcl/Tk, tcsh sobre entorns Unix.
-7
-6.9. Univ. Politècnica de Catalunya, Dept. de Física Aplicada (1999-2001)
-Administració de sistemes Unix i Windows
-• Implementació de sistemes de seguretat de xarxes (SSL)
-• Auditories de seguretat dels sistemes informàtics del departament
-• Desenvolupament i manteniment de la intranet del departament
-• Desenvolupament de software per al Departament de Medi Ambient de la Generalitat de Catalunya
-(SIGMA i NivAval)
-• Col·laboracions amb l’associació WAFAE.
-• Suport als usuaris, etc.
-7. Idiomes
-• Castellà natiu (llegit, escrit i parlat).
-• Català natiu (nivell C, llegit, escrit i parlat).
-• Anglès tècnic (nivell mitjà, llegit, escrit i parlat).
 8
