@@ -32,28 +32,28 @@
         <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
             <div class="container">
                 <a class="navbar-brand js-scroll-trigger text-truncate" href="#page-top"><?php echo $labels[$lang]["navbar"]; ?></a>
-                <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="<?php echo $labels[$lang]["toggle"]; ?>">
+                <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="<?php echo $labels[$lang]["toggle"]; ?>">
                     <i class="fas fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item mx-0 mx-lg-1">
-                            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio"><?php echo $labels[$lang]["portfolio"]; ?></a>
+                            <a class="nav-link py-3 px-0 px-lg-3 js-scroll-trigger" href="#portfolio"><?php echo $labels[$lang]["portfolio"]; ?></a>
                         </li>
                         <li class="nav-item mx-0 mx-lg-1">
-                            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about"><?php echo $labels[$lang]["about"]; ?></a>
+                            <a class="nav-link py-3 px-0 px-lg-3 js-scroll-trigger" href="#about"><?php echo $labels[$lang]["about"]; ?></a>
                         </li>
                         <li class="nav-item mx-0 mx-lg-1">
-                            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact"><?php echo $labels[$lang]["contact"]; ?></a>
+                            <a class="nav-link py-3 px-0 px-lg-3 js-scroll-trigger" href="#contact"><?php echo $labels[$lang]["contact"]; ?></a>
                         </li>
                         <li class="nav-item mx-0 mx-lg-1">
-                            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="index.ca.html" title="<?php echo $labels[$lang]["catala"]; ?>">CA</a>
+                            <a class="nav-link py-3 px-0 px-lg-3 js-scroll-trigger" href="index.ca.html" title="<?php echo $labels[$lang]["catala"]; ?>">CA</a>
                         </li>
                         <li class="nav-item mx-0 mx-lg-1">
-                            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="index.es.html" title="<?php echo $labels[$lang]["castellano"]; ?>">ES</a>
+                            <a class="nav-link py-3 px-0 px-lg-3 js-scroll-trigger" href="index.es.html" title="<?php echo $labels[$lang]["castellano"]; ?>">ES</a>
                         </li>
                         <li class="nav-item mx-0 mx-lg-1">
-                            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="index.en.html" title="<?php echo $labels[$lang]["english"]; ?>">EN</a>
+                            <a class="nav-link py-3 px-0 px-lg-3 js-scroll-trigger" href="index.en.html" title="<?php echo $labels[$lang]["english"]; ?>">EN</a>
                         </li>
                     </ul>
                 </div>
@@ -153,7 +153,7 @@
                         <?php foreach ($labels[$lang]["download_img"] as $image) {?>
                             <?php $size = getimagesize($image); $width = $size[0]; $height = $size[1]; ?>
                             <img src="<?php echo $image . "?" . md5_file($image); ?>" alt="<?php echo $labels[$lang]["aboutme"]; ?>"
-                                class="img-fluid <?php echo $clase; ?> rounded bg-white" loading="lazy"
+                                class="img-fluid <?php echo $clase; ?> bg-white" loading="lazy"
                                 width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
                             <?php $clase = "my-3"; ?>
                         <?php } ?>
@@ -318,7 +318,7 @@
 
         <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
         <div class="scroll-to-top d-lg-none position-fixed ">
-            <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top">
+            <a class="js-scroll-trigger d-block text-center text-white" href="#page-top">
                 <i class="fa fa-chevron-up"></i>
             </a>
         </div>
@@ -351,7 +351,7 @@
                                     </div>
                                     <!-- Portfolio Modal - Image -->
                                     <?php $size = getimagesize($val["image"]); $width = $size[0]; $height = $size[1]; ?>
-                                    <img class="img-fluid rounded mb-5" src="<?php echo $val["image"] . "?" . md5_file($val["image"]); ?>" alt="<?php echo $val["image"] ?>"
+                                    <img class="img-fluid mb-5" src="<?php echo $val["image"] . "?" . md5_file($val["image"]); ?>" alt="<?php echo $val["image"] ?>"
                                         width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
                                     <!-- Portfolio Modal - Text -->
                                     <p class="mb-3">

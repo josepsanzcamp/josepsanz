@@ -119,3 +119,21 @@ button.bg-primary:focus,
 button.bg-primary:hover {
 	background-color: #0d6efd!important;
 }
+
+.portfolio-item,
+.modal-content,
+#about a,
+input,
+textarea,
+button,
+.alert
+{
+	border-radius: 0!important;
+}
+
+input,
+textarea
+{
+	border-color: #2c3e50!important;
+	border-width: 2px!important;
+}
