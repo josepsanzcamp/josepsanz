@@ -29,7 +29,7 @@ Febrero de 2025
 +Acerca de mi+
 
 - A lo largo de mi carrera profesional he realizado tareas de I+D+i (Investigación, Desarrollo e Innovación).
-- Llevo 25 años trabajando en entornos Unix y GNU/Linux, he participado en proyectos de automatización de procesos y procesado de datos masivos (OpenROCS, control de motores y telescopios astronómicos), desarrollos de backends y fronends (SaltOS, RhinOS y apps a medida para web y para escritorio) y programación para sistemas empotrados (Altera, Xilinx, Arduino y Raspberry pi).
+- Llevo 25 años trabajando en entornos Unix y GNU/Linux, he participado en proyectos de automatización de procesos y procesado de datos masivos (OpenROCS, control de motores y telescopios astronómicos), desarrollos de backends y fronends (SaltOS, RhinOS y apps a medida para web y para escritorio) y programación para sistemas empotrados (Altera, Xilinx, Arduino, Raspberry Pi y Trio Motion).
 - En el proyecto empresarial Wide Spectrum Software Solutions, dirigí los proyectos [SaltOS https://github.com/josepsanzcamp/SaltOS/] y [RhinOS https://github.com/josepsanzcamp/RhinOS/], así como su liberación bajo la licencia GPL-3.0, en la actualizad continuo desarrollando en estos proyectos.
 - He sido miembro de la junta directiva de CatPL, asociación de Empresas Catalanas de Software Libre y he impartido charlas sobre software libre.
 - He realizado trabajos en entornos de investigación como el Institut d'Estudis Espacials de Catalunya y la Univ. Politècnica de Catalunya, Dept. de Física Aplicada.
@@ -69,7 +69,7 @@ Desarrollos para entornos GNU/Linux y integración de SaltOS en todas las areas 
 - Integración de SaltOS en todas las areas de negocio de la compañía.
 - Conexión de SaltOS con el antiguo ERP de la compañía (SQLServer).
 - Sistemas de reconocimiento de documentación usando OCR, códigos de barra y códigos QR.
-- Automatización de procesos usando sistemas empotrados basados en Raspberry PI.
+- Automatización de procesos usando sistemas empotrados basados en Raspberry Pi.
 
 
 ++Institut d’Estudis Espacials de Catalunya (2011-2019)++
@@ -153,7 +153,7 @@ Administración de sistemas Unix y Windows
 - Servicios: Samba, Apache, FTP, HTTP, SSH, Crontab
 - Programación: Visual Basic, Visual C++, C, GTK, PHP, TCSH, TCL/TK, Latex, Embedded Visual C++, Shell Scripts, Python, C++, .NET, XSLT, ANSI C, MONO, WEB, HTML, JavaScript, CSS, Ajax, Vanilla JS
 - Programas: Wordpress, EzPublish, VLC, Snort, GIS, Adobe OnSiteView, TomTom, Jquery-UI, Bootstrap, TinyMCE, CKEditor
-- Embedded: PLC, FPGA, Altera, TETRA, PDA, NIOS, Xilinx, MicroBlaze, LEON3, Firmware, Raspberry PI, RPI, RTOS
+- Embedded: PLC, FPGA, Altera, TETRA, PDA, NIOS, Xilinx, MicroBlaze, LEON3, Firmware, Raspberry Pi, RPI, RTOS, Trio Motion
 - Proyectos: SaltOS, RhinOS, OpenROCS
 - Licencias: GPL, MIT, BSD, Open Source, Free Software
 - Logística: CitasWEB, Maps, Rutas, Transfers, Tracking, Última milla, Entregas, Logística inversa, Recogidas, B2B, B2C, C2C, Orders, Parcels, IA, Call Center, ERP, CMS, OCR, QR, Codebar
@@ -195,7 +195,7 @@ Desarrollos para entornos GNU/Linux y integración de SaltOS en todas las areas 
 - Integración de SaltOS en todas las areas de negocio de la compañía.
 - Conexión de SaltOS con el antiguo ERP de la compañía (SQLServer).
 - Sistemas de reconocimiento de documentación usando OCR, códigos de barra y códigos QR.
-- Automatización de procesos usando sistemas empotrados basados en Raspberry PI.
+- Automatización de procesos usando sistemas empotrados basados en Raspberry Pi.
 
 
 +++Proyecto aplicación móvil de última milla+++
@@ -229,9 +229,9 @@ Desarrollo del conjunto de aplicaciones para que los destinatarios puedan concer
 
 [images/proyecto_concertacion_citas_online3.jpg]
 
-+++Proyecto impresoras de etiquetas mediante Raspberry PI+++
++++Proyecto impresoras de etiquetas mediante Raspberry Pi+++
 
-Desarrollo de un pack basado en impresora de etiquetas + Raspberry PI para uso remoto:
+Desarrollo de un pack basado en impresora de etiquetas + Raspberry Pi para uso remoto:
 - Conexión a la red de la empresa host mediante cable de red y DHCP.
 - Permite al cliente conectarse por FTP y WEB a la RPI para dejar ficheros de importación.
 - Envío automático de ficheros de importación al sistema informático central.
@@ -314,7 +314,7 @@ Proyecto para automatizar el telescopio astronómico IEEC-CSIC:
 - Control de los dispositivos mediante el estándar industrial ROS.
 - Desarrollo del interfaz gráfico de usuario para control el sistema completo.
 - Se controla un telescopio Meade, una cúpula Baader, una pdu APC, una estación meteorológica Vaisala, un cloud sensor y una cámara SBIG.
-- El control se hace empleando únicamente una Raspberry PI 2.
+- El control se hace empleando únicamente una Raspberry Pi.
 
 
 [images/proyecto_telescopio_ieec_csic.jpg]

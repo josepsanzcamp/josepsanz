@@ -12,7 +12,7 @@ $html = js_minify2($html, "js/all.min.js?" . md5_file("js/all.min.js"));
 $html = css_minify2($html, "css/all.min.css?" . md5_file("css/all.min.css"));
 $html = html_minify($html);
 file_put_contents("index.php", $html);
-foreach (array("ca","es","en") as $lang) {
+foreach (["ca","es","en"] as $lang) {
     passthru("php index.php ${lang} > index.${lang}.html");
 }
 unlink("index.php");

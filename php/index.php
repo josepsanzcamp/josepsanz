@@ -66,7 +66,9 @@
 
                 <!-- Masthead Avatar Image -->
                 <?php $image = "img/profile.png"; ?>
-                <?php $size = getimagesize($image); $width = $size[0]; $height = $size[1]; ?>
+                <?php $size = getimagesize($image);
+                    $width = $size[0];
+                    $height = $size[1]; ?>
                 <img class="masthead-avatar mb-5" src="<?php echo $image . "?" . md5_file($image); ?>" alt="<?php echo $labels[$lang]["name"]; ?>"
                     style="max-width: 256px; max-height: 256px;"
                     width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
@@ -117,7 +119,9 @@
                                     <i class="fas fa-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <?php $size = getimagesize($val["image"]); $width = $size[0]; $height = $size[1]; ?>
+                            <?php $size = getimagesize($val["image"]);
+                                $width = $size[0];
+                                $height = $size[1]; ?>
                             <img class="img-fluid" src="<?php echo $val["image"] . "?" . md5_file($val["image"]); ?>" alt="<?php echo $val["title"] ?>"
                                 width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
                         </div>
@@ -151,7 +155,9 @@
                     <div class="col-lg-12">
                         <?php $clase = "mb-3"; ?>
                         <?php foreach ($labels[$lang]["download_img"] as $image) {?>
-                            <?php $size = getimagesize($image); $width = $size[0]; $height = $size[1]; ?>
+                            <?php $size = getimagesize($image);
+                                $width = $size[0];
+                                $height = $size[1]; ?>
                             <img src="<?php echo $image . "?" . md5_file($image); ?>" alt="<?php echo $labels[$lang]["aboutme"]; ?>"
                                 class="img-fluid <?php echo $clase; ?> bg-white" loading="lazy"
                                 width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
@@ -350,7 +356,9 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image -->
-                                    <?php $size = getimagesize($val["image"]); $width = $size[0]; $height = $size[1]; ?>
+                                    <?php $size = getimagesize($val["image"]);
+                                        $width = $size[0];
+                                        $height = $size[1]; ?>
                                     <img class="img-fluid mb-5" src="<?php echo $val["image"] . "?" . md5_file($val["image"]); ?>" alt="<?php echo $val["image"] ?>"
                                         width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
                                     <!-- Portfolio Modal - Text -->

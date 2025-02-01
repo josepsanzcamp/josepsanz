@@ -29,7 +29,7 @@ February 2025
 +About me+
 
 - Throughout my professional career I have carried out R+D+i tasks (Research, Development and Innovation).
-- I have been working in Unix and GNU/Linux environments for 25 years, I have participated in process automation and big data processing projects (OpenROCS, motor control and astronomical telescopes), backend and frontend development (SaltOS, RhinOS and custom apps for web and desktop) and programming for embedded systems (Altera, Xilinx, Arduino and Raspberry pi).
+- I have been working in Unix and GNU/Linux environments for 25 years, I have participated in process automation and big data processing projects (OpenROCS, motor control and astronomical telescopes), backend and frontend development (SaltOS, RhinOS and custom apps for web and desktop) and programming for embedded systems (Altera, Xilinx, Arduino, Raspberry Pi and Trio Motion).
 - In the Wide Spectrum Software Solutions business project, I directed the [SaltOS https://github.com/josepsanzcamp/SaltOS/] and [RhinOS https://github.com/josepsanzcamp/RhinOS/] projects, as well as their release under the GPL-3.0 license, currently I continue developing on these projects.
 - I have been a member of the board of directors of CatPL, the association of Catalan Free Software Companies, and I have given talks on free software.
 - I have worked in research environments such as the Institut d’Estudis Espacials de Catalunya and the Univ. Politècnica de Catalunya, Dept. of Applied Physics.
@@ -69,7 +69,7 @@ Developments for GNU/Linux environments and integration of SaltOS in all busines
 - Integration of SaltOS in all the business areas of the company.
 - SaltOS connection with the company's old ERP (SQLServer).
 - Documentation recognition systems using OCR, bar codes and QR codes.
-- Automation of processes using embedded systems based on Raspberry PI.
+- Automation of processes using embedded systems based on Raspberry Pi.
 
 
 ++Institut d’Estudis Espacials de Catalunya (2011-2019)++
@@ -153,7 +153,7 @@ Administration of Unix Systems and Microsoft Windows
 - Services: Samba, Apache, FTP, HTTP, SSH, Crontab
 - Programming: Visual Basic, Visual C++, C, GTK, PHP, TCSH, TCL/TK, Latex, Embedded Visual C++, Shell Scripts, Python, C++, .NET, XSLT, ANSI C, MONO, WEB, HTML, JavaScript, CSS, Ajax, Vanilla JS
 - Programs: Wordpress, EzPublish, VLC, Snort, GIS, Adobe OnSiteView, TomTom, Jquery-UI, Bootstrap, TinyMCE, CKEditor
-- Embedded: PLC, FPGA, Altera, TETRA, PDA, NIOS, Xilinx, MicroBlaze, LEON3, Firmware, Raspberry PI, RPI, RTOS
+- Embedded: PLC, FPGA, Altera, TETRA, PDA, NIOS, Xilinx, MicroBlaze, LEON3, Firmware, Raspberry Pi, RPI, RTOS, Trio Motion
 - Projects: SaltOS, RhinOS, OpenROCS
 - Licenses: GPL, MIT, BSD, Open Source, Free Software
 - Logistics: CitasWEB, Maps, Rutas, Transfers, Tracking, Última milla, Entregas, Logística inversa, Recogidas, B2B, B2C, C2C, Orders, Parcels, IA, Call Center, ERP, CMS, OCR, QR, Codebar
@@ -195,7 +195,7 @@ Developments for GNU/Linux environments and integration of SaltOS in all busines
 - Integration of SaltOS in all the business areas of the company.
 - SaltOS connection with the company's old ERP (SQLServer).
 - Documentation recognition systems using OCR, bar codes and QR codes.
-- Automation of processes using embedded systems based on Raspberry PI.
+- Automation of processes using embedded systems based on Raspberry Pi.
 
 
 +++Last mile mobile application project+++
@@ -229,9 +229,9 @@ Development of the suite of applications so that recipients can make online appo
 
 [images/proyecto_concertacion_citas_online3.jpg]
 
-+++Label printers project using Raspberry PI+++
++++Label printers project using Raspberry Pi+++
 
-Development of a pack based on label printer + Raspberry PI for remote use:
+Development of a pack based on label printer + Raspberry Pi for remote use:
 - Connection to the host company network via network cable and DHCP.
 - Allows the client to connect via FTP and WEB to the RPI to put import files.
 - Automatic sending of import files to the central computer system.
@@ -314,7 +314,7 @@ Project to automate the IEEC-CSIC astronomical telescope:
 - Controlled devices using the industrial ROS standard.
 - Development of the graphical user interface for control the entire system.
 - Controlled devices: A Meade telescope, a Baader dome, an APC pdu, a Vaisala weather station, a cloud sensor and a SBIG camera.
-- All system is controlled using only one Raspberry PI 2.
+- All system is controlled using only one Raspberry Pi.
 
 
 [images/proyecto_telescopio_ieec_csic.jpg]
