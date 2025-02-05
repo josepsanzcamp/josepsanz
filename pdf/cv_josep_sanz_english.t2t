@@ -12,31 +12,19 @@ February 2025
 - Email: josep.sanz@saltos.org
 - Web: [www.josepsanz.net https://www.josepsanz.net] & [www.saltos.org https://www.saltos.org]
 - Github: [github.com/josepsanzcamp https://github.com/josepsanzcamp]
-- Sourceforge: [sourceforge.net/u/josepsanzcamp https://sourceforge.net/u/josepsanzcamp]
+%- Sourceforge: [sourceforge.net/u/josepsanzcamp https://sourceforge.net/u/josepsanzcamp]
 - Linkedin: [linkedin.com/in/josepsanzcamp https://linkedin.com/in/josepsanzcamp]
-- Mastodont: [mastodont.cat/@josepsanzcamp https://mastodont.cat/@josepsanzcamp]
-- Facebook: [facebook.com/josepsanzcamp https://facebook.com/josepsanzcamp]
-- Twitter/X: [x.com/josepsanzcamp https://x.com/josepsanzcamp]
-- Youtube: [youtube.com/@josepsanzcamp https://youtube.com/@josepsanzcamp]
-- Instagram: [instagram.com/josepsanzcamp https://instagram.com/josepsanzcamp]
+%- Mastodont: [mastodont.cat/@josepsanzcamp https://mastodont.cat/@josepsanzcamp]
+%- Facebook: [facebook.com/josepsanzcamp https://facebook.com/josepsanzcamp]
+%- Twitter/X: [x.com/josepsanzcamp https://x.com/josepsanzcamp]
+%- Youtube: [youtube.com/@josepsanzcamp https://youtube.com/@josepsanzcamp]
+%- Instagram: [instagram.com/josepsanzcamp https://instagram.com/josepsanzcamp]
 
 
 [endleft]
 [beginright]
 [images/foto_josep_sanz_small.png]
 [endright]
-
-+About me+
-
-- Throughout my professional career I have carried out R+D+i tasks (Research, Development and Innovation).
-- I have been working in Unix and GNU/Linux environments for 25 years, I have participated in process automation and big data processing projects (OpenROCS, motor control and astronomical telescopes), backend and frontend development (SaltOS, RhinOS and custom apps for web and desktop) and programming for embedded systems (Altera, Xilinx, Arduino, Raspberry Pi and Trio Motion).
-- In the Wide Spectrum Software Solutions business project, I directed the [SaltOS https://github.com/josepsanzcamp/SaltOS/] and [RhinOS https://github.com/josepsanzcamp/RhinOS/] projects, as well as their release under the GPL-3.0 license, currently I continue developing on these projects.
-- I have been a member of the board of directors of CatPL, the association of Catalan Free Software Companies, and I have given talks on free software.
-- I have worked in research environments such as the Institut d’Estudis Espacials de Catalunya and the Univ. Politècnica de Catalunya, Dept. of Applied Physics.
-- In the last years I have carried out tasks of optimization and automation of processes in the logistics sector, using algorithms such as STRIPS and languages such as PDDL.
-- I have published a repository at [github https://github.com/josepsanzcamp/gralla/] with a web of scores and audios for gralla at [gralla.josepsanz.net https://gralla.josepsanz.net]
-- I have also contributed to free software projects such as phpMyAdmin, Mroonga, MuseScore, PHP, jQuery-UI, jquery-timepicker, TCPDF, WarnockPDF, root-ro, handsontable, masonry, hhvm, jGrowl, sqlite-for-piwik, webapp-xul-wrapper, php-osx, jsmin-php, jquery-grab-bag, pdf.js, Columnizer-jQuery-Plugin
-
 
 +Academic training+
 
@@ -128,15 +116,16 @@ Administration of Unix Systems and Microsoft Windows
 - Support to users, and so on.
 
 
-+Other courses and seminars+
++About me+
 
-- AutoCAD basic course
-- Driving license B1
-- Seminar on computer network security
-- Distributed Java Programming with CORBA
-- ALTERA's FPGA Seminar
-- Seminar Echelon - LonWorks
-- Law enforcement Seminar on Data Protection (Spanish LOPD).
+- Throughout my professional career I have carried out R+D+i tasks (Research, Development and Innovation).
+- I have been working in Unix and GNU/Linux environments for 25 years, I have participated in process automation and big data processing projects (OpenROCS, motor control and astronomical telescopes), backend and frontend development (SaltOS, RhinOS and custom apps for web and desktop) and programming for embedded systems (Altera, Xilinx, Arduino, Raspberry Pi and Trio Motion).
+- In the Wide Spectrum Software Solutions business project, I directed the [SaltOS https://github.com/josepsanzcamp/SaltOS/] and [RhinOS https://github.com/josepsanzcamp/RhinOS/] projects, as well as their release under the GPL-3.0 license, currently I continue developing on these projects.
+- I have been a member of the board of directors of CatPL, the association of Catalan Free Software Companies, and I have given talks on free software.
+- I have worked in research environments such as the Institut d’Estudis Espacials de Catalunya and the Univ. Politècnica de Catalunya, Dept. of Applied Physics.
+- In the last years I have carried out tasks of optimization and automation of processes in the logistics sector, using algorithms such as STRIPS and languages such as PDDL.
+- I have published a repository at [github https://github.com/josepsanzcamp/gralla/] with a web of scores and audios for gralla at [gralla.josepsanz.net https://gralla.josepsanz.net]
+- I have also contributed to free software projects such as phpMyAdmin, Mroonga, MuseScore, PHP, jQuery-UI, jquery-timepicker, TCPDF, WarnockPDF, root-ro, handsontable, masonry, hhvm, jGrowl, sqlite-for-piwik, webapp-xul-wrapper, php-osx, jsmin-php, jquery-grab-bag, pdf.js, Columnizer-jQuery-Plugin
 
 
 +Languages+
