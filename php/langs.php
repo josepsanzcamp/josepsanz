@@ -42,12 +42,20 @@ $labels = [
         "moreinfo" => "Más información:",
         "close" => "Cerrar",
         "portfolios" => [
+            "saltos4" => [
+                "image" => "img/portfolio_saltos4.png",
+                "title" => "SaltOS 4",
+                "description" => "SaltOS4 es un sistema ERP + CRM ligero y modular, diseñado para ofrecer control total, soporte offline y máxima trazabilidad. Está construido a partir de un conjunto de aplicaciones que trabajan juntas de forma integrada. Cada registro está versionado, se registra el acceso y los datos se pueden exportar fácilmente. Con acceso completo vía REST y CLI, definiciones de apps basadas en YAML y gestión automática de base de datos, SaltOS4 da a los desarrolladores y equipos el control total sobre sus herramientas y sus datos.",
+                "links" => [
+                    "www.saltos.org" => "http://www.saltos.org",
+                    "github.com" => "https://github.com/josepsanzcamp/SaltOS4",
+                ]
+            ],
             "saltos" => [
                 "image" => "img/portfolio_saltos.png",
                 "title" => "SaltOS",
                 "description" => "SaltOS es la solución 100% Cloud Computing de Gestión Empresarial. Integra las funcionalidades de CRM y ERP. Además está licenciado como software libre bajo la licencia GPL-3.0.",
                 "links" => [
-                    "www.saltos.org" => "http://www.saltos.org",
                     "github.com" => "https://github.com/josepsanzcamp/SaltOS",
                     "sourceforge.net" => "https://sourceforge.net/projects/saltos/",
                 ]
@@ -128,12 +136,20 @@ $labels = [
         "moreinfo" => "More information:",
         "close" => "Close",
         "portfolios" => [
+            "saltos4" => [
+                "image" => "img/portfolio_saltos4.png",
+                "title" => "SaltOS 4",
+                "description" => "SaltOS4 is a lightweight, modular ERP + CRM system designed for full control, offline support, and maximum traceability. It's built from a collection of applications that work together seamlessly. Each record is versioned, access is tracked, and the data can be easily exported. With full REST and CLI access, YAML-based app definitions, and automatic database management, SaltOS4 gives developers and teams full ownership of their tools and their data.",
+                "links" => [
+                    "www.saltos.org" => "http://www.saltos.org",
+                    "github.com" => "https://github.com/josepsanzcamp/SaltOS4",
+                ]
+            ],
             "saltos" => [
                 "image" => "img/portfolio_saltos.png",
                 "title" => "SaltOS",
                 "description" => "SaltOS is the Business Management solution 100% Cloud Computing. It integrates features like CRM and ERP. Moreover is it licensed as 100% free software GPL-3.0.",
                 "links" => [
-                    "www.saltos.org" => "http://www.saltos.org",
                     "github.com" => "https://github.com/josepsanzcamp/SaltOS",
                     "sourceforge.net" => "https://sourceforge.net/projects/saltos/",
                 ]
@@ -214,12 +230,20 @@ $labels = [
         "moreinfo" => "Més informació:",
         "close" => "Tancar",
         "portfolios" => [
+            "saltos4" => [
+                "image" => "img/portfolio_saltos4.png",
+                "title" => "SaltOS 4",
+                "description" => "SaltOS4 és un sistema ERP + CRM lleuger i modular, dissenyat per oferir control total, suport offline i màxima traçabilitat. Està construït a partir d’un conjunt d’aplicacions que treballen de forma integrada. Cada registre està versionat, es registra l'accés i les dades es poden exportar fàcilment. Amb accés complet via REST i CLI, definicions d’apps basades en YAML i gestió automàtica de la base de dades, SaltOS4 dona als desenvolupadors i equips el control total sobre les seves eines i les seves dades.",
+                "links" => [
+                    "www.saltos.org" => "http://www.saltos.org",
+                    "github.com" => "https://github.com/josepsanzcamp/SaltOS4",
+                ]
+            ],
             "saltos" => [
                 "image" => "img/portfolio_saltos.png",
                 "title" => "SaltOS",
                 "description" => "SaltOS és la solució 100% Cloud Computing de Gestió Empresarial. Integra les funcionalitats de CRM i ERP. A més està llicenciat com a programari lliure sota la llicència GPL-3.0.",
                 "links" => [
-                    "www.saltos.org" => "http://www.saltos.org",
                     "github.com" => "https://github.com/josepsanzcamp/SaltOS",
                     "sourceforge.net" => "https://sourceforge.net/projects/saltos/",
                 ]
