@@ -10,26 +10,28 @@
 • Cicles Formatius de grau superior de Desenvolupament d’Aplicacions Informàtiques.
 • Títol de FP-II de tècnic electrònic de telecomunicacions.
 3. Experiència professional
-3.1. European Home Deliveries (Des de 2024)
+3.1. AIRBUS DS GEO SG, S.A. (Des de 2025)
+Full Stack Software Engineer
+3.2. European Home Deliveries (2024-2025)
 Desenvolupaments per a entorns GNU/Linux i integració de SaltOS 4 a totes les àrees de negoci:
 • Integració de SaltOS 4 a totes les àrees de negoci de la companyia.
-3.2. Professional independent (Des de 2022)
+3.3. Professional independent (2022-2025)
 Desenvolupaments per a entorns GNU/Linux i evolutius en els projectes SaltOS i RhinOS:
 • Evolutius de RhinOS i SaltOS per a la seva execució a les darreres versions de PHP + actualitzacions
 de les llibreries de tercers.
 • Desenvolupament del nou framework SaltOS 4: backend en PHP, frontend en JavaScript, API ba-
 sada en peticions REST i JSON.
 • Migració de SaltOS Server de CentOS 7 a les darreres versions de Debian.
-3.3. AB Custom Transports & Logistics, S.L. (2019-2022)
+3.4. AB Custom Transports & Logistics, S.L. (2019-2022)
 Desenvolupaments per a entorns GNU/Linux i integració de SaltOS a totes les àrees de negoci:
+4
 • Aplicació mòbil d’última milla per als xofers, per operar fins i tot sense internet.
 • Optimització de rutes mitjançant IA i gestió de cites online.
 • Integració de SaltOS a totes les àrees de negoci de la companyia.
-4
 • Connexió de SaltOS amb l’antic ERP de la companyia (SQLServer).
 • Sistemes de reconeixement de documentació fent servir OCR, codis de barra i codis QR.
 • Automatització de processos fent servir sistemes encastats basats en Raspberry Pi.
-3.4. Institut d’Estudis Espacials de Catalunya (2011-2019)
+3.5. Institut d’Estudis Espacials de Catalunya (2011-2019)
 Desenvolupaments per a entorns GNU/Linux per a control robòtic de telescopis:
 • Desenvolupament de OpenROCS 2.0 (llicència GPL-3.0), programari de control per als telescopis
 TJO i SQT.
@@ -38,31 +40,31 @@ per al ICE i del portal www.ieec.cat per l’IEEC.
 • Desenvolupament de MUR: software online per a l’enviament de propostes astronòmiques.
 • Fork del projecte IndiCCD per al control de múltiples càmeres Andor.
 • Interfície i sistema de control per al telescopi SQT, la càmera Allsky i el telescopi IEEC-CSIC.
-3.5. Wide Spectrum Software Solutions (2007-2011 en Dept. R+D)
+3.6. Wide Spectrum Software Solutions (2007-2011 en Dept. R+D)
 Desenvolupaments per a entorns GNU/Linux, MONO, Firmware, PDAs i WEB:
 • Desenvolupament i alliberament sota GPL-3.0 dels projectes SaltOS i RhinOS.
 • Projecte per NTE/ESA per fer el unit-test d’una part del projecte LISA Pathfinder.
 • Projecte per l’IEEC per fer millores en el projecte GOLD-RTR (v2 i v3).
 • Multiples projectes web (portals i botigues online) per a diversos clients.
-3.6. Enfasystem (2006-2007 en Dept. R+D)
+3.7. Enfasystem (2006-2007 en Dept. R+D)
 Desenvolupaments per a entorns WEB basats en LAMP (Linux+Apache+MySQL+PHP):
 • Millores del tauler de control del ’admin’
 • Desenvolupament del projecte ’mecano’
 • Desenvolupament del projecte DBMailer
 • Diverses col·laboracions amb l’IEEC per als projectes PARIS i GOLD-RTR
-3.7. Ingeniería de la Información, IN2 (2005-2006 com a cap d’equip)
+3.8. Ingeniería de la Información, IN2 (2005-2006 com a cap d’equip)
 Desenvolupament de software per a entorns GNU/Linux i Windows CE.
 • Ús d’eines de seguretat com Snort.
+5
 • Programació de dispositius mòbils utilitzant MVC++ 3.0 per a PDAs
 • Programació en C++, PHP, .NET
 • Ús de SGBD com MySQL, ORACLE
-5
-3.8. Institut d’Estudis Espacials de Catalunya (2001-2005)
+3.9. Institut d’Estudis Espacials de Catalunya (2001-2005)
 Desenvolupament de software per a entorns UNIX.
 • Disseny i implementació de maquinari i drivers.
 • Planificació i implementació de programari per a diversos projectes.
 • Programació en C amb GTK, Tcl/Tk, tcsh sobre entorns Unix.
-3.9. Univ. Politècnica de Catalunya, Dept. de Física Aplicada (1999-2001)
+3.10. Univ. Politècnica de Catalunya, Dept. de Física Aplicada (1999-2001)
 Administració de sistemes Unix i Windows
 • Implementació de sistemes de seguretat de xarxes (SSL)
 • Auditories de seguretat dels sistemes informàtics del departament
@@ -88,12 +90,12 @@ Lliure i he impartit xerrades sobre programari lliure.
 Politècnica de Catalunya, Dept de Física Aplicada.
 • En els darrers anys he realitzat tasques d’optimització i automatització de processos al sector
 logístic, usant algoritmes com STRIPS i llenguatges com PDDL.
+6
 • He publicat un repositori a github amb una web de partitures i àudios per a gralla a gralla.josepsanz.net
 • També he fet contribucions en projectes de programari lliure com phpMyAdmin, Mroonga, Mu-
 seScore, PHP, jQuery-UI, jquery-timepicker, TCPDF, WarnockPDF, root-ro, handsontable, masonry,
 hhvm, jGrowl, sqlite-for-piwik, webapp-xul-wrapper, php-osx, jsmin-php, jquery-grab-bag, pdf.js,
 Columnizer-jQuery-Plugin
-6
 5. Idiomes
 • Castellà natiu (llegit, escrit i parlat).
 • Català natiu (nivell C, llegit, escrit i parlat).
