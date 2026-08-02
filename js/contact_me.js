@@ -1,75 +1,57 @@
-$(function() {
+"use strict";
 
-	$("#contactForm input,#contactForm textarea").jqBootstrapValidation({
-		preventSubmit: true,
-		submitError: function($form, event, errors) {
-			// additional error messages or events
-		},
-		submitSuccess: function($form, event) {
-			event.preventDefault(); // prevent default submit behaviour
-			// get values from FORM
-			var name = $("input#name").val();
-			var email = $("input#email").val();
-			var phone = $("input#phone").val();
-			var message = $("textarea#message").val();
-			var firstName = name; // For Success/Failure Message
-			// Check for white space in name for Success/Fail message
-			if (firstName.indexOf(' ') >= 0) {
-				firstName = name.split(' ').slice(0, -1).join(' ');
+(function () {
+	var form = document.getElementById("contactForm");
+	if (!form) {
+		return;
+	}
+
+	var success = document.getElementById("success");
+	var button = document.getElementById("sendMessageButton");
+
+	function notice(kind, message) {
+		success.innerHTML = "";
+		var div = document.createElement("div");
+		div.className = "notice " + kind;
+		div.textContent = message;
+		success.appendChild(div);
+	}
+
+	form.addEventListener("submit", function (event) {
+		event.preventDefault();
+
+		if (!form.reportValidity()) {
+			return;
+		}
+
+		var data = new URLSearchParams({
+			name: form.name.value,
+			email: form.email.value,
+			phone: form.phone.value,
+			message: form.message.value
+		});
+
+		button.disabled = true;
+
+		fetch("https://contactme.saltos.org/php/contact_me.php", {
+			method: "POST",
+			body: data
+		}).then(function (response) {
+			if (!response.ok) {
+				throw new Error("bad response");
 			}
-			$this = $("#sendMessageButton");
-			$this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
-			$.ajax({
-				url: "https://contactme.saltos.org/php/contact_me.php",
-				type: "POST",
-				data: {
-					name: name,
-					phone: phone,
-					email: email,
-					message: message
-				},
-				cache: false,
-				success: function() {
-					// Success message
-					$('#success').html("<div class='alert alert-success'>");
-					$('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
-						.append("</button>");
-					$('#success > .alert-success')
-						.append("<strong>"+$("#contactForm").attr("data-validation-ok-message")+"</strong>");
-					$('#success > .alert-success')
-						.append('</div>');
-					//clear all fields
-					$('#contactForm').trigger("reset");
-				},
-				error: function() {
-					// Fail message
-					$('#success').html("<div class='alert alert-danger'>");
-					$('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
-						.append("</button>");
-					$('#success > .alert-danger').append("<strong>"+$("#contactForm").attr("data-validation-ko-message")+"</strong>");
-					$('#success > .alert-danger').append('</div>');
-					//clear all fields
-					$('#contactForm').trigger("reset");
-				},
-				complete: function() {
-					setTimeout(function() {
-						$this.prop("disabled", false); // Re-enable submit button when AJAX call is complete
-					}, 1000);
-				}
-			});
-		},
-		filter: function() {
-			return $(this).is(":visible");
-		},
+			notice("ok", form.getAttribute("data-validation-ok-message"));
+			form.reset();
+		}).catch(function () {
+			notice("ko", form.getAttribute("data-validation-ko-message"));
+		}).finally(function () {
+			setTimeout(function () {
+				button.disabled = false;
+			}, 1000);
+		});
 	});
 
-	$("a[data-toggle=\"tab\"]").click(function(e) {
-		e.preventDefault();
-		$(this).tab("show");
+	form.name.addEventListener("focus", function () {
+		success.innerHTML = "";
 	});
-});
-
-/*When clicking on Full hide fail/success boxes */
-$('#name').focus(function() {
-	$('#success').html('');
-});
+})();

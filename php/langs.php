@@ -20,7 +20,7 @@ $labels = [
         "skills" => "Soy desarrollador de software y un apasionado de la tecnología",
         "myportfolio" => "Mis proyectos",
         "aboutme" => "Mi currículum vitae",
-        "downloadtext" => "Descargar currículum vitae completo",
+        "downloadtext" => "Descargar currículum",
         "download_img" => glob("pdf/cv_josep_sanz_spanish_preview-*.png"),
         "download_txt" => "pdf/cv_josep_sanz_spanish_preview.txt",
         "downloadlink_ca" => "pdf/cv_josep_sanz_catalan_full.pdf",
@@ -42,37 +42,21 @@ $labels = [
         "moreinfo" => "Más información:",
         "close" => "Cerrar",
         "portfolios" => [
-            "saltos4" => [
-                "image" => "img/portfolio_saltos4.png",
-                "title" => "SaltOS 4",
-                "description" => "SaltOS4 es un sistema ERP + CRM ligero y modular, diseñado para ofrecer control total, soporte offline y máxima trazabilidad. Está construido a partir de un conjunto de aplicaciones que trabajan juntas de forma integrada. Cada registro está versionado, se registra el acceso y los datos se pueden exportar fácilmente. Con acceso completo vía REST y CLI, definiciones de apps basadas en YAML y gestión automática de base de datos, SaltOS4 da a los desarrolladores y equipos el control total sobre sus herramientas y sus datos.",
-                "links" => [
-                    "www.saltos.org" => "http://www.saltos.org",
-                    "github.com" => "https://github.com/josepsanzcamp/SaltOS4",
-                ]
-            ],
             "saltos" => [
                 "image" => "img/portfolio_saltos.png",
                 "title" => "SaltOS",
-                "description" => "SaltOS es la solución 100% Cloud Computing de Gestión Empresarial. Integra las funcionalidades de CRM y ERP. Además está licenciado como software libre bajo la licencia GPL-3.0.",
+                "description" => "SaltOS es la solución de gestión empresarial (CRM + ERP) 100% software libre bajo licencia GPL-3.0. La versión 4 es la reescritura modular actual: backend en PHP, frontend en JavaScript, control total, soporte offline y trazabilidad completa, con acceso vía REST y CLI y definiciones de apps en YAML.",
                 "links" => [
-                    "github.com" => "https://github.com/josepsanzcamp/SaltOS",
-                    "sourceforge.net" => "https://sourceforge.net/projects/saltos/",
-                ]
-            ],
-            "rhinos" => [
-                "image" => "img/portfolio_rhinos.png",
-                "title" => "RhinOS",
-                "description" => "RhinOS es la herramienta perfecta para construir un portal web profesional, administrado de manera fácil y ágil sin necesidad de tener conocimientos técnicos. Además está licenciado como software libre bajo la licencia GPL-3.0.",
-                "links" => [
-                    "github.com" => "https://github.com/josepsanzcamp/RhinOS",
-                    "sourceforge.net" => "http://sourceforge.net/projects/rhinos",
+                    "www.saltos.org" => "http://www.saltos.org",
+                    "github.com (v4)" => "https://github.com/josepsanzcamp/SaltOS4",
+                    "github.com (v3)" => "https://github.com/josepsanzcamp/SaltOS",
+                    "sourceforge.net (v3)" => "https://sourceforge.net/projects/saltos/",
                 ]
             ],
             "openrocs" => [
                 "image" => "img/portfolio_openrocs.png",
                 "title" => "OpenROCS v2.0",
-                "description" => "OpenROCS conforms an independent control layer for robotic observatories. It is a master scheduler of the processes that the system has to execute and a monitor of the overall state of the observatory. It controls the end-to-end data flow and the housekeeping processes by handling a set of predefined events. The former are responsible for ensuring that the system executes the routine operation by maximizing the scientific return of the facility. While the latter consider all those anomalous situations that could put the observatory at risk and activate corrective or mitigation actions. All the applications running at the observatory and the hardware components interact with it. It is released under GNU/GPL public license.",
+                "description" => "OpenROCS es una capa de control independiente para observatorios robóticos: un planificador maestro que ejecuta la operación rutinaria para maximizar el rendimiento científico, mientras vigila y reacciona ante situaciones anómalas que podrían poner en riesgo la instalación. Todas las aplicaciones y componentes del observatorio interactúan con él. Publicado bajo licencia GNU/GPL.",
                 "links" => [
                     "github.com" => "https://github.com/josepsanzcamp/OpenROCS",
                     "sourceforge.net" => "http://sourceforge.net/projects/openrocs",
@@ -88,10 +72,19 @@ $labels = [
                     "github.com" => "https://github.com/josepsanzcamp/gralla",
                 ]
             ],
+            "rhinos" => [
+                "image" => "img/portfolio_rhinos.png",
+                "title" => "RhinOS",
+                "description" => "RhinOS es la herramienta perfecta para construir un portal web profesional, administrado de manera fácil y ágil sin necesidad de tener conocimientos técnicos. Nacido del mismo proyecto que SaltOS, sigue recibiendo actualizaciones para funcionar con las últimas versiones de PHP. Licenciado como software libre bajo GPL-3.0.",
+                "links" => [
+                    "github.com" => "https://github.com/josepsanzcamp/RhinOS",
+                    "sourceforge.net" => "http://sourceforge.net/projects/rhinos",
+                ]
+            ],
             "github" => [
                 "image" => "img/portfolio_github.png",
                 "title" => "GitHub",
-                "description" => "Acceso a todos mis repositorios de GitHub: SaltOS, RhinOS, OpenROCS, gralla, cdesktopenv, covid19, josepsanz, lluisgesa, root-ro, scanner, sqlite-for-piwik",
+                "description" => "Además de los proyectos destacados arriba, en mi perfil de GitHub está el resto de mi código publicado en abierto: SaltOS, RhinOS, OpenROCS, gralla, cdesktopenv, covid19, josepsanz, lluisgesa, root-ro, scanner, sqlite-for-piwik. Todo el histórico de commits disponible para quien quiera curiosear.",
                 "links" => [
                     "github.com" => "https://github.com/josepsanzcamp/?tab=repositories",
                 ]
@@ -136,37 +129,21 @@ $labels = [
         "moreinfo" => "More information:",
         "close" => "Close",
         "portfolios" => [
-            "saltos4" => [
-                "image" => "img/portfolio_saltos4.png",
-                "title" => "SaltOS 4",
-                "description" => "SaltOS4 is a lightweight, modular ERP + CRM system designed for full control, offline support, and maximum traceability. It's built from a collection of applications that work together seamlessly. Each record is versioned, access is tracked, and the data can be easily exported. With full REST and CLI access, YAML-based app definitions, and automatic database management, SaltOS4 gives developers and teams full ownership of their tools and their data.",
-                "links" => [
-                    "www.saltos.org" => "http://www.saltos.org",
-                    "github.com" => "https://github.com/josepsanzcamp/SaltOS4",
-                ]
-            ],
             "saltos" => [
                 "image" => "img/portfolio_saltos.png",
                 "title" => "SaltOS",
-                "description" => "SaltOS is the Business Management solution 100% Cloud Computing. It integrates features like CRM and ERP. Moreover is it licensed as 100% free software GPL-3.0.",
+                "description" => "SaltOS is a 100% free (GPL-3.0) business management solution combining CRM and ERP. Version 4 is the current modular rewrite: PHP backend, JavaScript frontend, full REST/CLI access, YAML-based app definitions, offline support and complete record traceability.",
                 "links" => [
-                    "github.com" => "https://github.com/josepsanzcamp/SaltOS",
-                    "sourceforge.net" => "https://sourceforge.net/projects/saltos/",
-                ]
-            ],
-            "rhinos" => [
-                "image" => "img/portfolio_rhinos.png",
-                "title" => "RhinOS",
-                "description" => "RhinOS is a perfect tool for building a professional website, and manage it in a easy and dynamic way without needing technical knowledge. Its license is 100% free software based GPL-3.0.",
-                "links" => [
-                    "github.com" => "https://github.com/josepsanzcamp/RhinOS",
-                    "sourceforge.net" => "http://sourceforge.net/projects/rhinos",
+                    "www.saltos.org" => "http://www.saltos.org",
+                    "github.com (v4)" => "https://github.com/josepsanzcamp/SaltOS4",
+                    "github.com (v3)" => "https://github.com/josepsanzcamp/SaltOS",
+                    "sourceforge.net (v3)" => "https://sourceforge.net/projects/saltos/",
                 ]
             ],
             "openrocs" => [
                 "image" => "img/portfolio_openrocs.png",
                 "title" => "OpenROCS v2.0",
-                "description" => "OpenROCS conforms an independent control layer for robotic observatories. It is a master scheduler of the processes that the system has to execute and a monitor of the overall state of the observatory. It controls the end-to-end data flow and the housekeeping processes by handling a set of predefined events. The former are responsible for ensuring that the system executes the routine operation by maximizing the scientific return of the facility. While the latter consider all those anomalous situations that could put the observatory at risk and activate corrective or mitigation actions. All the applications running at the observatory and the hardware components interact with it. It is released under GNU/GPL public license.",
+                "description" => "OpenROCS is an independent control layer for robotic observatories: a master scheduler that runs routine operations to maximize scientific return, while monitoring and reacting to anomalous situations that could put the facility at risk. Every application and hardware component at the observatory interacts with it. Released under the GNU/GPL license.",
                 "links" => [
                     "github.com" => "https://github.com/josepsanzcamp/OpenROCS",
                     "sourceforge.net" => "http://sourceforge.net/projects/openrocs",
@@ -182,10 +159,19 @@ $labels = [
                     "github.com" => "https://github.com/josepsanzcamp/gralla",
                 ]
             ],
+            "rhinos" => [
+                "image" => "img/portfolio_rhinos.png",
+                "title" => "RhinOS",
+                "description" => "RhinOS is the perfect tool for building a professional website, managed in an easy and dynamic way without needing technical knowledge. Born from the same project as SaltOS, it still receives updates to keep running on the latest PHP releases. Released under the GPL-3.0 free software license.",
+                "links" => [
+                    "github.com" => "https://github.com/josepsanzcamp/RhinOS",
+                    "sourceforge.net" => "http://sourceforge.net/projects/rhinos",
+                ]
+            ],
             "github" => [
                 "image" => "img/portfolio_github.png",
                 "title" => "GitHub",
-                "description" => "Access to all my GitHub repositories: SaltOS, RhinOS, OpenROCS, gralla, cdesktopenv, covid19, josepsanz, lluisgesa, root-ro, scanner, sqlite-for-piwik",
+                "description" => "Beyond the projects highlighted above, my GitHub profile holds the rest of my open-source code: SaltOS, RhinOS, OpenROCS, gralla, cdesktopenv, covid19, josepsanz, lluisgesa, root-ro, scanner, sqlite-for-piwik. The full commit history is there for anyone curious enough to dig in.",
                 "links" => [
                     "github.com" => "https://github.com/josepsanzcamp/?tab=repositories",
                 ]
@@ -208,7 +194,7 @@ $labels = [
         "skills" => "Sóc desenvolupador de software i un apassionat de la tecnologia",
         "myportfolio" => "Els meus projectes",
         "aboutme" => "El meu currículum vitae",
-        "downloadtext" => "Descarregar currículum vitae complet",
+        "downloadtext" => "Descarregar currículum",
         "download_img" => glob("pdf/cv_josep_sanz_catalan_preview-*.png"),
         "download_txt" => "pdf/cv_josep_sanz_catalan_preview.txt",
         "downloadlink_ca" => "pdf/cv_josep_sanz_catalan_full.pdf",
@@ -230,37 +216,21 @@ $labels = [
         "moreinfo" => "Més informació:",
         "close" => "Tancar",
         "portfolios" => [
-            "saltos4" => [
-                "image" => "img/portfolio_saltos4.png",
-                "title" => "SaltOS 4",
-                "description" => "SaltOS4 és un sistema ERP + CRM lleuger i modular, dissenyat per oferir control total, suport offline i màxima traçabilitat. Està construït a partir d’un conjunt d’aplicacions que treballen de forma integrada. Cada registre està versionat, es registra l'accés i les dades es poden exportar fàcilment. Amb accés complet via REST i CLI, definicions d’apps basades en YAML i gestió automàtica de la base de dades, SaltOS4 dona als desenvolupadors i equips el control total sobre les seves eines i les seves dades.",
-                "links" => [
-                    "www.saltos.org" => "http://www.saltos.org",
-                    "github.com" => "https://github.com/josepsanzcamp/SaltOS4",
-                ]
-            ],
             "saltos" => [
                 "image" => "img/portfolio_saltos.png",
                 "title" => "SaltOS",
-                "description" => "SaltOS és la solució 100% Cloud Computing de Gestió Empresarial. Integra les funcionalitats de CRM i ERP. A més està llicenciat com a programari lliure sota la llicència GPL-3.0.",
+                "description" => "SaltOS és la solució de gestió empresarial (CRM + ERP) 100% programari lliure sota llicència GPL-3.0. La versió 4 és la reescriptura modular actual: backend en PHP, frontend en JavaScript, control total, suport offline i traçabilitat completa, amb accés via REST i CLI i definicions d'apps en YAML.",
                 "links" => [
-                    "github.com" => "https://github.com/josepsanzcamp/SaltOS",
-                    "sourceforge.net" => "https://sourceforge.net/projects/saltos/",
-                ]
-            ],
-            "rhinos" => [
-                "image" => "img/portfolio_rhinos.png",
-                "title" => "RhinOS",
-                "description" => "Rhinos és l'eina perfecta per construir un portal web professional, administrat de manera fàcil i àgil sense necessitat de tenir coneixements tècnics. A més està llicenciat com a programari lliure sota la llicència GPL-3.0.",
-                "links" => [
-                    "github.com" => "https://github.com/josepsanzcamp/RhinOS",
-                    "sourceforge.net" => "http://sourceforge.net/projects/rhinos",
+                    "www.saltos.org" => "http://www.saltos.org",
+                    "github.com (v4)" => "https://github.com/josepsanzcamp/SaltOS4",
+                    "github.com (v3)" => "https://github.com/josepsanzcamp/SaltOS",
+                    "sourceforge.net (v3)" => "https://sourceforge.net/projects/saltos/",
                 ]
             ],
             "openrocs" => [
                 "image" => "img/portfolio_openrocs.png",
                 "title" => "OpenROCS v2.0",
-                "description" => "OpenROCS conforms an independent control layer for robotic observatories. It is a master scheduler of the processes that the system has to execute and a monitor of the overall state of the observatory. It controls the end-to-end data flow and the housekeeping processes by handling a set of predefined events. The former are responsible for ensuring that the system executes the routine operation by maximizing the scientific return of the facility. While the latter consider all those anomalous situations that could put the observatory at risk and activate corrective or mitigation actions. All the applications running at the observatory and the hardware components interact with it. It is released under GNU/GPL public license.",
+                "description" => "OpenROCS és una capa de control independent per a observatoris robòtics: un planificador mestre que executa l'operació rutinària per maximitzar el rendiment científic, mentre vigila i reacciona davant situacions anòmales que podrien posar en risc la instal·lació. Totes les aplicacions i components de l'observatori hi interactuen. Publicat sota llicència GNU/GPL.",
                 "links" => [
                     "github.com" => "https://github.com/josepsanzcamp/OpenROCS",
                     "sourceforge.net" => "http://sourceforge.net/projects/openrocs",
@@ -276,10 +246,19 @@ $labels = [
                     "github.com" => "https://github.com/josepsanzcamp/gralla",
                 ]
             ],
+            "rhinos" => [
+                "image" => "img/portfolio_rhinos.png",
+                "title" => "RhinOS",
+                "description" => "RhinOS és l'eina perfecta per construir un portal web professional, administrat de manera fàcil i àgil sense necessitat de tenir coneixements tècnics. Nascut del mateix projecte que SaltOS, encara rep actualitzacions per funcionar amb les últimes versions de PHP. Llicenciat com a programari lliure sota GPL-3.0.",
+                "links" => [
+                    "github.com" => "https://github.com/josepsanzcamp/RhinOS",
+                    "sourceforge.net" => "http://sourceforge.net/projects/rhinos",
+                ]
+            ],
             "github" => [
                 "image" => "img/portfolio_github.png",
                 "title" => "GitHub",
-                "description" => "Accés a tots els meus repositoris de GitHub: SaltOS, RhinOS, OpenROCS, gralla, cdesktopenv, covid19, josepsanz, lluisgesa, root-ro, scanner, sqlite-for-piwik",
+                "description" => "A més dels projectes destacats a dalt, al meu perfil de GitHub hi ha la resta del meu codi publicat en obert: SaltOS, RhinOS, OpenROCS, gralla, cdesktopenv, covid19, josepsanz, lluisgesa, root-ro, scanner, sqlite-for-piwik. Tot l'historial de commits disponible per a qui vulgui tafanejar.",
                 "links" => [
                     "github.com" => "https://github.com/josepsanzcamp/?tab=repositories",
                 ]
