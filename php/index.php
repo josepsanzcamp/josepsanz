@@ -116,16 +116,22 @@
                         <h2><?php echo $labels[$lang]["aboutme"]; ?></h2>
                     </div>
 
-                    <div class="cv-stack">
-                        <?php foreach ($labels[$lang]["download_img"] as $image) { ?>
-                            <?php $size = getimagesize($image);
-                                $width = $size[0];
-                                $height = $size[1]; ?>
-                            <div class="cv-page">
-                                <img src="<?php echo $image . "?" . md5_file($image); ?>" alt="<?php echo $labels[$lang]["aboutme"]; ?>"
-                                    loading="lazy" width="<?php echo $width; ?>" height="<?php echo $height; ?>" />
-                            </div>
-                        <?php } ?>
+                    <div class="cv-doc">
+                        <?php
+                            $cv_html = file_get_contents($labels[$lang]["download_html"]);
+                            if (!str_contains($cv_html, "</div>")) {
+                                $cv_html .= "</div>";
+                            }
+                            // Wrap the personal-data list and the profile photo together so the
+                            // photo can be vertically centered against the list, as in the PDF.
+                            $cv_html = preg_replace(
+                                '#(<h1>1\.[^<]*</h1>)\s*(<ul>.*?</ul>)\s*<p>\s*(<img[^>]*foto_josep_sanz_small\.png[^>]*>)\s*</p>#s',
+                                '$1<div class="cv-hero">$2$3</div>',
+                                $cv_html,
+                                1
+                            );
+                            echo $cv_html;
+                        ?>
                     </div>
 
                     <div class="btn-row">

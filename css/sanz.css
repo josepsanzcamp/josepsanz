@@ -34,10 +34,6 @@
 		--sidebar-sub: #7c8595;
 		--focus: #4f8ef7;
 	}
-
-	.cv-page img {
-		filter: invert(.9) hue-rotate(180deg);
-	}
 }
 
 * {
@@ -291,24 +287,106 @@ img {
 	margin-top: 1.75rem;
 }
 
-/* ===================== perfil: CV page stack ===================== */
+/* ===================== perfil: CV document ===================== */
 
-.cv-stack {
-	display: flex;
-	flex-direction: column;
-	gap: 1.1rem;
-}
-
-.cv-page {
+.cv-doc {
+	background: var(--card);
 	border: 1px solid var(--line);
 	border-radius: 10px;
-	overflow: hidden;
 	box-shadow: 0 1px 3px rgba(16, 24, 40, .06);
-	background: var(--card);
+	padding: 2rem clamp(1.25rem, 4vw, 2rem);
 }
 
-.cv-page img {
-	width: 100%;
+.cv-doc section {
+	margin-bottom: 2rem;
+}
+
+.cv-doc section:last-child {
+	margin-bottom: 0;
+}
+
+.cv-doc h1 {
+	display: flex;
+	align-items: center;
+	gap: .75rem;
+	font-size: 1.05rem;
+	font-weight: 800;
+	color: var(--blue);
+	letter-spacing: -.01em;
+	margin: 0 0 1rem;
+}
+
+.cv-doc h1::after {
+	content: "";
+	flex: 1;
+	height: 2px;
+	background: var(--ink);
+}
+
+.cv-doc h2 {
+	display: flex;
+	align-items: center;
+	gap: .6rem;
+	font-size: .95rem;
+	font-weight: 700;
+	color: var(--blue);
+	margin: 1.5rem 0 .6rem;
+}
+
+.cv-doc h2::after {
+	content: "";
+	flex: 1;
+	height: 2px;
+	background: var(--ink);
+}
+
+.cv-doc section section:first-of-type h2 {
+	margin-top: 0;
+}
+
+.cv-doc p {
+	color: var(--sub);
+	line-height: 1.6;
+	margin: 0 0 .85rem;
+	padding-left: 1.5rem;
+}
+
+.cv-doc ul {
+	margin: 0 0 .85rem;
+	padding-left: 2.5rem;
+}
+
+.cv-doc li {
+	color: var(--sub);
+	line-height: 1.6;
+	margin-bottom: .4rem;
+}
+
+.cv-doc li::marker {
+	color: var(--blue);
+}
+
+.cv-doc a {
+	color: var(--blue);
+}
+
+.cv-hero {
+	display: flex;
+	align-items: center;
+	gap: 1.5rem;
+	margin-bottom: .85rem;
+}
+
+.cv-hero ul {
+	flex: 1;
+	min-width: 0;
+	margin: 0;
+}
+
+.cv-hero img.center {
+	flex: 0 0 auto;
+	max-width: 160px;
+	border-radius: 10px;
 }
 
 /* ===================== proyectos ===================== */
@@ -518,6 +596,12 @@ img {
 }
 
 /* ===================== responsive ===================== */
+
+@media (max-width: 600px) {
+	.cv-hero img.center {
+		display: none;
+	}
+}
 
 @media (max-width: 880px) {
 	.layout {
