@@ -298,7 +298,7 @@ img {
 }
 
 .cv-doc section {
-	margin-bottom: 2rem;
+	margin-bottom: 1.5rem;
 }
 
 .cv-doc section:last-child {
@@ -313,7 +313,7 @@ img {
 	font-weight: 800;
 	color: var(--blue);
 	letter-spacing: -.01em;
-	margin: 0 0 2rem;
+	margin: 0 0 1.5rem;
 }
 
 .cv-doc h1::after {
@@ -330,7 +330,7 @@ img {
 	font-size: .95rem;
 	font-weight: 700;
 	color: var(--blue);
-	margin: 2rem 0 2rem;
+	margin: 1.5rem 0 1.5rem;
 }
 
 .cv-doc h2::after {
@@ -394,7 +394,7 @@ img {
 .list {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
-	gap: 1.25rem;
+	gap: 1.75rem;
 	align-items: start;
 }
 
@@ -421,10 +421,10 @@ img {
 }
 
 .project-card .body {
-	padding: 1rem 1.15rem 1.15rem;
+	padding: 1.3rem 1.4rem 1.4rem;
 	display: flex;
 	flex-direction: column;
-	gap: .5rem;
+	gap: .65rem;
 	flex: 1;
 }
 
