@@ -26,10 +26,11 @@ foreach ($files as $file) {
         "\\usepackage[T1]{fontenc}",
         "\\usepackage[$babel]{babel}",
         "\\usepackage{ucs}",
-        "\\usepackage[utf8x]{inputenc}",
+        //~ "\\usepackage[utf8x]{inputenc}",
         "\\usepackage{eurosym}",
         "\\usepackage{sans}",
-        "\\usepackage{fullpage}",
+        //~ "\\usepackage{fullpage}",
+        '\\usepackage[a4paper,margin=1cm,includefoot,footskip=1cm]{geometry}',
         "\\usepackage{listings}",
         "\\usepackage{xcolor}",
         "\\usepackage{sectsty}",
@@ -51,6 +52,7 @@ foreach ($files as $file) {
         ""
     );
     $buffer2 = array_slice($buffer, 5);
+    $buffer2 = str_replace("\\usepackage[urlcolor=blue,colorlinks=true]{hyperref}", "\\usepackage[urlcolor=myblue,colorlinks=true,linkcolor=myblue]{hyperref}", $buffer2);
     $buffer2 = str_replace("\\begin{verbatim}", "\\begin{lstlisting}", $buffer2);
     $buffer2 = str_replace("\\end{verbatim}", "\\end{lstlisting}", $buffer2);
     $buffer2 = str_replace("\t", str_repeat(" ", 4), $buffer2);
@@ -74,7 +76,7 @@ foreach ($files as $file) {
     while ($pos !== false) {
         $pos2 = strpos($buffer, "}", $pos);
         $data = substr($buffer, $pos + 17, $pos2 - $pos - 17);
-        $latex = "\\includegraphics[width=\\textwidth]{" . $data . "}";
+        $latex = "\\includegraphics[width=0.95\\textwidth]{" . $data . "}";
         if (isset($removeimages) && $removeimages) {
             $latex = "";
         }
@@ -84,7 +86,7 @@ foreach ($files as $file) {
     // CONTINUE
     file_put_contents("${file}.tex", $buffer);
     for ($i = 0; $i < 3; $i++) {
-        exec("pdflatex ${file}.tex");
+        exec("pdflatex -interaction batchmode ${file}.tex");
     }
     $exts = array("aux","log","out","toc","tex");
     foreach ($exts as $ext) {
